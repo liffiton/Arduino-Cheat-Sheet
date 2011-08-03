@@ -7,5 +7,5 @@ It is based on a [cheat sheet by Gavin Smith](http://sites.google.com/site/mecha
 
 Please let me know if you find any errors -- Thanks!
 
-This work is licensed under a (Creative Commons Attribution-ShareAlike 3.0 Unported License)[http://creativecommons.org/licenses/by-sa/3.0/].
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
