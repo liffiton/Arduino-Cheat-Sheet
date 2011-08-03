@@ -1,0 +1,3278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4320"
+   height="3240"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.1 "
+   version="1.0"
+   sodipodi:docname="Arduino Cheat Sheet.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2742"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2894"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2944"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3045"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3095"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3145"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3160"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3174"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3932"
+       inkscape:persp3d-origin="31.949999 : 54.299998 : 1"
+       inkscape:vp_z="63.899998 : 81.449997 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 81.449997 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5101"
+       inkscape:persp3d-origin="132.61501 : 61.679998 : 1"
+       inkscape:vp_z="265.23001 : 92.519997 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 92.519997 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5556"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5556-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5556-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3551"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3909"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6912"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4729"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.18425926"
+     inkscape:cx="2160"
+     inkscape:cy="1620"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1304"
+     inkscape:window-height="746"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="false"
+     inkscape:snap-to-guides="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="52.311739,2788.0743"
+       id="guide8187" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="951.50812,2561.8614"
+       id="guide8189" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="913.33469,2420.4783"
+       id="guide8191" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1783.3638,-122.56796"
+       id="guide8245" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1826.2626,-144.01735"
+       id="guide8247" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3417.9645,1795.3473"
+       id="guide8275" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3461.8804,2061.8119"
+       id="guide8277" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1715.9311,26.358389"
+       id="guide8317" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="4282.0101,3120.603"
+       id="guide8319" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="52.311739,2892.6633"
+       id="guide5258" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1655.2764,2794.9749"
+       id="guide5260" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ombre"
+     style="display:inline"
+     transform="translate(0,2495.9055)" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,2495.9055)">
+    <rect
+       style="fill:#0f7391;fill-opacity:1"
+       id="rect8183"
+       width="4320"
+       height="2944.2405"
+       x="0"
+       y="-2200.146" />
+    <rect
+       rx="50.863422"
+       style="fill:#ffffff;fill-opacity:1;display:inline"
+       id="rect8185-6-0-9-5"
+       width="820.1297"
+       height="2344.5747"
+       x="3461.8804"
+       y="-2148.5688"
+       ry="50.863419" />
+    <rect
+       rx="50.863419"
+       style="fill:#000000;fill-opacity:0.42352941;display:inline"
+       id="rect8185-6-0-9-2"
+       width="1591.7019"
+       height="1137.9647"
+       x="1826.2626"
+       y="-420.22855"
+       ry="50.863422" />
+    <rect
+       rx="50.863422"
+       style="fill:#ffffff;fill-opacity:1;display:inline"
+       id="rect8185-6-0-9"
+       width="1591.7019"
+       height="1671.5984"
+       x="1826.2626"
+       y="-2148.0825"
+       ry="50.863422" />
+    <rect
+       rx="50.863422"
+       style="fill:#ffffff;fill-opacity:1;display:inline"
+       id="rect8185-6-0"
+       width="831.85565"
+       height="1375.3887"
+       x="951.50812"
+       y="-2148.5688"
+       ry="50.863422" />
+    <rect
+       rx="50.863422"
+       style="fill:#ffffff;fill-opacity:1;display:inline"
+       id="rect8185-4"
+       width="1731.052"
+       height="1445.769"
+       x="52.311741"
+       y="-727.31555"
+       ry="50.863422" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect8185"
+       width="861.02295"
+       height="1375.3888"
+       x="52.311741"
+       y="-2148.5688"
+       ry="50.863422"
+       rx="50.863422" />
+    <g
+       id="g3157"
+       transform="translate(-3,13)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3171"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,-173.77699,-2431.3023)"><flowRegion
+         id="flowRegion3173"><rect
+           id="rect3175"
+           width="176.87381"
+           height="198.29932"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara3177"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Control Structures</flowPara><flowPara
+         id="flowPara3179"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3353">if</flowSpan> (x &lt; 5) { ... } <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3355">else</flowSpan> { ... }</flowPara><flowPara
+         id="flowPara3278"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3367">while</flowSpan> (x &lt; 5) { ... }</flowPara><flowPara
+         id="flowPara3280"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3369">do</flowSpan> { ... } <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3371">while </flowSpan>( x &lt; 5);</flowPara><flowPara
+         id="flowPara3282"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">for<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8137"> (int i = 0; i &lt; 10; i++) { ... }</flowSpan></flowPara><flowPara
+         id="flowPara7026"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">break<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8134">;  // exit a loop immediately</flowSpan></flowPara><flowPara
+         id="flowPara8130"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan8132">continue</flowSpan>;  // go to next iteration</flowPara><flowPara
+         id="flowPara3284"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">switch <flowSpan
+   style="font-size:8.14805889px;font-weight:normal;text-align:start;text-anchor:start"
+   id="flowSpan7021">(myVar) {</flowSpan></flowPara><flowPara
+         id="flowPara6999">   case 1:</flowPara><flowPara
+         id="flowPara7001">     ...</flowPara><flowPara
+         id="flowPara7003">     break;</flowPara><flowPara
+         id="flowPara7005">   case 2:</flowPara><flowPara
+         id="flowPara7007">     ...</flowPara><flowPara
+         id="flowPara7009">     break;</flowPara><flowPara
+         id="flowPara7011">   default:</flowPara><flowPara
+         id="flowPara7013">     ...</flowPara><flowPara
+         id="flowPara7017">}</flowPara><flowPara
+         id="flowPara3286"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan6997">return</flowSpan> x; // or &quot;return;&quot; for voids</flowPara><flowPara
+         id="flowPara3266" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2747"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-2800.5802)"><flowRegion
+         id="flowRegion2749"><rect
+           id="rect2751"
+           width="174.70305"
+           height="79.266258"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2753"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Basic Program Structure</flowPara><flowPara
+         id="flowPara2771">void <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan2795">setup</flowSpan>() {</flowPara><flowPara
+         id="flowPara7037">  // runs once when sketch starts</flowPara><flowPara
+         id="flowPara7039">}</flowPara><flowPara
+         id="flowPara7034">void <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan2797">loop</flowSpan>() {</flowPara><flowPara
+         id="flowPara7043">  // runs repeatedly</flowPara><flowPara
+         id="flowPara7041">}</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2801"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,728.14452,-2800.5803)"><flowRegion
+         id="flowRegion2803"><rect
+           id="rect2805"
+           width="170.64256"
+           height="110.25512"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2807"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">General Operators</flowPara><flowPara
+         id="flowPara2863"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6762">=</flowSpan>  (assignment operator)</flowPara><flowPara
+         id="flowPara3080"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6764">+</flowSpan>  (add)        <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6760">-</flowSpan>  (subtract)</flowPara><flowPara
+         id="flowPara3082"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6766">*</flowSpan>  (multiply)   <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6758">/</flowSpan>  (divide)</flowPara><flowPara
+         id="flowPara3084"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6768">%</flowSpan>  (modulo)</flowPara><flowPara
+         id="flowPara3086"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6770">==</flowSpan> (equal to)   <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6754">!=</flowSpan> (not equal to)</flowPara><flowPara
+         id="flowPara3088"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6772">&lt;</flowSpan>  (less than)  <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6756">&gt;</flowSpan>  (greater than)</flowPara><flowPara
+         id="flowPara3090"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6774">&lt;=</flowSpan> (less than or equal to)</flowPara><flowPara
+         id="flowPara3092"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6776">&gt;=</flowSpan> (greater than or equal to)</flowPara><flowPara
+         id="flowPara3094"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6778">&amp;&amp;</flowSpan> (and)   <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6780">|| </flowSpan>(or)   <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6782">!</flowSpan> (not)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3098"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,719.06835,-729.48672)"><flowRegion
+         id="flowRegion3100"><rect
+           id="rect3102"
+           width="169.39632"
+           height="32.987732"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara3104"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Pointer Access</flowPara><flowPara
+         id="flowPara3122"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4146">&amp;</flowSpan>  (reference: get a pointer)</flowPara><flowPara
+         id="flowPara3146"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4148">*</flowSpan>  (dereference: follow a pointer)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3150"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,728.14452,-1801.5699)"><flowRegion
+         id="flowRegion3152"><rect
+           id="rect3154"
+           width="169.39632"
+           height="47.942711"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara3156"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Bitwise Operators</flowPara><flowPara
+         id="flowPara3174"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4150">&amp;</flowSpan> (bitwise and)   <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4152">|</flowSpan> (bitwise or)</flowPara><flowPara
+         id="flowPara3198"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4160">^</flowSpan> (bitwise xor)   <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4154">~</flowSpan> (bitwise not)</flowPara><flowPara
+         id="flowPara3200"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4158">&lt;&lt;</flowSpan> (shift left)   <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6820">&gt;</flowSpan><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4156">&gt;</flowSpan> (shift right)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2469"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,726.24608,-2278.8795)"><flowRegion
+         id="flowRegion2471"><rect
+           id="rect2473"
+           width="168.62222"
+           height="93.169952"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2475"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Compound Operators</flowPara><flowPara
+         id="flowPara2481"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4162">++</flowSpan> (increment)</flowPara><flowPara
+         id="flowPara6750"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan6752">--</flowSpan> (decrement)</flowPara><flowPara
+         id="flowPara2488"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4164">+=</flowSpan> (compound addition)</flowPara><flowPara
+         id="flowPara2490"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4166">-=</flowSpan> (compound substraction) </flowPara><flowPara
+         id="flowPara2492"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4168">*=</flowSpan> (compound multiplication)</flowPara><flowPara
+         id="flowPara2494"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4170">/=</flowSpan> (compound division)</flowPara><flowPara
+         id="flowPara2496"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4172">&amp;=</flowSpan> (compound bitwise and)</flowPara><flowPara
+         id="flowPara2498"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4174">|=</flowSpan> (compound bitwise or)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2502"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,720.89647,-1388.3734)"><flowRegion
+         id="flowRegion2504"><rect
+           id="rect2506"
+           width="176.64369"
+           height="135.18188"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2508"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Constants</flowPara><flowPara
+         id="flowPara2564"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan7992">HIGH</flowSpan> | <flowSpan
+   style="font-weight:bold"
+   id="flowSpan7994">LOW</flowSpan></flowPara><flowPara
+         id="flowPara2781"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8000">INPUT</flowSpan> | <flowSpan
+   style="font-weight:bold"
+   id="flowSpan7996">OUTPUT</flowSpan></flowPara><flowPara
+         id="flowPara2783"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8002">true</flowSpan> | <flowSpan
+   style="font-weight:bold"
+   id="flowSpan7998">false</flowSpan></flowPara><flowPara
+         id="flowPara2785">143        // <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4122">Decimal</flowSpan></flowPara><flowPara
+         id="flowPara2791"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4126">0</flowSpan>173       // <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4124">Octal</flowSpan> (leading 0)</flowPara><flowPara
+         id="flowPara2793"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4130">0b</flowSpan>11011111 // <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4128">Binary</flowSpan></flowPara><flowPara
+         id="flowPara2795"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4134">0x</flowSpan>7B       // <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6746">Hex</flowSpan> (hexadecimal)</flowPara><flowPara
+         id="flowPara2797">7<flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4136">U</flowSpan>         // force unsigned</flowPara><flowPara
+         id="flowPara2799">10<flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4138">L</flowSpan>        // force long</flowPara><flowPara
+         id="flowPara2801">15<flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4140">UL</flowSpan>       // force long unsigned </flowPara><flowPara
+         id="flowPara2803">10<flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6738">.</flowSpan>0       // force floating point</flowPara><flowPara
+         id="flowPara2805">2.4<flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6736">e</flowSpan>5      // 240000</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2496"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,-173.77699,-1388.8129)"><flowRegion
+         id="flowRegion2498"><rect
+           id="rect2501"
+           width="180.51819"
+           height="146.43327"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2503"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Data types</flowPara><flowPara
+         id="flowPara2559"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">void</flowPara><flowPara
+         id="flowPara2776"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan7958">boolean</flowSpan>  (0, 1, true, false)</flowPara><flowPara
+         id="flowPara2778"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan7960">char</flowSpan>     (e.g. 'a'  -128 to 127)</flowPara><flowPara
+         id="flowPara2784"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan7970">int</flowSpan>      (-32768 to 32767)</flowPara><flowPara
+         id="flowPara2790"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan7976">long</flowSpan>     (-2147483648 to 2147483647)</flowPara><flowPara
+         id="flowPara2792"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">unsigned char<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8106">  (0 to 255)</flowSpan></flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8092">byte<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8108">           (0 to 255)</flowSpan></flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8104">unsigned int<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8110">   (0 to 65535)</flowSpan></flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8085">word<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8112">           (0 to 65535)</flowSpan></flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8097"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8099">unsigned long</flowSpan>  (0 to 4294967295)</flowPara><flowPara
+         id="flowPara2794"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan7980">float</flowSpan>    (-3.4028e+38 to 3.4028e+38)</flowPara><flowPara
+         id="flowPara2798"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan7982">double</flowSpan>   (currently same as float)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2802"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,721.68749,-521.85881)"><flowRegion
+         id="flowRegion2804"><rect
+           id="rect2806"
+           width="180.53868"
+           height="94.709778"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2808"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Strings</flowPara><flowPara
+         id="flowPara6686">char S1[8] =</flowPara><flowPara
+         id="flowPara8175"> {'A','r','d','u','i','n','o'};</flowPara><flowPara
+         id="flowPara4183"> // unterminated string; may crash</flowPara><flowPara
+         id="flowPara2876">char S2[8] =</flowPara><flowPara
+         id="flowPara8177"> {'A','r','d','u','i','n','o','\0'};</flowPara><flowPara
+         id="flowPara6692"> // includes \0 null termination</flowPara><flowPara
+         id="flowPara2878">char S3[]=&quot;arduino&quot;;</flowPara><flowPara
+         id="flowPara2882">char S4[8]=&quot;arduino&quot;;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2886"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-479.09123)"><flowRegion
+         id="flowRegion2888"><rect
+           id="rect2890"
+           width="174.25262"
+           height="82.959618"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2892"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Arrays</flowPara><flowPara
+         id="flowPara2898">int myInts[6]; // array of 6 ints</flowPara><flowPara
+         id="flowPara2905">int myPins[]={2, 4, 8, 3, 6};</flowPara><flowPara
+         id="flowPara8159">int mySensVals[6]={2, 4, -8, 3, 2};</flowPara><flowPara
+         id="flowPara8163">myInts[0]=42;  // assigning first</flowPara><flowPara
+         id="flowPara8165">               // index of myInts</flowPara><flowPara
+         id="flowPara8167">myInts[6]=12;  // ERROR! Indexes</flowPara><flowPara
+         id="flowPara8169">               // are 0 though 5</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2911"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,2406.1637,-1847.7734)"><flowRegion
+         id="flowRegion2913"><rect
+           id="rect2915"
+           width="173.13507"
+           height="52.261257"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2917"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Conversions</flowPara><flowPara
+         id="flowPara2923"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3742">char</flowSpan>()       <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3744">byte</flowSpan>()</flowPara><flowPara
+         id="flowPara2930"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3746">int</flowSpan>()        <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3748">word</flowSpan>()</flowPara><flowPara
+         id="flowPara2932"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3752">long</flowSpan>()       <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3750">float</flowSpan>()</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2936"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-749.89566)"><flowRegion
+         id="flowRegion2938"><rect
+           id="rect2940"
+           width="167.00867"
+           height="56.129974"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2942"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Qualifiers</flowPara><flowPara
+         id="flowPara2956"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3630">static</flowSpan>   // persists between calls</flowPara><flowPara
+         id="flowPara2985"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3632">volatile</flowSpan> // use RAM (nice for ISR)</flowPara><flowPara
+         id="flowPara2987"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3634">const</flowSpan>    // make read only</flowPara><flowPara
+         id="flowPara2989"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3636">PROGMEM</flowSpan>  // Use flash</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2993"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,1610.0459,-2800.5803)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="165.15431"
+           height="63.231873"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2999"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Digital I/O</flowPara><flowPara
+         id="flowPara3007"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3638">pinMode</flowSpan>(pin,[INPUT, OUTPUT])</flowPara><flowPara
+         id="flowPara3018"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3640">digitalWrite</flowSpan>(pin, value)</flowPara><flowPara
+         id="flowPara3020">int <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3642">digitalread</flowSpan>(pin)</flowPara><flowPara
+         id="flowPara3030">  // Write HIGH to inputs to use </flowPara><flowPara
+         id="flowPara6566">  // pull-up resistors</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2560"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,1609.7471,-2461.7862)"><flowRegion
+         id="flowRegion2562"><rect
+           id="rect2564"
+           width="173.94244"
+           height="77.894447"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2566"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Analog I/O</flowPara><flowPara
+         id="flowPara6574"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3644">analogReference</flowSpan>([DEFAULT,</flowPara><flowPara
+         id="flowPara8157">    INTERNAL, EXTERNAL])</flowPara><flowPara
+         id="flowPara2609">int <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3646">analogRead</flowSpan>(pin)</flowPara><flowPara
+         id="flowPara6576">  // Call twice if switching pin</flowPara><flowPara
+         id="flowPara8151">  // from a high-Z source</flowPara><flowPara
+         id="flowPara2611"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3648">analogWrite</flowSpan>(pin, value) // PWM</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2615"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,1609.7471,-2077.805)"><flowRegion
+         id="flowRegion2617"><rect
+           id="rect2619"
+           width="165.63428"
+           height="82.111557"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2621"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Advanced I/O</flowPara><flowPara
+         id="flowPara2635"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3680">tone</flowSpan>(pin, freqhz)</flowPara><flowPara
+         id="flowPara2664"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3682">tone</flowSpan>(pin, freqhz, duration_ms)</flowPara><flowPara
+         id="flowPara2666"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3684">noTone</flowSpan>(pin)</flowPara><flowPara
+         id="flowPara2668"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3686">shiftOut</flowSpan>(dataPin, clockPin,</flowPara><flowPara
+         id="flowPara6588">  [MSBFIRST,LSBFIRST], value)</flowPara><flowPara
+         id="flowPara2670">unsigned long <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3688">pulseIn</flowSpan>(pin,</flowPara><flowPara
+         id="flowPara6590">  [HIGH,LOW])</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2674"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,1614.8334,-1649.8595)"><flowRegion
+         id="flowRegion2676"><rect
+           id="rect2678"
+           width="174.34874"
+           height="71.803993"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2680"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Time</flowPara><flowPara
+         id="flowPara2688">unsigned long <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3694">millis</flowSpan>()</flowPara><flowPara
+         id="flowPara6616">  // overflow at 50 days</flowPara><flowPara
+         id="flowPara2699">unsigned long <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3696">micros</flowSpan>()</flowPara><flowPara
+         id="flowPara6618">  // overflow at 70 minutes</flowPara><flowPara
+         id="flowPara2701"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3698">delay</flowSpan>(ms)</flowPara><flowPara
+         id="flowPara2703"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3700">delayMicroseconds</flowSpan>(us)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2707"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,2408.4664,-2801.0199)"><flowRegion
+         id="flowRegion2709"><rect
+           id="rect2711"
+           width="159.41422"
+           height="62.705803"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2713"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Math</flowPara><flowPara
+         id="flowPara2730"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8061">min</flowSpan>(x, y)   <flowSpan
+   style="font-weight:bold"
+   id="flowSpan8063">max</flowSpan>(x, y)   abs(x)</flowPara><flowPara
+         id="flowPara2732"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3716">sin</flowSpan>(rad)    <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3718">cos</flowSpan>(rad)    <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3720">tan</flowSpan>(rad)</flowPara><flowPara
+         id="flowPara8033"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8039">sqrt</flowSpan>(x)     <flowSpan
+   style="font-weight:bold"
+   id="flowSpan8037">pow</flowSpan>(base, exponent)</flowPara><flowPara
+         id="flowPara8049"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8057">constrain</flowSpan>(x, minval, maxval)</flowPara><flowPara
+         id="flowPara8053"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8059">map</flowSpan>(val, fromL, fromH, toL, toH)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2736"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,2405.9703,-2467.0033)"><flowRegion
+         id="flowRegion2738"><rect
+           id="rect2740"
+           width="155.07452"
+           height="44.195831"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2742"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Random Numbers</flowPara><flowPara
+         id="flowPara2748"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3722">randomSeed</flowSpan>(seed) // long or int</flowPara><flowPara
+         id="flowPara2755">long <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3724">random</flowSpan>(max)</flowPara><flowPara
+         id="flowPara2757">long <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3726">random</flowSpan>(min, max)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2761"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,2408.2379,-2224.8275)"><flowRegion
+         id="flowRegion2763"><rect
+           id="rect2765"
+           width="165.00162"
+           height="73.555611"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2777"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Bits and Bytes</flowPara><flowPara
+         id="flowPara2789"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">lowByte<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8011">(x)</flowSpan>    highByte<flowSpan
+   style="font-weight:normal"
+   id="flowSpan8008">(x)</flowSpan></flowPara><flowPara
+         id="flowPara8004"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan8006">bitRead</flowSpan>(x, bitn)</flowPara><flowPara
+         id="flowPara6660"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan6662">bitWrite</flowSpan>(x, bitn, bit)</flowPara><flowPara
+         id="flowPara2800"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3736">bitSet</flowSpan>(x, bitn)<flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3738" /></flowPara><flowPara
+         id="flowPara8013"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan8015">bitClear</flowSpan>(x, bitn)</flowPara><flowPara
+         id="flowPara2802"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3740">bit</flowSpan>(bitn)  // bitn: 0=LSB 7=MSB</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2806"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="matrix(4.4182304,0,0,4.4182304,2407.8688,-1604.8595)"><flowRegion
+         id="flowRegion2808"><rect
+           id="rect2810"
+           width="169.76263"
+           height="63.314713"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
+         id="flowPara2812"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">External Interrupts</flowPara><flowPara
+         id="flowPara2818"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6542">attachInterrupt</flowSpan>(interrupt, func,</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara6550"> [LOW, CHANGE, RISING, FALLING])</flowPara><flowPara
+         id="flowPara2829"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6544">detachInterrupt</flowSpan>(interrupt)</flowPara><flowPara
+         id="flowPara2831"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6546">interrupts</flowSpan>()</flowPara><flowPara
+         id="flowPara2833"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6548">noInterrupts</flowSpan>()</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2623"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="matrix(4.4182304,0,0,4.4182304,3240.6476,-2800.5801)"><flowRegion
+         id="flowRegion2625"><rect
+           id="rect2627"
+           width="170.59378"
+           height="121.98663"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
+         id="flowPara2629"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Serial</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4870"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4958">begin</flowSpan>([300, 1200, 2400, 4800,</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4954">       9600, 14400, 19200, 28800,</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4956">       38400, 57600, 115200])</flowPara><flowPara
+         id="flowPara2733"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4960">end</flowSpan>()</flowPara><flowPara
+         id="flowPara2735"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">int <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4962">available</flowSpan>()</flowPara><flowPara
+         id="flowPara2743"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">byte <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4968">read</flowSpan>()</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8359">byte <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan8361">peek</flowSpan>()</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8379"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8381">flush</flowSpan>()</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8363"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan8365">print</flowSpan>(myData)</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8341"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan8343">println</flowSpan>(myData)</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8074"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4972">write</flowSpan>(myBytes)</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8345"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan8347">flush</flowSpan>()</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2749"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="matrix(4.4182304,0,0,4.4182304,3240.3488,-2217.4347)"><flowRegion
+         id="flowRegion2751"><rect
+           id="rect2753"
+           width="161.19698"
+           height="33.10606"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
+         id="flowPara2756"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3817">EEPROM   </flowSpan>(<flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4791">#include &lt;EEPROM.h&gt;</flowSpan>) </flowPara><flowPara
+         id="flowPara2760"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">byte <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4824">read</flowSpan>(intAddr)</flowPara><flowPara
+         id="flowPara2764"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4826">write</flowSpan>(intAddr, myByte)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2772"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="matrix(4.4182304,0,0,4.4182304,3240.3488,-2016.1538)"><flowRegion
+         id="flowRegion2774"><rect
+           id="rect2776"
+           width="167.51546"
+           height="83.969101"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
+         id="flowPara2779"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3823">Servo   </flowSpan><flowSpan
+   style="font-size:8.14805889px;text-align:start;text-anchor:start"
+   id="flowSpan7806">(</flowSpan><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4775">#include &lt;Servo.h&gt;</flowSpan>) </flowPara><flowPara
+         id="flowPara2817"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4793">attach</flowSpan>(pin, [min_uS, max_uS])</flowPara><flowPara
+         id="flowPara2854"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4795">write</flowSpan>(angle) // 0, 180</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4779"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4797">writeMicroseconds</flowSpan>(uS)</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4777">   // 1000-2000; 1500 is midpoint</flowPara><flowPara
+         id="flowPara2860"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4799">read</flowSpan>()       // 0 - 180</flowPara><flowPara
+         id="flowPara2862"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4801">attached</flowSpan>()   // returns boolean</flowPara><flowPara
+         id="flowPara2858"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">detach()</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2868"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="matrix(4.4182304,0,0,4.4182304,3240.6476,-1585.0804)"><flowRegion
+         id="flowRegion2870"><rect
+           id="rect2872"
+           width="170.29729"
+           height="61.959522"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
+         id="flowPara2875"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3837">SoftwareSerial</flowSpan>(RxPin, TxPin) </flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4607">  (#include &lt;softwareSerial.h&gt;)</flowPara><flowPara
+         id="flowPara2883"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4858">begin</flowSpan>(long Speed) // up to 9600</flowPara><flowPara
+         id="flowPara2894"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">char <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4856">read</flowSpan>()   // blocks till data</flowPara><flowPara
+         id="flowPara2896"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4852">print</flowSpan>(myData)<flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan4854" /></flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara8349"><flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan8351">println</flowSpan>(myData)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2900"
+       style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       transform="matrix(4.4182304,0,0,4.4182304,3240.6476,-1253.1684)"><flowRegion
+         id="flowRegion2902"><rect
+           id="rect2904"
+           width="170.42276"
+           height="139.78697"
+           x="60"
+           y="183.09448"
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
+         id="flowPara2906"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3847">Wire   </flowSpan>(<flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4770">#include &lt;Wire.h&gt;</flowSpan>)  // for I²C</flowPara><flowPara
+         id="flowPara2922"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3774">begin</flowSpan>()     // join a master</flowPara><flowPara
+         id="flowPara2959"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3776">begin</flowSpan>(addr) // join a slave @ addr</flowPara><flowPara
+         id="flowPara2961"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3778">requestFrom</flowSpan>(address, count)</flowPara><flowPara
+         id="flowPara2963"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3780">beginTransmission</flowSpan>(addr) // Step 1</flowPara><flowPara
+         id="flowPara2965"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3782">send</flowSpan>(myByte)            // Step 2</flowPara><flowPara
+         id="flowPara2967"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3784">send</flowSpan>(char * mystring)</flowPara><flowPara
+         id="flowPara2969"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3786">send</flowSpan>(byte * data, size)</flowPara><flowPara
+         id="flowPara2971"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3788">endTransmission</flowSpan>()       // Step 3</flowPara><flowPara
+         id="flowPara2973">byte <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3790">available</flowSpan>() // Num of bytes</flowPara><flowPara
+         id="flowPara2975">byte <flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3792">receive</flowSpan>() // Return next byte</flowPara><flowPara
+         id="flowPara2977"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3794">onReceive</flowSpan>(handler)</flowPara><flowPara
+         id="flowPara2979"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan3796">onRequest</flowSpan>(handler)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5588"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:start;text-align:start"
+       transform="translate(-3,13)"><flowRegion
+         id="flowRegion5590"><rect
+           id="rect5592"
+           width="25"
+           height="13.5"
+           x="1302.5"
+           y="404.34448"
+           style="text-anchor:start;text-align:start" /></flowRegion><flowPara
+         id="flowPara5594" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:start;text-align:start"
+       x="1562"
+       y="95.594482"
+       id="text3643"><tspan
+         sodipodi:role="line"
+         id="tspan3645"
+         x="1562"
+         y="95.594482" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3698"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(4.4182304,0,0,4.4182304,762.30899,-3308.7569)"><flowRegion
+         id="flowRegion3700"><rect
+           id="rect3702"
+           width="513.55048"
+           height="147.97513"
+           x="60"
+           y="183.09448"
+           style="text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:16.29611777999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="flowPara5422" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="3679.0913"
+       y="-2050.8804"
+       id="text5199"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3679.0913"
+         y="-2050.8804"
+         id="tspan5201"><tspan
+           x="3679.0913"
+           y="-2050.8804"
+           style="font-weight:bold;line-height:125%;fill:#000000;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold"
+           id="tspan5203">Libraries</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4887"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="translate(-3,13)"><flowRegion
+         id="flowRegion4889"><rect
+           id="rect4892"
+           width="34"
+           height="59.5"
+           x="1259"
+           y="304.09448"
+           style="text-anchor:start;text-align:start" /></flowRegion><flowPara
+         id="flowPara4894" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="1262"
+       y="324.09448"
+       id="text4896"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4898"
+         x="1262"
+         y="324.09448" /></text>
+    <g
+       transform="matrix(6.853684,0,0,6.853684,1894.9925,-358.52846)"
+       id="breadboardbreadboard-6">
+      <g
+         id="g32-1">
+        <g
+           id="g34-4">
+          <path
+             style="fill:#0f7391"
+             inkscape:connector-curvature="0"
+             d="M 205.249,35.918 V 3.694 L 201.262,0 H 21.974 v 148.032 h 183.277 v -5.033 l 6.923,-7.135 V 42.507 l -6.925,-6.589 z M 64.771,10.87 c -2.524,0 -4.574,-2.049 -4.574,-4.574 0,-2.525 2.05,-4.574 4.574,-4.574 2.525,0 4.574,2.049 4.574,4.574 0,2.525 -2.049,4.574 -4.574,4.574 z m 140.73,34.949 c 1.62,0 2.936,1.317 2.936,2.938 0,1.623 -1.314,2.936 -2.936,2.936 -1.623,0 -2.939,-1.313 -2.939,-2.936 0,-1.62 1.316,-2.938 2.939,-2.938 z m 0.502,84.928 c -2.363,0 -4.278,-1.916 -4.278,-4.276 0,-2.367 1.915,-4.281 4.278,-4.281 2.364,0 4.276,1.914 4.276,4.281 0.003,2.36 -1.912,4.276 -4.276,4.276 z"
+             id="path36-3" />
+        </g>
+      </g>
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 100.371,68.774 c 0,-1.004 -0.736,-1.831 -1.697,-1.984 v -0.029 h -6.86 c -1.111,0 -2.014,0.901 -2.014,2.014 0,1.112 0.901,2.015 2.014,2.015 h 6.86 v -0.032 c 0.959,-0.153 1.697,-0.978 1.697,-1.984 z"
+         id="path38-9" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 100.371,62.721 c 0,-1.003 -0.736,-1.829 -1.697,-1.982 v -0.031 h -6.86 c -1.111,0 -2.014,0.903 -2.014,2.014 0,1.114 0.901,2.015 2.014,2.015 h 6.86 v -0.031 c 0.959,-0.153 1.697,-0.981 1.697,-1.985 z"
+         id="path40-5" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 100.371,56.669 c 0,-1.005 -0.736,-1.831 -1.697,-1.984 v -0.031 h -6.86 c -1.111,0 -2.014,0.903 -2.014,2.015 0,1.112 0.901,2.014 2.014,2.014 h 6.86 v -0.031 c 0.959,-0.153 1.697,-0.979 1.697,-1.983 z"
+         id="path42-4" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 127.828,63.88 c 0,-1.005 -0.736,-1.83 -1.699,-1.982 v -0.031 h -6.858 c -1.111,0 -2.015,0.9 -2.015,2.013 0,1.113 0.902,2.014 2.015,2.014 h 6.858 v -0.031 c 0.962,-0.152 1.699,-0.978 1.699,-1.983 z"
+         id="path44-5" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 144.584,74.422 c 0,-3.033 -2.229,-5.529 -5.133,-5.989 v -0.094 h -17.522 c -3.358,0 -6.082,2.723 -6.082,6.083 0,3.36 2.724,6.083 6.082,6.083 h 17.522 v -0.094 c 2.906,-0.461 5.133,-2.957 5.133,-5.989 z"
+         id="path46-5" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 142.429,63.88 c 0,-1.005 -0.735,-1.83 -1.696,-1.982 v -0.031 h -6.859 c -1.112,0 -2.015,0.9 -2.015,2.013 0,1.113 0.901,2.014 2.015,2.014 h 6.859 v -0.031 c 0.959,-0.152 1.696,-0.978 1.696,-1.983 z"
+         id="path48-0" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 159.886,63.88 c 0,-1.005 -0.735,-1.83 -1.696,-1.982 v -0.031 h -6.859 c -1.113,0 -2.016,0.9 -2.016,2.013 0,1.113 0.901,2.014 2.016,2.014 h 6.858 v -0.031 c 0.96,-0.152 1.697,-0.978 1.697,-1.983 z"
+         id="path50-3" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 159.886,71.619 c 0,-1.005 -0.735,-1.831 -1.696,-1.983 v -0.031 h -6.859 c -1.113,0 -2.016,0.901 -2.016,2.014 0,1.113 0.901,2.014 2.016,2.014 h 6.858 v -0.031 c 0.96,-0.152 1.697,-0.978 1.697,-1.983 z"
+         id="path52-7" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 159.886,79.357 c 0,-1.005 -0.735,-1.831 -1.696,-1.981 v -0.031 h -6.859 c -1.113,0 -2.016,0.9 -2.016,2.014 0,1.114 0.901,2.016 2.016,2.016 h 6.858 V 81.34 c 0.96,-0.152 1.697,-0.978 1.697,-1.983 z"
+         id="path54-2" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 174.37,67.316 c 0,-1.004 -0.735,-1.831 -1.697,-1.982 v -0.031 h -6.859 c -1.111,0 -2.014,0.901 -2.014,2.014 0,1.113 0.901,2.014 2.014,2.014 h 6.859 V 69.3 c 0.961,-0.153 1.697,-0.98 1.697,-1.984 z"
+         id="path56-2" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 174.37,79.793 c 0,-1.004 -0.735,-1.83 -1.697,-1.982 v -0.029 h -6.859 c -1.111,0 -2.014,0.9 -2.014,2.012 0,1.113 0.901,2.017 2.014,2.017 h 6.859 V 81.78 c 0.961,-0.155 1.697,-0.983 1.697,-1.987 z"
+         id="path58-4" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 178.143,67.316 c 0,-1.004 0.735,-1.831 1.697,-1.982 v -0.031 h 6.858 c 1.111,0 2.013,0.901 2.013,2.014 0,1.113 -0.9,2.014 -2.013,2.014 H 179.84 V 69.3 c -0.961,-0.153 -1.697,-0.98 -1.697,-1.984 z"
+         id="path60-3" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 178.143,79.793 c 0,-1.004 0.735,-1.83 1.697,-1.982 v -0.029 h 6.858 c 1.111,0 2.013,0.9 2.013,2.012 0,1.113 -0.9,2.017 -2.013,2.017 H 179.84 V 81.78 c -0.961,-0.155 -1.697,-0.983 -1.697,-1.987 z"
+         id="path62-0" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 100.371,80.879 c 0,-1.004 -0.736,-1.828 -1.697,-1.98 v -0.031 h -6.86 c -1.111,0 -2.014,0.9 -2.014,2.014 0,1.114 0.901,2.017 2.014,2.017 h 6.86 v -0.034 c 0.959,-0.154 1.697,-0.978 1.697,-1.986 z"
+         id="path64-5" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 66.897,21.901 c 0,-1.004 -0.735,-1.829 -1.696,-1.981 v -0.032 h -6.86 c -1.112,0 -2.015,0.901 -2.015,2.013 0,1.112 0.901,2.017 2.015,2.017 H 65.2 v -0.034 c 0.959,-0.152 1.697,-0.976 1.697,-1.983 z"
+         id="path68-8" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 79.675,21.901 c 0,-1.004 -0.737,-1.829 -1.698,-1.981 v -0.032 h -6.858 c -1.112,0 -2.016,0.901 -2.016,2.013 0,1.112 0.902,2.017 2.016,2.017 h 6.858 v -0.034 c 0.96,-0.152 1.698,-0.976 1.698,-1.983 z"
+         id="path70-0" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 100.371,38.508 c 0,-1.004 -0.736,-1.829 -1.697,-1.982 v -0.031 h -6.86 c -1.111,0 -2.014,0.901 -2.014,2.014 0,1.113 0.901,2.015 2.014,2.015 h 6.86 v -0.031 c 0.959,-0.155 1.697,-0.98 1.697,-1.985 z"
+         id="path72-3" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 76.38,100.67 c 0,-1.004 -0.735,-1.83 -1.697,-1.98 v -0.033 h -6.859 c -1.113,0 -2.015,0.902 -2.015,2.014 0,1.113 0.9,2.017 2.015,2.017 h 6.858 v -0.032 c 0.961,-0.156 1.698,-0.982 1.698,-1.986 z"
+         id="path74-0" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 76.38,92.392 c 0,-1.005 -0.735,-1.829 -1.697,-1.981 V 90.38 h -6.859 c -1.113,0 -2.015,0.9 -2.015,2.014 0,1.114 0.9,2.016 2.015,2.016 h 6.858 v -0.031 c 0.961,-0.156 1.698,-0.982 1.698,-1.987 z"
+         id="path76-6" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 59.194,69.636 c 1.006,0 1.831,-0.737 1.982,-1.699 h 0.034 v -4.846 c 0,-1.11 -0.904,-2.016 -2.018,-2.016 -1.11,0 -2.014,0.904 -2.014,2.016 v 4.846 h 0.031 c 0.156,0.962 0.981,1.699 1.985,1.699 z"
+         id="path78-5" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 66.578,69.636 c 1.005,0 1.832,-0.737 1.981,-1.699 h 0.032 v -4.846 c 0,-1.11 -0.901,-2.016 -2.015,-2.016 -1.111,0 -2.016,0.904 -2.016,2.016 v 4.846 h 0.031 c 0.159,0.962 0.984,1.699 1.987,1.699 z"
+         id="path80-4" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 73.963,69.636 c 1.005,0 1.831,-0.737 1.98,-1.699 h 0.033 v -4.846 c 0,-1.11 -0.9,-2.016 -2.015,-2.016 -1.111,0 -2.016,0.904 -2.016,2.016 v 4.846 h 0.032 c 0.158,0.962 0.983,1.699 1.986,1.699 z"
+         id="path82-0" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 81.348,69.636 c 1.005,0 1.832,-0.737 1.983,-1.699 h 0.031 v -4.846 c 0,-1.11 -0.901,-2.016 -2.016,-2.016 -1.111,0 -2.014,0.904 -2.014,2.016 v 4.846 h 0.03 c 0.157,0.962 0.983,1.699 1.986,1.699 z"
+         id="path84-8" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 167.086,47.197 c 0,1.005 0.737,1.832 1.699,1.984 v 0.029 h 6.859 c 1.111,0 2.015,-0.9 2.015,-2.013 0,-1.111 -0.902,-2.014 -2.015,-2.014 h -6.859 v 0.031 c -0.961,0.153 -1.699,0.98 -1.699,1.983 z"
+         id="path86-8" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 56.571,94.258 c 0,-1.004 -0.736,-1.832 -1.698,-1.982 v -0.033 h -6.859 c -1.114,0 -2.016,0.901 -2.016,2.018 0,1.109 0.9,2.014 2.016,2.014 h 6.858 v -0.031 c 0.96,-0.156 1.699,-0.982 1.699,-1.986 z"
+         id="path88-4" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 56.571,100.805 c 0,-1.006 -0.736,-1.83 -1.698,-1.984 v -0.029 h -6.859 c -1.114,0 -2.016,0.898 -2.016,2.015 0,1.108 0.9,2.014 2.016,2.014 h 6.858 v -0.03 c 0.96,-0.16 1.699,-0.983 1.699,-1.986 z"
+         id="path90-8" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 56.571,107.35 c 0,-1.005 -0.736,-1.83 -1.698,-1.982 v -0.031 h -6.859 c -1.114,0 -2.016,0.902 -2.016,2.015 0,1.113 0.9,2.015 2.016,2.015 h 6.858 v -0.031 c 0.96,-0.155 1.699,-0.98 1.699,-1.986 z"
+         id="path92-1" />
+      <rect
+         style="fill:#02809e"
+         x="29.884001"
+         y="90.799004"
+         width="20.308001"
+         height="19.302999"
+         id="rect94-7" />
+      <rect
+         style="fill:#02809e"
+         x="26.360001"
+         y="93.149002"
+         width="5.0359998"
+         height="14.602"
+         id="rect96-7" />
+      <circle
+         style="fill:#02809e"
+         sodipodi:ry="1.762"
+         sodipodi:rx="1.762"
+         sodipodi:cy="6.0780001"
+         sodipodi:cx="74.819"
+         cx="74.819"
+         cy="6.0780001"
+         r="1.762"
+         id="circle98-8"
+         d="M 76.581,6.0780001 C 76.581,7.0511258 75.792126,7.84 74.819,7.84 c -0.973125,0 -1.762,-0.7888742 -1.762,-1.7619999 0,-0.9731257 0.788875,-1.762 1.762,-1.762 0.973126,0 1.762,0.7888743 1.762,1.762 z" />
+      <g
+         id="g100-0">
+        <g
+           id="g102-9">
+          <path
+             style="fill:#02809e"
+             inkscape:connector-curvature="0"
+             d="m 74.819,1.633 c -2.457,0 -4.448,1.991 -4.448,4.446 0,2.458 1.991,4.447 4.448,4.447 2.456,0 4.448,-1.99 4.448,-4.447 C 79.266,3.623 77.275,1.633 74.819,1.633 z m 0,8.431 c -2.202,0 -3.986,-1.785 -3.986,-3.986 0,-2.201 1.785,-3.986 3.986,-3.986 2.202,0 3.985,1.785 3.985,3.986 0,2.202 -1.784,3.986 -3.985,3.986 z"
+             id="path104-0" />
+        </g>
+      </g>
+      <circle
+         style="fill:#02809e"
+         sodipodi:ry="1.763"
+         sodipodi:rx="1.763"
+         sodipodi:cy="141.39799"
+         sodipodi:cx="28.962999"
+         cx="28.962999"
+         cy="141.39799"
+         r="1.763"
+         id="circle106-0"
+         d="m 30.725999,141.39799 c 0,0.97368 -0.789322,1.76301 -1.763,1.76301 -0.973678,0 -1.763,-0.78933 -1.763,-1.76301 0,-0.97367 0.789322,-1.763 1.763,-1.763 0.973678,0 1.763,0.78933 1.763,1.763 z" />
+      <g
+         id="g108-0">
+        <g
+           id="g110-2">
+          <path
+             style="fill:#02809e"
+             inkscape:connector-curvature="0"
+             d="m 28.964,136.952 c -2.457,0 -4.45,1.992 -4.45,4.447 0,2.457 1.993,4.447 4.45,4.447 2.454,0 4.447,-1.99 4.447,-4.447 0,-2.455 -1.991,-4.447 -4.447,-4.447 z m 0,8.431 c -2.204,0 -3.987,-1.783 -3.987,-3.984 0,-2.201 1.785,-3.986 3.987,-3.986 2.201,0 3.984,1.784 3.984,3.986 10e-4,2.201 -1.783,3.984 -3.984,3.984 z"
+             id="path112-0" />
+        </g>
+      </g>
+      <circle
+         style="fill:#02809e"
+         sodipodi:ry="1.762"
+         sodipodi:rx="1.762"
+         sodipodi:cy="31.556999"
+         sodipodi:cx="197.02499"
+         cx="197.02499"
+         cy="31.556999"
+         r="1.762"
+         id="circle114-4"
+         d="m 198.78699,31.556999 c 0,0.973126 -0.78887,1.762 -1.762,1.762 -0.97312,0 -1.762,-0.788874 -1.762,-1.762 0,-0.973126 0.78888,-1.762 1.762,-1.762 0.97313,0 1.762,0.788874 1.762,1.762 z" />
+      <g
+         id="g116-5">
+        <g
+           id="g118-4">
+          <path
+             style="fill:#02809e"
+             inkscape:connector-curvature="0"
+             d="m 197.026,27.108 c -2.456,0 -4.449,1.993 -4.449,4.449 0,2.455 1.993,4.444 4.449,4.444 2.453,0 4.448,-1.99 4.448,-4.444 -10e-4,-2.456 -1.993,-4.449 -4.448,-4.449 z m 0,8.433 c -2.204,0 -3.985,-1.785 -3.985,-3.984 0,-2.204 1.785,-3.987 3.985,-3.987 2.2,0 3.982,1.784 3.982,3.987 10e-4,2.2 -1.782,3.984 -3.982,3.984 z"
+             id="path120-2" />
+        </g>
+      </g>
+      <circle
+         style="fill:#02809e"
+         sodipodi:ry="4.2800002"
+         sodipodi:rx="4.2800002"
+         sodipodi:cy="24.841999"
+         sodipodi:cx="30.304001"
+         cx="30.304001"
+         cy="24.841999"
+         r="4.2800002"
+         id="circle122-1"
+         d="m 34.584001,24.841999 c 0,2.363779 -1.916221,4.28 -4.28,4.28 -2.363779,0 -4.28,-1.916221 -4.28,-4.28 0,-2.363779 1.916221,-4.28 4.28,-4.28 2.363779,0 4.28,1.916221 4.28,4.28 z" />
+      <circle
+         style="fill:#02809e"
+         sodipodi:ry="4.2800002"
+         sodipodi:rx="4.2800002"
+         sodipodi:cy="59.583"
+         sodipodi:cx="30.304001"
+         cx="30.304001"
+         cy="59.583"
+         r="4.2800002"
+         id="circle124-6"
+         d="m 34.584001,59.583 c 0,2.363779 -1.916221,4.28 -4.28,4.28 -2.363779,0 -4.28,-1.916221 -4.28,-4.28 0,-2.363779 1.916221,-4.28 4.28,-4.28 2.363779,0 4.28,1.916221 4.28,4.28 z" />
+      <rect
+         x="54.806999"
+         y="33.453999"
+         width="19.760702"
+         height="16.113001"
+         id="rect126-8"
+         style="fill:#02809e" />
+      <rect
+         style="fill:#02809e"
+         x="61.381001"
+         y="110.083"
+         width="17.538"
+         height="7.973"
+         id="rect128-4" />
+      <rect
+         style="fill:#02809e"
+         x="62.280998"
+         y="77.329002"
+         width="16.163"
+         height="9.3479996"
+         id="rect130-6" />
+      <rect
+         style="fill:#02809e"
+         x="101.213"
+         y="92.522003"
+         width="96.841003"
+         height="21.482"
+         id="rect132-6" />
+      <circle
+         style="fill:#02809e"
+         sodipodi:ry="5.665"
+         sodipodi:rx="5.665"
+         sodipodi:cy="125.919"
+         sodipodi:cx="52.584"
+         cx="52.584"
+         cy="125.919"
+         r="5.665"
+         id="circle134-6"
+         d="m 58.249,125.919 c 0,3.12869 -2.536307,5.665 -5.665,5.665 -3.128693,0 -5.665,-2.53631 -5.665,-5.665 0,-3.12869 2.536307,-5.665 5.665,-5.665 3.128693,0 5.665,2.53631 5.665,5.665 z" />
+      <circle
+         style="fill:#02809e"
+         sodipodi:ry="5.664"
+         sodipodi:rx="5.664"
+         sodipodi:cy="139.68201"
+         sodipodi:cx="45.199001"
+         cx="45.199001"
+         cy="139.68201"
+         r="5.664"
+         id="circle136-2"
+         d="m 50.863001,139.68201 c 0,3.12814 -2.535859,5.664 -5.664,5.664 -3.128141,0 -5.664,-2.53586 -5.664,-5.664 0,-3.12814 2.535859,-5.664 5.664,-5.664 3.128141,0 5.664,2.53586 5.664,5.664 z" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 83.573,137.56 c 0.432,-1.115 0.675,-2.319 0.675,-3.585 0,-5.491 -4.453,-9.941 -9.942,-9.941 -5.489,0 -9.943,4.451 -9.943,9.941 0,2.574 0.986,4.913 2.593,6.678 l 16.617,-3.093 z"
+         id="path138-8" />
+      <path
+         style="fill:#02809e"
+         inkscape:connector-curvature="0"
+         d="m 106.783,137.56 c 0.432,-1.115 0.675,-2.319 0.675,-3.585 0,-5.491 -4.453,-9.941 -9.942,-9.941 -5.493,0 -9.942,4.451 -9.942,9.941 0,2.574 0.985,4.913 2.592,6.678 l 16.617,-3.093 z"
+         id="path140-8" />
+      <path
+         style="fill:#8d8c8c"
+         inkscape:connector-curvature="0"
+         d="m 100.371,44.561 c 0,-1.004 -0.736,-1.829 -1.697,-1.982 v -0.031 h -6.86 c -1.111,0 -2.014,0.901 -2.014,2.013 0,1.112 0.901,2.015 2.014,2.015 h 6.86 v -0.032 c 0.959,-0.152 1.697,-0.977 1.697,-1.983 z"
+         id="path142-5" />
+      <rect
+         style="fill:#fbbe0e"
+         x="93.322998"
+         y="42.924999"
+         width="3.648"
+         height="3.21"
+         id="rect144-2" />
+      <path
+         style="fill:#8d8c8c"
+         inkscape:connector-curvature="0"
+         d="m 100.371,32.455 c 0,-1.004 -0.736,-1.829 -1.697,-1.982 v -0.031 h -6.86 c -1.111,0 -2.014,0.901 -2.014,2.014 0,1.113 0.901,2.015 2.014,2.015 h 6.86 v -0.032 c 0.959,-0.153 1.697,-0.979 1.697,-1.984 z"
+         id="path146-7" />
+      <rect
+         style="fill:#fbbe0e"
+         x="93.322998"
+         y="30.819"
+         width="3.648"
+         height="3.21"
+         id="rect148-6" />
+      <path
+         style="fill:#8d8c8c"
+         inkscape:connector-curvature="0"
+         d="m 190.522,47.197 c 0,-1.004 -0.736,-1.83 -1.697,-1.981 v -0.032 h -6.859 c -1.113,0 -2.015,0.901 -2.015,2.014 0,1.112 0.9,2.015 2.015,2.015 h 6.859 v -0.032 c 0.957,-0.155 1.697,-0.981 1.697,-1.984 z"
+         id="path150-9" />
+      <rect
+         style="fill:#fbbe0e"
+         x="183.47301"
+         y="45.561001"
+         width="3.648"
+         height="3.21"
+         id="rect152-2" />
+      <path
+         style="fill:#8d8c8c"
+         inkscape:connector-curvature="0"
+         d="m 100.371,50.615 c 0,-1.004 -0.736,-1.83 -1.697,-1.983 v -0.031 h -6.86 c -1.111,0 -2.014,0.903 -2.014,2.014 0,1.113 0.901,2.015 2.014,2.015 h 6.86 v -0.032 c 0.959,-0.152 1.697,-0.978 1.697,-1.983 z"
+         id="path154-1" />
+      <rect
+         style="fill:#fbbe0e"
+         x="93.322998"
+         y="48.978001"
+         width="3.648"
+         height="3.21"
+         id="rect156-6" />
+      <rect
+         style="fill:#8d8c8c"
+         x="168.263"
+         y="64.996002"
+         width="16.615"
+         height="16.990999"
+         id="rect158-0" />
+      <path
+         style="fill:#404040"
+         inkscape:connector-curvature="0"
+         d="m 184.502,67.386 c 0,0.835 -0.677,1.513 -1.514,1.513 -0.834,0 -1.512,-0.675 -1.512,-1.513 0,-0.832 0.675,-1.513 1.512,-1.513 0.837,0.003 1.514,0.682 1.514,1.513 z"
+         id="path160-7" />
+      <path
+         style="fill:#404040"
+         inkscape:connector-curvature="0"
+         d="m 171.788,67.386 c 0,0.835 -0.677,1.513 -1.513,1.513 -0.837,0 -1.513,-0.675 -1.513,-1.513 0,-0.832 0.675,-1.513 1.513,-1.513 0.837,0.003 1.513,0.682 1.513,1.513 z"
+         id="path162-6" />
+      <circle
+         style="fill:#404040"
+         sodipodi:ry="1.511"
+         sodipodi:rx="1.511"
+         sodipodi:cy="80.100998"
+         sodipodi:cx="170.27699"
+         cx="170.27699"
+         cy="80.100998"
+         r="1.511"
+         id="circle164-0"
+         d="m 171.78799,80.100998 c 0,0.834502 -0.67649,1.511 -1.511,1.511 -0.8345,0 -1.511,-0.676498 -1.511,-1.511 0,-0.834502 0.6765,-1.511 1.511,-1.511 0.83451,0 1.511,0.676498 1.511,1.511 z" />
+      <circle
+         style="fill:#404040"
+         sodipodi:ry="1.511"
+         sodipodi:rx="1.511"
+         sodipodi:cy="80.100998"
+         sodipodi:cx="182.991"
+         cx="182.991"
+         cy="80.100998"
+         r="1.511"
+         id="circle166-0"
+         d="m 184.502,80.100998 c 0,0.834502 -0.6765,1.511 -1.511,1.511 -0.8345,0 -1.511,-0.676498 -1.511,-1.511 0,-0.834502 0.6765,-1.511 1.511,-1.511 0.8345,0 1.511,0.676498 1.511,1.511 z" />
+      <circle
+         style="fill:#404040"
+         sodipodi:ry="4.9089999"
+         sodipodi:rx="4.9089999"
+         sodipodi:cy="73.491997"
+         sodipodi:cx="176.256"
+         cx="176.256"
+         cy="73.491997"
+         r="4.9089999"
+         id="circle168-5"
+         d="m 181.165,73.491997 c 0,2.711166 -2.19784,4.909 -4.909,4.909 -2.71117,0 -4.909,-2.197834 -4.909,-4.909 0,-2.711166 2.19783,-4.909 4.909,-4.909 2.71116,0 4.909,2.197834 4.909,4.909 z" />
+      <polygon
+         style="fill:#404040"
+         points="209.885,61.289 208.373,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.656,61.289 195.656,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.373,66.732 209.885,65.223 "
+         id="polygon170-5" />
+      <polygon
+         style="fill:#404040"
+         points="209.885,68.471 208.373,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.656,68.471 195.656,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.373,73.915 209.885,72.403 "
+         id="polygon172-8" />
+      <polygon
+         style="fill:#404040"
+         points="209.885,75.651 208.373,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.656,75.651 195.656,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.373,81.094 209.885,79.584 "
+         id="polygon174-4" />
+      <polygon
+         style="fill:#404040"
+         points="209.885,61.289 208.373,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.656,61.289 195.656,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.373,66.732 209.885,65.223 "
+         id="polygon176-4" />
+      <polygon
+         style="fill:#404040"
+         points="209.885,68.471 208.373,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.656,68.471 195.656,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.373,73.915 209.885,72.403 "
+         id="polygon178-3" />
+      <polygon
+         style="fill:#404040"
+         points="209.885,75.651 208.373,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.656,75.651 195.656,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.373,81.094 209.885,79.584 "
+         id="polygon180-9" />
+      <rect
+         style="fill:#8d8c8c"
+         x="198.065"
+         y="76.334"
+         width="2.2980001"
+         height="2.299"
+         id="rect182-6" />
+      <rect
+         style="fill:#8d8c8c"
+         x="205.26401"
+         y="76.334"
+         width="2.2969999"
+         height="2.299"
+         id="rect184-3" />
+      <rect
+         style="fill:#8d8c8c"
+         x="198.065"
+         y="69.136002"
+         width="2.2980001"
+         height="2.2980001"
+         id="rect186-6" />
+      <rect
+         style="fill:#8d8c8c"
+         x="205.26401"
+         y="69.136002"
+         width="2.2969999"
+         height="2.2980001"
+         id="rect188-8" />
+      <rect
+         style="fill:#8d8c8c"
+         x="198.065"
+         y="61.937"
+         width="2.2980001"
+         height="2.2980001"
+         id="rect190-4" />
+      <rect
+         style="fill:#8d8455"
+         x="205.26401"
+         y="61.937"
+         width="2.2969999"
+         height="2.2980001"
+         id="rect192-1" />
+      <rect
+         style="fill:#8c8663"
+         x="205.823"
+         y="62.494999"
+         width="1.182"
+         height="1.182"
+         id="rect196-1" />
+      <polygon
+         style="fill:#b8af82"
+         points="207.562,61.937 205.264,61.937 205.823,62.495 207.003,62.495 "
+         id="polygon198-5" />
+      <polygon
+         style="fill:#80795b"
+         points="207.562,64.235 207.003,63.677 207.003,62.495 207.562,61.937 "
+         id="polygon200-5" />
+      <polygon
+         style="fill:#5e5b43"
+         points="205.264,64.235 205.823,63.677 207.003,63.677 207.562,64.235 "
+         id="polygon202-4" />
+      <polygon
+         style="fill:#9a916c"
+         points="205.264,64.235 205.264,61.937 205.823,62.495 205.823,63.677 "
+         id="polygon204-2" />
+      <rect
+         style="fill:#8c8663"
+         x="198.623"
+         y="62.494999"
+         width="1.182"
+         height="1.182"
+         id="rect206-9" />
+      <polygon
+         style="fill:#b8af82"
+         points="200.363,61.937 198.065,61.937 198.623,62.495 199.804,62.495 "
+         id="polygon208-2" />
+      <polygon
+         style="fill:#80795b"
+         points="200.363,64.235 199.804,63.677 199.804,62.495 200.363,61.937 "
+         id="polygon210-4" />
+      <polygon
+         style="fill:#5e5b43"
+         points="198.065,64.235 198.623,63.677 199.804,63.677 200.363,64.235 "
+         id="polygon212-0" />
+      <polygon
+         style="fill:#9a916c"
+         points="198.065,64.235 198.065,61.937 198.623,62.495 198.623,63.677 "
+         id="polygon214-5" />
+      <rect
+         style="fill:#8c8663"
+         x="205.823"
+         y="69.693001"
+         width="1.182"
+         height="1.182"
+         id="rect216-7" />
+      <polygon
+         style="fill:#b8af82"
+         points="207.562,69.136 205.264,69.136 205.823,69.693 207.003,69.693 "
+         id="polygon218-6" />
+      <polygon
+         style="fill:#80795b"
+         points="207.562,71.434 207.003,70.875 207.003,69.693 207.562,69.136 "
+         id="polygon220-0" />
+      <polygon
+         style="fill:#5e5b43"
+         points="205.264,71.434 205.823,70.875 207.003,70.875 207.562,71.434 "
+         id="polygon222-4" />
+      <polygon
+         style="fill:#9a916c"
+         points="205.264,71.434 205.264,69.136 205.823,69.693 205.823,70.875 "
+         id="polygon224-4" />
+      <rect
+         style="fill:#8c8663"
+         x="198.623"
+         y="69.693001"
+         width="1.182"
+         height="1.182"
+         id="rect226-7" />
+      <polygon
+         style="fill:#b8af82"
+         points="200.363,69.136 198.065,69.136 198.623,69.693 199.804,69.693 "
+         id="polygon228-5" />
+      <polygon
+         style="fill:#80795b"
+         points="200.363,71.434 199.804,70.875 199.804,69.693 200.363,69.136 "
+         id="polygon230-5" />
+      <polygon
+         style="fill:#5e5b43"
+         points="198.065,71.434 198.623,70.875 199.804,70.875 200.363,71.434 "
+         id="polygon232-9" />
+      <polygon
+         style="fill:#9a916c"
+         points="198.065,71.434 198.065,69.136 198.623,69.693 198.623,70.875 "
+         id="polygon234-1" />
+      <rect
+         style="fill:#8c8663"
+         x="205.823"
+         y="76.891998"
+         width="1.182"
+         height="1.183"
+         id="rect236-8" />
+      <polygon
+         style="fill:#b8af82"
+         points="207.562,76.334 205.264,76.334 205.823,76.892 207.003,76.892 "
+         id="polygon238-4" />
+      <polygon
+         style="fill:#80795b"
+         points="207.562,78.633 207.003,78.075 207.003,76.892 207.562,76.334 "
+         id="polygon240-4" />
+      <polygon
+         style="fill:#5e5b43"
+         points="205.264,78.633 205.823,78.075 207.003,78.075 207.562,78.633 "
+         id="polygon242-6" />
+      <polygon
+         style="fill:#9a916c"
+         points="205.264,78.633 205.264,76.334 205.823,76.892 205.823,78.075 "
+         id="polygon244-5" />
+      <rect
+         style="fill:#8c8663"
+         x="198.623"
+         y="76.891998"
+         width="1.182"
+         height="1.183"
+         id="rect246-1" />
+      <polygon
+         style="fill:#b8af82"
+         points="200.363,76.334 198.065,76.334 198.623,76.892 199.804,76.892 "
+         id="polygon248-0" />
+      <polygon
+         style="fill:#80795b"
+         points="200.363,78.633 199.804,78.075 199.804,76.892 200.363,76.334 "
+         id="polygon250-4" />
+      <polygon
+         style="fill:#5e5b43"
+         points="198.065,78.633 198.623,78.075 199.804,78.075 200.363,78.633 "
+         id="polygon252-9" />
+      <polygon
+         style="fill:#9a916c"
+         points="198.065,78.633 198.065,76.334 198.623,76.892 198.623,78.075 "
+         id="polygon254-9" />
+      <rect
+         style="fill:#676666"
+         x="0.0099999998"
+         y="25.386999"
+         width="37.929001"
+         height="33.902"
+         id="rect306-5" />
+      <rect
+         style="fill:#676666"
+         x="37.939999"
+         y="25.386999"
+         width="8.0559998"
+         height="33.902"
+         id="rect308-8" />
+      <rect
+         x="15.114"
+         y="115.471"
+         width="37.261002"
+         height="23.83"
+         id="rect310-7" />
+      <rect
+         x="14.78"
+         y="114.129"
+         width="7.7220001"
+         height="26.181999"
+         id="rect312-5" />
+      <rect
+         style="fill:#404040"
+         x="80.445"
+         y="1.908"
+         width="7.1799998"
+         height="7.178"
+         id="rect314-4" />
+      <rect
+         x="82.648003"
+         y="4.1100001"
+         width="2.7739999"
+         height="2.773"
+         id="rect316-8" />
+      <polygon
+         style="fill:#2a2a29"
+         points="86.443,3.087 81.625,3.087 82.648,4.11 85.421,4.11 "
+         id="polygon318-6" />
+      <polygon
+         style="fill:#474747"
+         points="86.444,7.906 86.444,3.087 85.421,4.113 85.421,6.885 "
+         id="polygon320-0" />
+      <polygon
+         style="fill:#595959"
+         points="81.625,7.906 86.443,7.906 85.421,6.885 82.647,6.885 "
+         id="polygon322-2" />
+      <polygon
+         style="fill:#373737"
+         points="81.624,3.087 81.624,7.906 82.647,6.883 82.647,4.11 "
+         id="polygon324-6" />
+      <rect
+         style="fill:#404040"
+         x="87.623001"
+         y="1.908"
+         width="7.177"
+         height="7.178"
+         id="rect326-2" />
+      <rect
+         x="89.824997"
+         y="4.1100001"
+         width="2.7720001"
+         height="2.773"
+         id="rect328-7" />
+      <polygon
+         style="fill:#2a2a29"
+         points="93.621,3.087 88.802,3.087 89.824,4.11 92.598,4.11 "
+         id="polygon330-3" />
+      <polygon
+         style="fill:#474747"
+         points="93.621,7.906 93.621,3.087 92.598,4.113 92.598,6.885 "
+         id="polygon332-1" />
+      <polygon
+         style="fill:#595959"
+         points="88.802,7.906 93.619,7.906 92.598,6.885 89.824,6.885 "
+         id="polygon334-5" />
+      <polygon
+         style="fill:#373737"
+         points="88.801,3.087 88.801,7.906 89.824,6.883 89.824,4.11 "
+         id="polygon336-9" />
+      <rect
+         style="fill:#404040"
+         x="94.800003"
+         y="1.908"
+         width="7.1799998"
+         height="7.178"
+         id="rect338-5" />
+      <rect
+         x="97.002998"
+         y="4.1100001"
+         width="2.7720001"
+         height="2.773"
+         id="rect340-9" />
+      <polygon
+         style="fill:#2a2a29"
+         points="100.799,3.087 95.98,3.087 97.002,4.11 99.777,4.11 "
+         id="polygon342-8" />
+      <polygon
+         style="fill:#474747"
+         points="100.799,7.906 100.799,3.087 99.777,4.113 99.777,6.885 "
+         id="polygon344-9" />
+      <polygon
+         style="fill:#595959"
+         points="95.98,7.906 100.798,7.906 99.776,6.885 97.001,6.885 "
+         id="polygon346-7" />
+      <polygon
+         style="fill:#373737"
+         points="95.979,3.087 95.979,7.906 97.001,6.883 97.001,4.11 "
+         id="polygon348-4" />
+      <rect
+         style="fill:#404040"
+         x="101.978"
+         y="1.908"
+         width="7.178"
+         height="7.178"
+         id="rect350-0" />
+      <rect
+         x="104.18"
+         y="4.1100001"
+         width="2.7739999"
+         height="2.773"
+         id="rect352-8" />
+      <polygon
+         style="fill:#2a2a29"
+         points="107.977,3.087 103.157,3.087 104.18,4.11 106.953,4.11 "
+         id="polygon354-4" />
+      <polygon
+         style="fill:#474747"
+         points="107.977,7.906 107.977,3.087 106.953,4.113 106.953,6.885 "
+         id="polygon356-7" />
+      <polygon
+         style="fill:#595959"
+         points="103.157,7.906 107.975,7.906 106.953,6.885 104.179,6.885 "
+         id="polygon358-2" />
+      <polygon
+         style="fill:#373737"
+         points="103.156,3.087 103.156,7.906 104.179,6.883 104.179,4.11 "
+         id="polygon360-0" />
+      <rect
+         style="fill:#404040"
+         x="123.638"
+         y="138.68401"
+         width="7.178"
+         height="7.178"
+         id="rect362-8" />
+      <rect
+         x="125.84"
+         y="140.88699"
+         width="2.773"
+         height="2.7709999"
+         id="rect364-8" />
+      <polygon
+         style="fill:#2a2a29"
+         points="129.635,139.864 124.817,139.864 125.839,140.885 128.614,140.885 "
+         id="polygon366-6" />
+      <polygon
+         style="fill:#474747"
+         points="129.636,144.682 129.636,139.864 128.614,140.889 128.614,143.661 "
+         id="polygon368-0" />
+      <polygon
+         style="fill:#595959"
+         points="124.817,144.682 129.635,144.682 128.614,143.661 125.839,143.661 "
+         id="polygon370-2" />
+      <polygon
+         style="fill:#373737"
+         points="124.817,139.864 124.817,144.682 125.839,143.659 125.839,140.885 "
+         id="polygon372-3" />
+      <rect
+         style="fill:#404040"
+         x="116.44"
+         y="138.68401"
+         width="7.178"
+         height="7.178"
+         id="rect374-9" />
+      <rect
+         x="118.642"
+         y="140.88699"
+         width="2.7739999"
+         height="2.7709999"
+         id="rect376-1" />
+      <polygon
+         style="fill:#2a2a29"
+         points="122.436,139.864 117.618,139.864 118.64,140.885 121.414,140.885 "
+         id="polygon378-3" />
+      <polygon
+         style="fill:#474747"
+         points="122.438,144.682 122.438,139.864 121.414,140.889 121.414,143.661 "
+         id="polygon380-7" />
+      <polygon
+         style="fill:#595959"
+         points="117.618,144.682 122.436,144.682 121.414,143.661 118.64,143.661 "
+         id="polygon382-9" />
+      <polygon
+         style="fill:#373737"
+         points="117.618,139.864 117.618,144.682 118.64,143.659 118.64,140.885 "
+         id="polygon384-3" />
+      <rect
+         style="fill:#404040"
+         x="109.24"
+         y="138.68401"
+         width="7.178"
+         height="7.178"
+         id="rect386-3" />
+      <rect
+         x="111.443"
+         y="140.88699"
+         width="2.7739999"
+         height="2.7709999"
+         id="rect388-1" />
+      <polygon
+         style="fill:#2a2a29"
+         points="115.238,139.864 110.419,139.864 111.442,140.885 114.216,140.885 "
+         id="polygon390-2" />
+      <polygon
+         style="fill:#474747"
+         points="115.239,144.682 115.239,139.864 114.216,140.889 114.216,143.661 "
+         id="polygon392-5" />
+      <polygon
+         style="fill:#595959"
+         points="110.419,144.682 115.238,144.682 114.216,143.661 111.442,143.661 "
+         id="polygon394-6" />
+      <polygon
+         style="fill:#373737"
+         points="110.419,139.864 110.419,144.682 111.442,143.659 111.442,140.885 "
+         id="polygon396-2" />
+      <rect
+         style="fill:#404040"
+         x="130.815"
+         y="138.68401"
+         width="7.1789999"
+         height="7.178"
+         id="rect398-0" />
+      <rect
+         x="133.01801"
+         y="140.88699"
+         width="2.7720001"
+         height="2.7709999"
+         id="rect400-6" />
+      <polygon
+         style="fill:#2a2a29"
+         points="136.813,139.864 131.994,139.864 133.017,140.885 135.79,140.885 "
+         id="polygon402-1" />
+      <polygon
+         style="fill:#474747"
+         points="136.815,144.682 136.815,139.864 135.79,140.889 135.79,143.661 "
+         id="polygon404-7" />
+      <polygon
+         style="fill:#595959"
+         points="131.994,144.682 136.813,144.682 135.79,143.661 133.015,143.661 "
+         id="polygon406-7" />
+      <polygon
+         style="fill:#373737"
+         points="131.994,139.864 131.994,144.682 133.015,143.659 133.015,140.885 "
+         id="polygon408-0" />
+      <rect
+         style="fill:#404040"
+         x="137.992"
+         y="138.68401"
+         width="7.1799998"
+         height="7.178"
+         id="rect410-5" />
+      <rect
+         x="140.196"
+         y="140.88699"
+         width="2.7739999"
+         height="2.7709999"
+         id="rect412-6" />
+      <polygon
+         style="fill:#2a2a29"
+         points="143.99,139.864 139.172,139.864 140.194,140.885 142.97,140.885 "
+         id="polygon414-1" />
+      <polygon
+         style="fill:#474747"
+         points="143.99,144.682 143.99,139.864 142.97,140.889 142.97,143.661 "
+         id="polygon416-2" />
+      <polygon
+         style="fill:#595959"
+         points="139.172,144.682 143.99,144.682 142.97,143.661 140.194,143.661 "
+         id="polygon418-2" />
+      <polygon
+         style="fill:#373737"
+         points="139.172,139.864 139.172,144.682 140.194,143.659 140.194,140.885 "
+         id="polygon420-6" />
+      <rect
+         style="fill:#404040"
+         x="145.17"
+         y="138.68401"
+         width="7.1789999"
+         height="7.178"
+         id="rect422-1" />
+      <rect
+         x="147.37199"
+         y="140.88699"
+         width="2.773"
+         height="2.7709999"
+         id="rect424-0" />
+      <polygon
+         style="fill:#2a2a29"
+         points="151.168,139.864 146.348,139.864 147.372,140.885 150.147,140.885 "
+         id="polygon426-5" />
+      <polygon
+         style="fill:#474747"
+         points="151.169,144.682 151.169,139.864 150.147,140.889 150.147,143.661 "
+         id="polygon428-5" />
+      <polygon
+         style="fill:#595959"
+         points="146.348,144.682 151.168,144.682 150.145,143.661 147.372,143.661 "
+         id="polygon430-3" />
+      <polygon
+         style="fill:#373737"
+         points="146.348,139.864 146.348,144.682 147.372,143.659 147.372,140.885 "
+         id="polygon432-3" />
+      <rect
+         style="fill:#404040"
+         x="159.632"
+         y="138.68401"
+         width="7.178"
+         height="7.178"
+         id="rect434-1" />
+      <rect
+         x="161.83501"
+         y="140.88699"
+         width="2.7709999"
+         height="2.7709999"
+         id="rect436-2" />
+      <polygon
+         style="fill:#2a2a29"
+         points="165.629,139.864 160.812,139.864 161.833,140.885 164.608,140.885 "
+         id="polygon438-5" />
+      <polygon
+         style="fill:#474747"
+         points="165.631,144.682 165.631,139.864 164.608,140.889 164.608,143.661 "
+         id="polygon440-7" />
+      <polygon
+         style="fill:#595959"
+         points="160.812,144.682 165.629,144.682 164.607,143.661 161.833,143.661 "
+         id="polygon442-2" />
+      <polygon
+         style="fill:#373737"
+         points="160.812,139.864 160.812,144.682 161.833,143.659 161.833,140.885 "
+         id="polygon444-1" />
+      <rect
+         style="fill:#404040"
+         x="166.81"
+         y="138.68401"
+         width="7.178"
+         height="7.178"
+         id="rect446-7" />
+      <rect
+         x="169.01199"
+         y="140.88699"
+         width="2.773"
+         height="2.7709999"
+         id="rect448-1" />
+      <polygon
+         style="fill:#2a2a29"
+         points="172.809,139.864 167.99,139.864 169.012,140.885 171.785,140.885 "
+         id="polygon450-2" />
+      <polygon
+         style="fill:#474747"
+         points="172.809,144.682 172.809,139.864 171.785,140.889 171.785,143.661 "
+         id="polygon452-2" />
+      <polygon
+         style="fill:#595959"
+         points="167.99,144.682 172.807,144.682 171.784,143.661 169.01,143.661 "
+         id="polygon454-8" />
+      <polygon
+         style="fill:#373737"
+         points="167.988,139.864 167.988,144.682 169.01,143.659 169.01,140.885 "
+         id="polygon456-0" />
+      <rect
+         style="fill:#404040"
+         x="173.98801"
+         y="138.68401"
+         width="7.1799998"
+         height="7.178"
+         id="rect458-9" />
+      <rect
+         x="176.19"
+         y="140.88699"
+         width="2.773"
+         height="2.7709999"
+         id="rect460-4" />
+      <polygon
+         style="fill:#2a2a29"
+         points="179.985,139.864 175.165,139.864 176.189,140.885 178.962,140.885 "
+         id="polygon462-9" />
+      <polygon
+         style="fill:#474747"
+         points="179.985,144.682 179.985,139.864 178.962,140.889 178.962,143.661 "
+         id="polygon464-3" />
+      <polygon
+         style="fill:#595959"
+         points="175.165,144.682 179.985,144.682 178.962,143.661 176.189,143.661 "
+         id="polygon466-1" />
+      <polygon
+         style="fill:#373737"
+         points="175.165,139.864 175.165,144.682 176.189,143.659 176.189,140.885 "
+         id="polygon468-4" />
+      <rect
+         style="fill:#404040"
+         x="181.164"
+         y="138.68401"
+         width="7.178"
+         height="7.178"
+         id="rect470-1" />
+      <rect
+         x="183.367"
+         y="140.88699"
+         width="2.7720001"
+         height="2.7709999"
+         id="rect472-4" />
+      <polygon
+         style="fill:#2a2a29"
+         points="187.163,139.864 182.344,139.864 183.365,140.885 186.141,140.885 "
+         id="polygon474-3" />
+      <polygon
+         style="fill:#474747"
+         points="187.163,144.682 187.163,139.864 186.141,140.889 186.141,143.661 "
+         id="polygon476-0" />
+      <polygon
+         style="fill:#595959"
+         points="182.344,144.682 187.163,144.682 186.14,143.661 183.365,143.661 "
+         id="polygon478-4" />
+      <polygon
+         style="fill:#373737"
+         points="182.344,139.864 182.344,144.682 183.365,143.659 183.365,140.885 "
+         id="polygon480-8" />
+      <rect
+         style="fill:#404040"
+         x="188.342"
+         y="138.68401"
+         width="7.177"
+         height="7.178"
+         id="rect482-7" />
+      <rect
+         x="190.54401"
+         y="140.88699"
+         width="2.7720001"
+         height="2.7709999"
+         id="rect484-3" />
+      <polygon
+         style="fill:#2a2a29"
+         points="194.338,139.864 189.52,139.864 190.544,140.885 193.318,140.885 "
+         id="polygon486-2" />
+      <polygon
+         style="fill:#474747"
+         points="194.341,144.682 194.341,139.864 193.318,140.889 193.318,143.661 "
+         id="polygon488-8" />
+      <polygon
+         style="fill:#595959"
+         points="189.52,144.682 194.338,144.682 193.316,143.661 190.544,143.661 "
+         id="polygon490-2" />
+      <polygon
+         style="fill:#373737"
+         points="189.52,139.864 189.52,144.682 190.544,143.659 190.544,140.885 "
+         id="polygon492-3" />
+      <rect
+         style="fill:#404040"
+         x="195.519"
+         y="138.68401"
+         width="7.178"
+         height="7.178"
+         id="rect494-9" />
+      <rect
+         x="197.722"
+         y="140.88699"
+         width="2.7709999"
+         height="2.7709999"
+         id="rect496-8" />
+      <polygon
+         style="fill:#2a2a29"
+         points="201.516,139.864 196.698,139.864 197.719,140.885 200.494,140.885 "
+         id="polygon498-5" />
+      <polygon
+         style="fill:#474747"
+         points="201.518,144.682 201.518,139.864 200.494,140.889 200.494,143.661 "
+         id="polygon500-0" />
+      <polygon
+         style="fill:#595959"
+         points="196.698,144.682 201.516,144.682 200.492,143.661 197.719,143.661 "
+         id="polygon502-8" />
+      <polygon
+         style="fill:#373737"
+         points="196.698,139.864 196.698,144.682 197.719,143.659 197.719,140.885 "
+         id="polygon504-3" />
+      <rect
+         style="fill:#404040"
+         x="109.156"
+         y="1.908"
+         width="7.1789999"
+         height="7.178"
+         id="rect506-5" />
+      <rect
+         x="111.359"
+         y="4.1100001"
+         width="2.773"
+         height="2.773"
+         id="rect508-1" />
+      <polygon
+         style="fill:#2a2a29"
+         points="115.154,3.087 110.335,3.087 111.358,4.11 114.132,4.11 "
+         id="polygon510-5" />
+      <polygon
+         style="fill:#474747"
+         points="115.154,7.906 115.154,3.087 114.132,4.113 114.132,6.885 "
+         id="polygon512-8" />
+      <polygon
+         style="fill:#595959"
+         points="110.335,7.906 115.154,7.906 114.13,6.885 111.358,6.885 "
+         id="polygon514-3" />
+      <polygon
+         style="fill:#373737"
+         points="110.333,3.087 110.333,7.906 111.358,6.883 111.358,4.11 "
+         id="polygon516-7" />
+      <rect
+         style="fill:#404040"
+         x="116.333"
+         y="1.908"
+         width="7.1789999"
+         height="7.178"
+         id="rect518-1" />
+      <rect
+         x="118.535"
+         y="4.1100001"
+         width="2.7720001"
+         height="2.773"
+         id="rect520-6" />
+      <polygon
+         style="fill:#2a2a29"
+         points="122.331,3.087 117.513,3.087 118.535,4.11 121.309,4.11 "
+         id="polygon522-0" />
+      <polygon
+         style="fill:#474747"
+         points="122.331,7.906 122.331,3.087 121.309,4.113 121.309,6.885 "
+         id="polygon524-9" />
+      <polygon
+         style="fill:#595959"
+         points="117.513,7.906 122.331,7.906 121.308,6.885 118.534,6.885 "
+         id="polygon526-0" />
+      <polygon
+         style="fill:#373737"
+         points="117.512,3.087 117.512,7.906 118.534,6.883 118.534,4.11 "
+         id="polygon528-5" />
+      <rect
+         style="fill:#404040"
+         x="123.511"
+         y="1.908"
+         width="7.178"
+         height="7.178"
+         id="rect530-3" />
+      <rect
+         x="125.714"
+         y="4.1100001"
+         width="2.773"
+         height="2.773"
+         id="rect532-1" />
+      <polygon
+         style="fill:#2a2a29"
+         points="129.51,3.087 124.692,3.087 125.712,4.11 128.488,4.11 "
+         id="polygon534-4" />
+      <polygon
+         style="fill:#474747"
+         points="129.51,7.906 129.51,3.087 128.488,4.113 128.488,6.885 "
+         id="polygon536-2" />
+      <polygon
+         style="fill:#595959"
+         points="124.692,7.906 129.509,7.906 128.487,6.885 125.712,6.885 "
+         id="polygon538-0" />
+      <polygon
+         style="fill:#373737"
+         points="124.69,3.087 124.69,7.906 125.712,6.883 125.712,4.11 "
+         id="polygon540-1" />
+      <rect
+         style="fill:#404040"
+         x="130.688"
+         y="1.908"
+         width="7.1799998"
+         height="7.178"
+         id="rect542-5" />
+      <rect
+         x="132.892"
+         y="4.1100001"
+         width="2.773"
+         height="2.773"
+         id="rect544-9" />
+      <polygon
+         style="fill:#2a2a29"
+         points="136.687,3.087 131.868,3.087 132.89,4.11 135.664,4.11 "
+         id="polygon546-0" />
+      <polygon
+         style="fill:#474747"
+         points="136.687,7.906 136.687,3.087 135.664,4.113 135.664,6.885 "
+         id="polygon548-4" />
+      <polygon
+         style="fill:#595959"
+         points="131.868,7.906 136.686,7.906 135.663,6.885 132.89,6.885 "
+         id="polygon550-2" />
+      <polygon
+         style="fill:#373737"
+         points="131.866,3.087 131.866,7.906 132.89,6.883 132.89,4.11 "
+         id="polygon552-6" />
+      <rect
+         style="fill:#404040"
+         x="145.23399"
+         y="1.908"
+         width="7.1810002"
+         height="7.178"
+         id="rect554-0" />
+      <rect
+         x="147.438"
+         y="4.1100001"
+         width="2.7720001"
+         height="2.773"
+         id="rect556-5" />
+      <polygon
+         style="fill:#2a2a29"
+         points="151.232,3.087 146.413,3.087 147.435,4.11 150.21,4.11 "
+         id="polygon558-2" />
+      <polygon
+         style="fill:#474747"
+         points="151.232,7.906 151.232,3.087 150.21,4.113 150.21,6.885 "
+         id="polygon560-4" />
+      <polygon
+         style="fill:#595959"
+         points="146.413,7.906 151.232,7.906 150.209,6.885 147.435,6.885 "
+         id="polygon562-2" />
+      <polygon
+         style="fill:#373737"
+         points="146.413,3.087 146.413,7.906 147.435,6.883 147.435,4.11 "
+         id="polygon564-3" />
+      <rect
+         style="fill:#404040"
+         x="152.412"
+         y="1.908"
+         width="7.1760001"
+         height="7.178"
+         id="rect566-8" />
+      <rect
+         x="154.61501"
+         y="4.1100001"
+         width="2.773"
+         height="2.773"
+         id="rect568-5" />
+      <polygon
+         style="fill:#2a2a29"
+         points="158.409,3.087 153.591,3.087 154.615,4.11 157.388,4.11 "
+         id="polygon570-0" />
+      <polygon
+         style="fill:#474747"
+         points="158.411,7.906 158.411,3.087 157.388,4.113 157.388,6.885 "
+         id="polygon572-5" />
+      <polygon
+         style="fill:#595959"
+         points="153.591,7.906 158.409,7.906 157.388,6.885 154.614,6.885 "
+         id="polygon574-3" />
+      <polygon
+         style="fill:#373737"
+         points="153.591,3.087 153.591,7.906 154.614,6.883 154.614,4.11 "
+         id="polygon576-2" />
+      <rect
+         style="fill:#404040"
+         x="159.588"
+         y="1.908"
+         width="7.1810002"
+         height="7.178"
+         id="rect578-9" />
+      <rect
+         x="161.79201"
+         y="4.1100001"
+         width="2.7720001"
+         height="2.773"
+         id="rect580-7" />
+      <polygon
+         style="fill:#2a2a29"
+         points="165.588,3.087 160.769,3.087 161.792,4.11 164.565,4.11 "
+         id="polygon582-3" />
+      <polygon
+         style="fill:#474747"
+         points="165.588,7.906 165.588,3.087 164.565,4.113 164.565,6.885 "
+         id="polygon584-7" />
+      <polygon
+         style="fill:#595959"
+         points="160.769,7.906 165.586,7.906 164.565,6.885 161.79,6.885 "
+         id="polygon586-4" />
+      <polygon
+         style="fill:#373737"
+         points="160.768,3.087 160.768,7.906 161.79,6.883 161.79,4.11 "
+         id="polygon588-9" />
+      <rect
+         style="fill:#404040"
+         x="166.767"
+         y="1.908"
+         width="7.1789999"
+         height="7.178"
+         id="rect590-8" />
+      <rect
+         x="168.97"
+         y="4.1100001"
+         width="2.7720001"
+         height="2.773"
+         id="rect592-8" />
+      <polygon
+         style="fill:#2a2a29"
+         points="172.765,3.087 167.947,3.087 168.968,4.11 171.743,4.11 "
+         id="polygon594-8" />
+      <polygon
+         style="fill:#474747"
+         points="172.765,7.906 172.765,3.087 171.743,4.113 171.743,6.885 "
+         id="polygon596-0" />
+      <polygon
+         style="fill:#595959"
+         points="167.947,7.906 172.765,7.906 171.741,6.885 168.968,6.885 "
+         id="polygon598-9" />
+      <polygon
+         style="fill:#373737"
+         points="167.947,3.087 167.947,7.906 168.968,6.883 168.968,4.11 "
+         id="polygon600-7" />
+      <rect
+         style="fill:#404040"
+         x="173.94501"
+         y="1.908"
+         width="7.1789999"
+         height="7.178"
+         id="rect602-3" />
+      <rect
+         x="176.147"
+         y="4.1100001"
+         width="2.7739999"
+         height="2.773"
+         id="rect604-0" />
+      <polygon
+         style="fill:#2a2a29"
+         points="179.942,3.087 175.123,3.087 176.146,4.11 178.92,4.11 "
+         id="polygon606-7" />
+      <polygon
+         style="fill:#474747"
+         points="179.942,7.906 179.942,3.087 178.92,4.113 178.92,6.885 "
+         id="polygon608-6" />
+      <polygon
+         style="fill:#595959"
+         points="175.123,7.906 179.942,7.906 178.92,6.885 176.146,6.885 "
+         id="polygon610-1" />
+      <polygon
+         style="fill:#373737"
+         points="175.123,3.087 175.123,7.906 176.146,6.883 176.146,4.11 "
+         id="polygon612-2" />
+      <rect
+         style="fill:#404040"
+         x="181.12199"
+         y="1.908"
+         width="7.1789999"
+         height="7.178"
+         id="rect614-4" />
+      <rect
+         x="183.32401"
+         y="4.1100001"
+         width="2.7720001"
+         height="2.773"
+         id="rect616-2" />
+      <polygon
+         style="fill:#2a2a29"
+         points="187.12,3.087 182.302,3.087 183.324,4.11 186.097,4.11 "
+         id="polygon618-8" />
+      <polygon
+         style="fill:#474747"
+         points="187.12,7.906 187.12,3.087 186.097,4.113 186.097,6.885 "
+         id="polygon620-6" />
+      <polygon
+         style="fill:#595959"
+         points="182.302,7.906 187.12,7.906 186.097,6.885 183.324,6.885 "
+         id="polygon622-3" />
+      <polygon
+         style="fill:#373737"
+         points="182.3,3.087 182.3,7.906 183.324,6.883 183.324,4.11 "
+         id="polygon624-9" />
+      <rect
+         style="fill:#404040"
+         x="188.3"
+         y="1.908"
+         width="7.178"
+         height="7.178"
+         id="rect626-8" />
+      <rect
+         x="190.502"
+         y="4.1100001"
+         width="2.7709999"
+         height="2.773"
+         id="rect628-3" />
+      <polygon
+         style="fill:#2a2a29"
+         points="194.298,3.087 189.48,3.087 190.502,4.11 193.275,4.11 "
+         id="polygon630-5" />
+      <polygon
+         style="fill:#474747"
+         points="194.299,7.906 194.299,3.087 193.275,4.113 193.275,6.885 "
+         id="polygon632-1" />
+      <polygon
+         style="fill:#595959"
+         points="189.48,7.906 194.298,7.906 193.275,6.885 190.501,6.885 "
+         id="polygon634-0" />
+      <polygon
+         style="fill:#373737"
+         points="189.476,3.087 189.476,7.906 190.501,6.883 190.501,4.11 "
+         id="polygon636-9" />
+      <rect
+         style="fill:#404040"
+         x="195.47701"
+         y="1.908"
+         width="7.1799998"
+         height="7.178"
+         id="rect638-6" />
+      <rect
+         x="197.67999"
+         y="4.1100001"
+         width="2.7739999"
+         height="2.773"
+         id="rect640-2" />
+      <polygon
+         style="fill:#2a2a29"
+         points="201.476,3.087 196.657,3.087 197.679,4.11 200.453,4.11 "
+         id="polygon642-5" />
+      <polygon
+         style="fill:#474747"
+         points="201.476,7.906 201.476,3.087 200.453,4.113 200.453,6.885 "
+         id="polygon644-4" />
+      <polygon
+         style="fill:#595959"
+         points="196.657,7.906 201.474,7.906 200.452,6.885 197.679,6.885 "
+         id="polygon646-8" />
+      <polygon
+         style="fill:#373737"
+         points="196.656,3.087 196.656,7.906 197.679,6.883 197.679,4.11 "
+         id="polygon648-5" />
+      <g
+         id="g650-3">
+        <text
+           font-size="5"
+           id="text666-1"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="85.258446"
+           y="34.291668"
+           sodipodi:linespacing="112%">L</text>
+        <text
+           font-size="5"
+           id="text668-7"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="82.058449"
+           y="46.291668"
+           sodipodi:linespacing="112%">TX</text>
+        <text
+           font-size="5"
+           id="text670-0"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="82.058449"
+           y="52.291668"
+           sodipodi:linespacing="112%">RX</text>
+        <text
+           font-size="5"
+           id="text680-8"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="191.67967"
+           y="49.048733"
+           sodipodi:linespacing="112%">ON</text>
+        <text
+           font-size="5"
+           id="text682-0"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-81.270851"
+           y="194.58603"
+           transform="matrix(0,-1,1,0,0,0)"
+           sodipodi:linespacing="112%">ICSP</text>
+        <text
+           font-size="5"
+           id="text714-4"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="124.57468"
+           y="22.888266"
+           sodipodi:linespacing="112%">DIGITAL (PWM~)</text>
+        <text
+           transform="matrix(0,-1,1,0,200.803,58.5825)"
+           font-size="5"
+           id="text732-6"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           sodipodi:linespacing="112%">1</text>
+        <text
+           font-size="5"
+           id="text738-9"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="133.49008"
+           y="123.70872"
+           sodipodi:linespacing="112%">POWER</text>
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           font-size="5"
+           id="text740-6"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;fill-opacity:0.61176471;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-119.17019"
+           y="207.86276"
+           sodipodi:linespacing="112%">
+          <tspan
+             style="font-size:4.80000019px"
+             id="tspan5482">WWW.ARDUINO.CC</tspan>
+        </text>
+        <text
+           font-size="5"
+           id="text742-8"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="169.4162"
+           y="123.70872"
+           sodipodi:linespacing="112%">ANALOG IN</text>
+        <text
+           font-size="9.1394"
+           id="text758-5"
+           style="font-size:6.70464373px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="103.97118"
+           y="51.190029"
+           sodipodi:linespacing="112%"
+           transform="scale(1.0476006,0.95456227)">
+          <tspan
+             style="font-size:13.40928745px"
+             id="tspan5480">ARDUINO</tspan>
+        </text>
+        <text
+           font-size="5"
+           id="text682-7-2"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:112.00000048%;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="168.99516"
+           y="86.767586"
+           sodipodi:linespacing="112%">RESET</text>
+        <text
+           xml:space="preserve"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-137.12482"
+           y="165.02322"
+           id="text3339-2"
+           sodipodi:linespacing="129%"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3341-2"
+             x="-137.12482"
+             y="165.02322"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">A0</tspan><tspan
+             sodipodi:role="line"
+             x="-137.12482"
+             y="172.24722"
+             id="tspan3343-1"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">A1</tspan><tspan
+             sodipodi:role="line"
+             x="-137.12482"
+             y="179.47122"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4113-7">A2</tspan><tspan
+             sodipodi:role="line"
+             x="-137.12482"
+             y="186.69522"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4115-8">A3</tspan><tspan
+             sodipodi:role="line"
+             x="-137.12482"
+             y="193.91922"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4117-5">A4</tspan><tspan
+             sodipodi:role="line"
+             x="-137.12482"
+             y="201.14322"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4119-9">A5</tspan></text>
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 151.22119,118.54269 -34.81542,0"
+           id="path4157-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 201.18531,118.54269 -40.92805,0"
+           id="path4157-5-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-10.161774"
+           y="86.038185"
+           id="text4177-9"
+           sodipodi:linespacing="129%"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan4179-6"
+             x="-10.161774"
+             y="86.038185"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">AREF</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="93.262184"
+             id="tspan4181-9"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">GND</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="100.48618"
+             id="tspan4183-5"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">13</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="107.71018"
+             id="tspan4185-0"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">12</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="114.93419"
+             id="tspan4189-6"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">~11</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="122.15819"
+             id="tspan4195-2"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">~10</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="129.38219"
+             id="tspan4199-5"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">~9</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="136.60619"
+             id="tspan4203-2"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           x="-10.161774"
+           y="150.55841"
+           id="text4177-1-3"
+           sodipodi:linespacing="129%"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="150.55841"
+             id="tspan4203-8-1"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">7</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="157.78241"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4284-6">~6</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="165.00641"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4286-1">~5</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="172.23041"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4288-0">4</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="179.45441"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4290-2">~3</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="186.67841"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4292-2">2</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="193.9024"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4296-1">TX→1</tspan><tspan
+             sodipodi:role="line"
+             x="-10.161774"
+             y="201.12642"
+             style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+             id="tspan4304-0">RX←0</tspan></text>
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 202.24839,24.716293 -106.572418,0"
+           id="path4157-5-5-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <text
+         font-size="5"
+         id="text736-1-4-5"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Segoe UI;-inkscape-font-specification:Segoe UI Bold"
+         x="156.60072"
+         y="130.99309" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.4000001px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+         x="-137.11232"
+         y="114.63291"
+         id="text3339-7"
+         sodipodi:linespacing="129%"
+         transform="matrix(0,-1,1,0,0,0)"><tspan
+           sodipodi:role="line"
+           x="-137.11232"
+           y="114.63291"
+           style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           id="tspan4119-8">RESET</tspan><tspan
+           sodipodi:role="line"
+           x="-137.11232"
+           y="121.85691"
+           style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           id="tspan5468">3.3V</tspan><tspan
+           sodipodi:role="line"
+           x="-137.11232"
+           y="129.08092"
+           style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           id="tspan5470">5V</tspan><tspan
+           sodipodi:role="line"
+           x="-137.11232"
+           y="136.30492"
+           style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           id="tspan5472">GND</tspan><tspan
+           sodipodi:role="line"
+           x="-137.11232"
+           y="143.52892"
+           style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           id="tspan5474">GND</tspan><tspan
+           sodipodi:role="line"
+           x="-137.11232"
+           y="150.75291"
+           style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:128.99999619%;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
+           id="tspan5476">Vin</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="98.023247"
+       y="-2290.229"
+       id="text7732"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="98.023247"
+         y="-2290.229"
+         id="tspan7742"
+         style="font-size:156px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Arduino Cheat Sheet</tspan></text>
+    <a
+       id="a5190"
+       xlink:href="http://arduino.cc/en/Reference/Exteneded"
+       transform="translate(1800.5816,-229.0727)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text7755"
+         y="-2137.2429"
+         x="92.335747"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+           y="-2137.2429"
+           x="92.335747"
+           id="tspan7757"
+           sodipodi:role="line">Mostly adapted from the extended reference:</tspan><tspan
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#3055bc;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas"
+           id="tspan7763"
+           y="-2050.4043"
+           x="92.335747"
+           sodipodi:role="line">    http://arduino.cc/en/Reference/Extended</tspan></text>
+    </a>
+    <rect
+       rx="50.863422"
+       style="fill:#ffffff;fill-opacity:0.71176471;display:inline"
+       id="rect8185-6-0-9-5-1"
+       width="820.1297"
+       height="478.52902"
+       x="3461.8804"
+       y="239.20711"
+       ry="50.863419" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+       x="3810.365"
+       y="307.05667"
+       id="text8403"
+       sodipodi:linespacing="130%"><tspan
+         sodipodi:role="line"
+         x="3810.365"
+         y="307.05667"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="tspan5264">by Mark Liffiton</tspan><tspan
+         sodipodi:role="line"
+         x="3810.365"
+         y="390.25665"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="tspan5268" /><tspan
+         sodipodi:role="line"
+         x="3810.365"
+         y="473.45667"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="tspan5274" /></text>
+    <a
+       id="a5160"
+       xlink:href="http://creativecommons.org/licenses/by-sa/3.0/"
+       transform="matrix(2.067811,0,0,2.067811,-3678.6723,-769.07686)">
+      <g
+         inkscape:export-ydpi="300.23013"
+         inkscape:export-xdpi="300.23013"
+         inkscape:export-filename="/mnt/hgfs/Bov/Documents/Work/2007/cc/identity/srr buttons/big/by-sa.png"
+         id="g287"
+         transform="matrix(1.539314,0,0,1.5391405,3177.9554,371.92632)">
+        <path
+           style="fill:#aab2ab"
+           d="m 182.23532,75.39014 95.64815,0.20312 c 1.59375,0 3.01758,-0.23682 3.01758,3.18018 l -0.13965,37.56689 -101.4045,0 0,-37.70654 c 0,-1.68457 0.16309,-3.24365 2.87842,-3.24365 z"
+           nodetypes="ccccccc"
+           id="path3817_2_"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccsc" />
+        <g
+           transform="matrix(0.872921,0,0,0.872921,50.1254,143.214)"
+           id="g5908_2_">
+          <path
+             style="fill:#ffffff"
+             d="m 187.20944,-55.6792 c 0.006,8.68024 -7.02786,15.72095 -15.7081,15.72708 -8.68021,0.005 -15.72205,-7.02786 -15.72708,-15.70804 0,-0.0067 0,-0.01233 0,-0.01904 -0.005,-8.68134 7.02783,-15.72205 15.70807,-15.72711 8.68134,-0.0056 15.72208,7.02789 15.72711,15.70807 0,0.0056 0,0.01233 0,0.01904 z"
+             rx="22.939548"
+             type="arc"
+             cy="264.3577"
+             ry="22.939548"
+             cx="296.35416"
+             id="path5906_2_"
+             inkscape:connector-curvature="0" />
+          <g
+             transform="translate(-289.616,99.0653)"
+             id="g5706_2_">
+            <path
+               d="m 473.88455,-167.54724 c 3.48541,3.48596 5.22839,7.75391 5.22839,12.80273 0,5.04938 -1.7128,9.27148 -5.13834,12.66736 -3.63531,3.5766 -7.93179,5.36432 -12.88947,5.36432 -4.89777,0 -9.11987,-1.77261 -12.6651,-5.31955 -3.54584,-3.54581 -5.31845,-7.78299 -5.31845,-12.71213 0,-4.92859 1.77261,-9.19598 5.31845,-12.80273 3.4552,-3.48651 7.67725,-5.22894 12.6651,-5.22894 5.04829,0 9.31401,1.74243 12.79942,5.22894 z m -23.11798,2.34485 c -2.94675,2.97638 -4.41956,6.46289 -4.41956,10.46234 0,3.99835 1.45828,7.4552 4.37424,10.37067 2.91653,2.9165 6.38849,4.37476 10.41705,4.37476 4.02853,0 7.53018,-1.47281 10.50656,-4.41901 2.8259,-2.73584 4.23941,-6.17706 4.23941,-10.32642 0,-4.11804 -1.43646,-7.61292 -4.30768,-10.48474 -2.87064,-2.87067 -6.34988,-4.30652 -10.43829,-4.30652 -4.08837,0 -7.54638,1.44318 -10.37173,4.32892 z m 7.75449,8.70312 c -0.45032,-0.98163 -1.12433,-1.47223 -2.02325,-1.47223 -1.58914,0 -2.38342,1.06952 -2.38342,3.2085 0,2.13959 0.79428,3.20911 2.38342,3.20911 1.04938,0 1.79895,-0.5213 2.24866,-1.56512 l 2.20276,1.17303 c -1.04993,1.86548 -2.62506,2.79901 -4.72549,2.79901 -1.6199,0 -2.91763,-0.4967 -3.89206,-1.48956 -0.97607,-0.99341 -1.46274,-2.36273 -1.46274,-4.10797 0,-1.71558 0.50229,-3.07709 1.50748,-4.08563 1.00519,-1.00793 2.25705,-1.51251 3.75781,-1.51251 2.22012,0 3.80984,0.87488 4.77081,2.62286 l -2.38398,1.22051 z m 10.36334,0 c -0.45087,-0.98163 -1.11148,-1.47223 -1.98239,-1.47223 -1.62106,0 -2.43213,1.06952 -2.43213,3.2085 0,2.13959 0.81107,3.20911 2.43213,3.20911 1.05103,0 1.78717,-0.5213 2.20724,-1.56512 l 2.25201,1.17303 c -1.04825,1.86548 -2.62119,2.79901 -4.71768,2.79901 -1.61771,0 -2.91263,-0.4967 -3.88647,-1.48956 -0.97217,-0.99341 -1.45938,-2.36273 -1.45938,-4.10797 0,-1.71558 0.49448,-3.07709 1.48288,-4.08563 0.98782,-1.00793 2.24527,-1.51251 3.77347,-1.51251 2.21619,0 3.80368,0.87488 4.76132,2.62286 l -2.431,1.22051 z"
+               id="path5708_2_"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <path
+           id="path294"
+           d="m 279.08634,74.91064 -98.01946,0 c -1.24658,0 -2.26074,1.01465 -2.26074,2.26123 l 0,39.49561 c 0,0.28174 0.22852,0.51074 0.51025,0.51074 l 101.51995,0 c 0.28174,0 0.51074,-0.229 0.51074,-0.51074 l 0,-39.4956 c 0,-1.24659 -1.01416,-2.26124 -2.26074,-2.26124 z m -98.01946,1.02149 98.01946,0 c 0.68359,0 1.23926,0.55615 1.23926,1.23975 0,0 0,15.91943 0,27.41846 l -64.8637,0 c -3.04492,5.50537 -8.91113,9.24365 -15.64355,9.24365 -6.73535,0 -12.6001,-3.73486 -15.64355,-9.24365 l -4.34814,0 c 0,-11.49902 0,-27.41846 0,-27.41846 -2e-5,-0.6836 0.55663,-1.23975 1.24022,-1.23975 z"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssssssssssscccscccs" />
+        <g
+           id="g296"
+           enable-background="new    "
+           transform="translate(-7.7956808,0)">
+          <path
+             style="fill:#ffffff"
+             id="path298"
+             d="m 265.60986,112.8833 c 0.0801,0.15576 0.1875,0.28174 0.32129,0.37842 0.13379,0.0962 0.29004,0.16797 0.46973,0.21436 0.18066,0.0469 0.36719,0.0703 0.55957,0.0703 0.12988,0 0.26953,-0.0107 0.41895,-0.0327 0.14844,-0.0215 0.28809,-0.064 0.41895,-0.12598 0.12988,-0.062 0.23926,-0.14795 0.3252,-0.25684 0.0879,-0.10889 0.13086,-0.24707 0.13086,-0.41553 0,-0.18018 -0.0576,-0.32617 -0.17285,-0.43848 -0.11426,-0.1123 -0.26562,-0.20508 -0.45215,-0.28027 -0.18555,-0.0742 -0.39746,-0.13965 -0.63281,-0.1958 -0.23633,-0.0562 -0.47559,-0.11816 -0.71777,-0.18701 -0.24902,-0.062 -0.49121,-0.13818 -0.72754,-0.22852 -0.23535,-0.0898 -0.44727,-0.20703 -0.63379,-0.3501 -0.18652,-0.14307 -0.33691,-0.32178 -0.45215,-0.53662 -0.11426,-0.21484 -0.17188,-0.47461 -0.17188,-0.7793 0,-0.34277 0.0732,-0.63965 0.21875,-0.8916 0.14648,-0.25195 0.33789,-0.46191 0.57422,-0.63037 0.23535,-0.16797 0.50293,-0.29248 0.80176,-0.37354 0.29785,-0.0806 0.59668,-0.12109 0.89453,-0.12109 0.34863,0 0.68262,0.0391 1.00293,0.11719 0.31934,0.0776 0.60449,0.2041 0.85254,0.37842 0.24902,0.17432 0.44629,0.39697 0.59277,0.66797 0.14551,0.271 0.21875,0.59961 0.21875,0.98535 l -1.42188,0 c -0.0127,-0.19922 -0.0547,-0.36426 -0.125,-0.49463 -0.0713,-0.13086 -0.16602,-0.2334 -0.2832,-0.30859 -0.11816,-0.0742 -0.25293,-0.12744 -0.4043,-0.1582 -0.15234,-0.0312 -0.31738,-0.0469 -0.49707,-0.0469 -0.11719,0 -0.23535,0.0127 -0.35254,0.0371 -0.11816,0.0254 -0.22461,0.0688 -0.32031,0.13086 -0.0967,0.0625 -0.17578,0.14014 -0.2373,0.2334 -0.0615,0.0937 -0.0928,0.21191 -0.0928,0.35498 0,0.13086 0.0244,0.23682 0.0742,0.31738 0.0498,0.0811 0.14844,0.15576 0.29395,0.22412 0.14551,0.0684 0.34766,0.13721 0.60547,0.20557 0.25781,0.0684 0.59473,0.15576 1.01172,0.26123 0.12402,0.0249 0.2959,0.0703 0.5166,0.13574 0.2207,0.0654 0.43945,0.16943 0.65723,0.3125 0.21777,0.14355 0.40527,0.33496 0.56445,0.57422 0.1582,0.23975 0.2373,0.54639 0.2373,0.91992 0,0.30518 -0.0596,0.58838 -0.17773,0.84961 -0.11816,0.26172 -0.29395,0.4873 -0.52734,0.67676 -0.2334,0.19043 -0.52246,0.33789 -0.86719,0.44385 -0.3457,0.10596 -0.74609,0.15869 -1.19922,0.15869 -0.36719,0 -0.72363,-0.0454 -1.06934,-0.13574 -0.34473,-0.0903 -0.65039,-0.23242 -0.91504,-0.42578 -0.26367,-0.19336 -0.47363,-0.43994 -0.62988,-0.73877 -0.15527,-0.29932 -0.22949,-0.65381 -0.22363,-1.06494 l 1.42188,0 c -3e-5,0.22412 0.04,0.41406 0.12106,0.56933 z"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#ffffff"
+             id="path300"
+             d="m 273.8667,107.8667 2.49316,6.66406 -1.52246,0 -0.50391,-1.48438 -2.49316,0 -0.52246,1.48438 -1.47461,0 2.52051,-6.66406 1.50293,0 z m 0.084,4.08594 -0.83984,-2.44336 -0.0186,0 -0.86914,2.44336 1.72753,0 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g302"
+           enable-background="new    "
+           transform="translate(-7.7956808,0)">
+          <path
+             style="fill:#ffffff"
+             id="path304"
+             d="m 239.17821,107.8667 c 0.31738,0 0.60742,0.0283 0.86914,0.084 0.26172,0.0561 0.48633,0.14795 0.67383,0.27539 0.18652,0.12744 0.33203,0.29688 0.43457,0.5083 0.10254,0.21142 0.1543,0.47266 0.1543,0.78369 0,0.33594 -0.0762,0.61523 -0.22949,0.83936 -0.15234,0.22412 -0.37891,0.40723 -0.67773,0.55029 0.41211,0.11816 0.71973,0.3252 0.92285,0.62109 0.20312,0.29589 0.30469,0.65234 0.30469,1.06934 0,0.33594 -0.0654,0.62695 -0.19629,0.87305 -0.13086,0.24561 -0.30762,0.44629 -0.52832,0.60205 -0.22168,0.15576 -0.47461,0.271 -0.75781,0.34521 -0.28418,0.0752 -0.5752,0.1123 -0.875,0.1123 l -3.23633,0 0,-6.66406 3.14159,0 0,1e-5 z m -0.1875,2.69531 c 0.26172,0 0.47656,-0.062 0.64551,-0.18604 0.16797,-0.12451 0.25195,-0.32568 0.25195,-0.60498 0,-0.15527 -0.0283,-0.28271 -0.084,-0.38184 -0.0566,-0.0996 -0.13086,-0.17676 -0.22461,-0.23291 -0.0937,-0.0557 -0.20117,-0.0947 -0.32227,-0.11621 -0.12207,-0.022 -0.24805,-0.0327 -0.37891,-0.0327 l -1.37305,0 0,1.55469 1.48536,0 z m 0.0859,2.82813 c 0.14355,0 0.28027,-0.0137 0.41113,-0.042 0.13086,-0.0278 0.24707,-0.0747 0.34668,-0.13965 0.0996,-0.0654 0.17871,-0.1543 0.23828,-0.26611 0.0596,-0.11181 0.0889,-0.25488 0.0889,-0.4292 0,-0.3418 -0.0967,-0.58594 -0.29004,-0.73193 -0.19336,-0.14599 -0.44922,-0.21924 -0.7666,-0.21924 l -1.59961,0 0,1.82812 1.57129,0 z"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:#ffffff"
+             id="path306"
+             d="m 241.88914,107.8667 1.64355,0 1.56055,2.63184 1.55078,-2.63184 1.63379,0 -2.47363,4.10645 0,2.55762 -1.46875,0 0,-2.59473 -2.44629,-4.06934 z"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="matrix(0.624995,0,0,0.624995,383.43332,176.933)"
+           id="g6316_1_">
+          <path
+             style="fill:#ffffff"
+             d="m -175.0083,-139.1153 c 0.006,9.4118 -7.61725,17.04779 -17.02982,17.05481 -9.41101,0.007 -17.047,-7.61725 -17.05481,-17.02979 0,-0.008 0,-0.0172 0,-0.025 -0.006,-9.41254 7.6188,-17.047 17.02982,-17.05481 9.41257,-0.007 17.04855,7.61804 17.05481,17.02985 0,0.009 0,0.0164 0,0.025 z"
+             rx="29.209877"
+             type="arc"
+             cy="252.08646"
+             ry="29.209877"
+             cx="475.97119"
+             id="path6318_1_"
+             inkscape:connector-curvature="0" />
+          <g
+             transform="translate(-23.9521,-89.7296)"
+             id="g6320_1_">
+            <path
+               d="m -168.2204,-68.05536 c -5.17194,0 -9.54852,1.80469 -13.13135,5.41333 -3.67661,3.73444 -5.51413,8.1532 -5.51413,13.25635 0,5.10315 1.83752,9.49152 5.51413,13.1626 3.67502,3.67194 8.05316,5.50787 13.13135,5.50787 5.14066,0 9.59537,-1.85156 13.36728,-5.55475 3.55005,-3.51562 5.3266,-7.88831 5.3266,-13.11572 0,-5.22662 -1.8078,-9.64697 -5.42191,-13.25635 -3.61407,-3.60864 -8.03756,-5.41333 -13.27197,-5.41333 z m 0.0469,3.36017 c 4.23752,0 7.836,1.49298 10.79697,4.48053 2.98907,2.9563 4.48441,6.56567 4.48441,10.82898 0,4.29382 -1.46252,7.85712 -4.39224,10.68915 -3.08438,3.04926 -6.71411,4.57349 -10.88913,4.57349 -4.17505,0 -7.7735,-1.5094 -10.79541,-4.52661 -3.02188,-3.01953 -4.53284,-6.59692 -4.53284,-10.73602 0,-4.13831 1.52658,-7.74847 4.57971,-10.82898 2.92815,-2.98756 6.51098,-4.48054 10.74853,-4.48054 z"
+               id="path6322_1_"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m -176.49548,-52.02087 c 0.74377,-4.69769 4.05161,-7.20862 8.1954,-7.20862 5.96097,0 9.59225,4.32501 9.59225,10.09229 0,5.62738 -3.86411,9.99927 -9.686,9.99927 -4.00473,0 -7.58914,-2.46484 -8.24228,-7.30084 l 4.70319,0 c 0.14062,2.51099 1.77032,3.39459 4.09845,3.39459 2.65317,0 4.37817,-2.4649 4.37817,-6.23291 0,-3.95233 -1.49063,-6.04535 -4.28598,-6.04535 -2.04846,0 -3.8172,0.74457 -4.19064,3.30157 l 1.36874,-0.007 -3.70316,3.7016 -3.7016,-3.7016 1.47346,0.007 z"
+               id="path6324_1_"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g313"
+           transform="translate(-7.7956808,0)">
+          <circle
+             d="m 253.36866,90.224609 c 0,5.96821 -4.83819,10.806401 -10.8064,10.806401 -5.96821,0 -10.8064,-4.838191 -10.8064,-10.806401 0,-5.96821 4.83819,-10.8064 10.8064,-10.8064 5.96821,0 10.8064,4.83819 10.8064,10.8064 z"
+             style="fill:#ffffff"
+             sodipodi:ry="10.8064"
+             sodipodi:rx="10.8064"
+             sodipodi:cy="90.224609"
+             sodipodi:cx="242.56226"
+             id="circle315"
+             r="10.8064"
+             cy="90.224609"
+             cx="242.56226" />
+          <g
+             id="g317">
+            <path
+               id="path319"
+               d="m 245.68994,87.09766 c 0,-0.4165 -0.33789,-0.75342 -0.75391,-0.75342 l -4.77246,0 c -0.41602,0 -0.75391,0.33691 -0.75391,0.75342 l 0,4.77295 1.33105,0 0,5.65234 3.61719,0 0,-5.65234 1.33203,0 0,-4.77295 1e-5,0 z"
+               inkscape:connector-curvature="0" />
+            <circle
+               d="m 244.18212,84.083008 c 0,0.901505 -0.73081,1.63232 -1.63232,1.63232 -0.9015,0 -1.63232,-0.730815 -1.63232,-1.63232 0,-0.901506 0.73082,-1.63232 1.63232,-1.63232 0.90151,0 1.63232,0.730814 1.63232,1.63232 z"
+               sodipodi:ry="1.63232"
+               sodipodi:rx="1.63232"
+               sodipodi:cy="84.083008"
+               sodipodi:cx="242.5498"
+               id="circle321"
+               r="1.63232"
+               cy="84.083008"
+               cx="242.5498" />
+          </g>
+          <path
+             style="fill-rule:evenodd"
+             id="path323"
+             d="m 242.53467,78.31836 c -3.23145,0 -5.96826,1.12744 -8.20752,3.38379 -2.29785,2.33301 -3.44629,5.09521 -3.44629,8.28418 0,3.18897 1.14844,5.93213 3.44629,8.22705 2.29785,2.29443 5.03418,3.44189 8.20752,3.44189 3.21289,0 5.99805,-1.15674 8.35352,-3.47168 2.2207,-2.19678 3.33008,-4.92969 3.33008,-8.19727 0,-3.26758 -1.12891,-6.02881 -3.3877,-8.28418 -2.25879,-2.25634 -5.02442,-3.38378 -8.2959,-3.38378 z m 0.0293,2.09961 c 2.64844,0 4.89746,0.93359 6.74707,2.80078 1.87012,1.84717 2.80469,4.10352 2.80469,6.76758 0,2.68359 -0.91504,4.91113 -2.74609,6.68066 -1.92773,1.90576 -4.19629,2.8584 -6.80566,2.8584 -2.60937,0 -4.8584,-0.94287 -6.74658,-2.82959 -1.88965,-1.88623 -2.8335,-4.12256 -2.8335,-6.70947 0,-2.58643 0.9541,-4.84229 2.8623,-6.76758 1.83057,-1.86719 4.07031,-2.80078 6.71777,-2.80078 z"
+             clip-rule="evenodd"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="133.62936"
+       y="-2050.8804"
+       id="text5195"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5197"
+         x="133.62936"
+         y="-2050.8804"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Structure &amp; Flow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1173.9205"
+       y="-2050.8804"
+       id="text5195-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5197-6"
+         x="1173.9205"
+         y="-2050.8804"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Operators</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="2232.2778"
+       y="-2050.8804"
+       id="text5195-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5197-2"
+         x="2232.2778"
+         y="-2050.8804"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Built-in Functions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="335.09543"
+       y="-632.26099"
+       id="text5195-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5197-7"
+         x="335.09543"
+         y="-632.26099"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Variables, Arrays, and Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="3493.2407"
+       y="434.7178"
+       id="text5290"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5292"
+         x="3493.2407"
+         y="434.7178">Adapted from:</tspan><tspan
+         sodipodi:role="line"
+         x="3493.2407"
+         y="494.7178"
+         id="tspan5294">  - Original by Gavin Smith</tspan><tspan
+         sodipodi:role="line"
+         x="3493.2407"
+         y="554.71777"
+         id="tspan5296">  - SVG version by Frederic Dufourg</tspan><tspan
+         sodipodi:role="line"
+         x="3493.2407"
+         y="614.71777"
+         id="tspan5298">  - Arduino board drawing</tspan><tspan
+         sodipodi:role="line"
+         x="3493.2407"
+         y="674.71777"
+         id="tspan5300">    original by Fritzing.org</tspan></text>
+  </g>
+</svg>
