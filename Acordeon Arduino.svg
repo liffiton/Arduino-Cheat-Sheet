@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="4320"
-   height="3240"
+   width="990"
+   height="765"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 "
+   inkscape:version="0.47 r22583"
    version="1.0"
-   sodipodi:docname="Arduino Cheat Sheet.svg"
+   sodipodi:docname="Acordeon Arduino.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -154,16 +154,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18894624"
-     inkscape:cx="2160"
-     inkscape:cy="1579.8144"
+     inkscape:zoom="0.52116389"
+     inkscape:cx="935.9408"
+     inkscape:cy="269.36118"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1304"
-     inkscape:window-height="746"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:window-width="1440"
+     inkscape:window-height="829"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -177,10 +177,6 @@
        orientation="1,0"
        position="951.50812,2561.8614"
        id="guide8189" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="913.33469,2420.4783"
-       id="guide8191" />
     <sodipodi:guide
        orientation="1,0"
        position="1783.3638,-122.56796"
@@ -231,74 +227,74 @@
      id="layer3"
      inkscape:label="Ombre"
      style="display:inline"
-     transform="translate(0,2495.9055)" />
+     transform="translate(0,20.9055)" />
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(0,2495.9055)">
+     transform="translate(0,20.9055)">
     <rect
        style="fill:#0f7391;fill-opacity:1"
        id="rect8183"
-       width="4320"
-       height="2944.2405"
+       width="990"
+       height="711.6156"
        x="0"
-       y="-2200.146" />
+       y="32.478878" />
     <rect
-       rx="50.863422"
+       rx="11.6562"
        style="fill:#ffffff;fill-opacity:1;display:inline"
        id="rect8185-6-0-9-5"
-       width="820.1297"
-       height="2344.5747"
-       x="3461.8804"
-       y="-2148.5688"
-       ry="50.863419" />
+       width="187.94637"
+       height="566.67786"
+       x="785.34741"
+       y="40.944946"
+       ry="12.293562" />
     <rect
-       rx="50.863419"
+       rx="11.656199"
        style="fill:#000000;fill-opacity:0.42352941;display:inline"
        id="rect8185-6-0-9-2"
-       width="1591.7019"
-       height="1137.9647"
-       x="1826.2626"
-       y="-420.22855"
-       ry="50.863422" />
+       width="364.76498"
+       height="275.04324"
+       x="416.51843"
+       y="452.68051"
+       ry="12.293563" />
     <rect
-       rx="50.863422"
+       rx="11.6562"
        style="fill:#ffffff;fill-opacity:1;display:inline"
        id="rect8185-6-0-9"
-       width="1591.7019"
-       height="1671.5984"
-       x="1826.2626"
-       y="-2148.0825"
-       ry="50.863422" />
+       width="364.76498"
+       height="404.02118"
+       x="416.51843"
+       y="41.062489"
+       ry="12.293563" />
     <rect
-       rx="50.863422"
+       rx="11.6562"
        style="fill:#ffffff;fill-opacity:1;display:inline"
        id="rect8185-6-0"
-       width="831.85565"
-       height="1375.3887"
-       x="951.50812"
-       y="-2148.5688"
-       ry="50.863422" />
+       width="190.63362"
+       height="332.42801"
+       x="220.05394"
+       y="40.944946"
+       ry="12.293563" />
     <rect
-       rx="50.863422"
+       rx="11.6562"
        style="fill:#ffffff;fill-opacity:1;display:inline"
        id="rect8185-4"
-       width="1731.052"
-       height="1445.769"
-       x="52.311741"
-       y="-727.31555"
-       ry="50.863422" />
+       width="396.69934"
+       height="349.43878"
+       x="15.988108"
+       y="378.45834"
+       ry="12.293563" />
     <rect
        style="fill:#ffffff;fill-opacity:1"
        id="rect8185"
-       width="861.02295"
-       height="1375.3888"
-       x="52.311741"
-       y="-2148.5688"
-       ry="50.863422"
-       rx="50.863422" />
+       width="197.31772"
+       height="332.42804"
+       x="15.988108"
+       y="40.944946"
+       ry="12.293563"
+       rx="11.6562" />
     <g
        id="g3157"
        transform="translate(-3,13)" />
@@ -306,7 +302,7 @@
        xml:space="preserve"
        id="flowRoot3171"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-173.77699,-2431.3023)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,-35.823894,-27.391027)"><flowRegion
          id="flowRegion3173"><rect
            id="rect3175"
            width="176.87381"
@@ -315,7 +311,7 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara3177"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Control Structures</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Estructuras de control</flowPara><flowPara
          id="flowPara3179"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3353">if</flowSpan> (x &lt; 5) { ... } <flowSpan
@@ -333,17 +329,21 @@
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">for<flowSpan
    style="font-weight:normal"
    id="flowSpan8137"> (int i = 0; i &lt; 10; i++) { ... }</flowSpan></flowPara><flowPara
-         id="flowPara7026"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">break<flowSpan
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara3693">break<flowSpan
    style="font-weight:normal"
-   id="flowSpan8134">;  // exit a loop immediately</flowSpan></flowPara><flowPara
-         id="flowPara8130"><flowSpan
+   id="flowSpan8134">;  <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3703">//sale del bucle inmediatamente</flowSpan></flowSpan></flowPara><flowPara
+         id="flowPara3701"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan8132">continue</flowSpan>;  // go to next iteration</flowPara><flowPara
+   id="flowSpan8132">continue</flowSpan>; <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3705">//va a la siguiente iteración</flowSpan></flowPara><flowPara
          id="flowPara3284"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">switch <flowSpan
    style="font-size:8.14805889px;font-weight:normal;text-align:start;text-anchor:start"
-   id="flowSpan7021">(myVar) {</flowSpan></flowPara><flowPara
+   id="flowSpan7021">(miVariable) {</flowSpan></flowPara><flowPara
          id="flowPara6999">   case 1:</flowPara><flowPara
          id="flowPara7001">     ...</flowPara><flowPara
          id="flowPara7003">     break;</flowPara><flowPara
@@ -355,12 +355,12 @@
          id="flowPara7017">}</flowPara><flowPara
          id="flowPara3286"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan6997">return</flowSpan> x; // or &quot;return;&quot; for voids</flowPara><flowPara
+   id="flowSpan6997">return</flowSpan> x; // o &quot;return;&quot; para vacíos</flowPara><flowPara
          id="flowPara3266" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2747"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-2800.5802)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,-35.908489,-116.64458)"><flowRegion
          id="flowRegion2749"><rect
            id="rect2751"
            width="174.70305"
@@ -369,21 +369,21 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2753"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Basic Program Structure</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Estructúra básica del programa</flowPara><flowPara
          id="flowPara2771">void <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan2795">setup</flowSpan>() {</flowPara><flowPara
-         id="flowPara7037">  // runs once when sketch starts</flowPara><flowPara
+         id="flowPara7037">  // Corre una vez cuando el</flowPara><flowPara
+         id="flowPara3689">  // programa inicia</flowPara><flowPara
          id="flowPara7039">}</flowPara><flowPara
          id="flowPara7034">void <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan2797">loop</flowSpan>() {</flowPara><flowPara
-         id="flowPara7043">  // runs repeatedly</flowPara><flowPara
-         id="flowPara7041">}</flowPara></flowRoot>    <flowRoot
+         id="flowPara7041">  // Se ejecuta repetidamente</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2801"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,728.14452,-2800.5803)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,168.86645,-116.6446)"><flowRegion
          id="flowRegion2803"><rect
            id="rect2805"
            width="170.64256"
@@ -392,50 +392,50 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2807"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">General Operators</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Operadores generales</flowPara><flowPara
          id="flowPara2863"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6762">=</flowSpan>  (assignment operator)</flowPara><flowPara
+   id="flowSpan6762">=</flowSpan>  (operador de asignación)</flowPara><flowPara
          id="flowPara3080"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6764">+</flowSpan>  (add)        <flowSpan
+   id="flowSpan6764">+</flowSpan>  (adición)    <flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6760">-</flowSpan>  (subtract)</flowPara><flowPara
+   id="flowSpan6760">-</flowSpan>  (sustracción)</flowPara><flowPara
          id="flowPara3082"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6766">*</flowSpan>  (multiply)   <flowSpan
-   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6758">/</flowSpan>  (divide)</flowPara><flowPara
+   id="flowSpan6766">*</flowSpan>  (multiplicación)</flowPara><flowPara
          id="flowPara3084"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6768">%</flowSpan>  (modulo)</flowPara><flowPara
+   id="flowSpan6758">/</flowSpan>  (división)   <flowSpan
+   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+   id="flowSpan6768">%</flowSpan>  (módulo)</flowPara><flowPara
          id="flowPara3086"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6770">==</flowSpan> (equal to)   <flowSpan
+   id="flowSpan6770">==</flowSpan> (igual a)   <flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6754">!=</flowSpan> (not equal to)</flowPara><flowPara
+   id="flowSpan6754">!=</flowSpan> (desigual a)</flowPara><flowPara
          id="flowPara3088"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6772">&lt;</flowSpan>  (less than)  <flowSpan
+   id="flowSpan6772">&lt;</flowSpan>  (menor que)  <flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6756">&gt;</flowSpan>  (greater than)</flowPara><flowPara
+   id="flowSpan6756">&gt;</flowSpan>  (mayor que)</flowPara><flowPara
          id="flowPara3090"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6774">&lt;=</flowSpan> (less than or equal to)</flowPara><flowPara
+   id="flowSpan6774">&lt;=</flowSpan> (igual o menor que)</flowPara><flowPara
          id="flowPara3092"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6776">&gt;=</flowSpan> (greater than or equal to)</flowPara><flowPara
+   id="flowSpan6776">&gt;=</flowSpan> (mayor o igual que)</flowPara><flowPara
          id="flowPara3094"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6778">&amp;&amp;</flowSpan> (and)   <flowSpan
+   id="flowSpan6778">&amp;&amp;</flowSpan> (y)   <flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6780">|| </flowSpan>(or)   <flowSpan
+   id="flowSpan6780">|| </flowSpan>(ó)   <flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6782">!</flowSpan> (not)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan6782">!</flowSpan> (negación)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3098"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,719.06835,-729.48672)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,168.78649,373.09962)"><flowRegion
          id="flowRegion3100"><rect
            id="rect3102"
            width="169.39632"
@@ -444,47 +444,50 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara3104"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Pointer Access</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Punteros</flowPara><flowPara
          id="flowPara3122"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4146">&amp;</flowSpan>  (reference: get a pointer)</flowPara><flowPara
+   id="flowSpan4146">&amp;</flowSpan>  (referencia: obtener puntero)</flowPara><flowPara
          id="flowPara3146"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4148">*</flowSpan>  (dereference: follow a pointer)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4148">*</flowSpan>  (valor: seguir puntero)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3150"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,728.14452,-1801.5699)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,166.86645,115.14583)"><flowRegion
          id="flowRegion3152"><rect
            id="rect3154"
-           width="169.39632"
-           height="47.942711"
+           width="178.83301"
+           height="58.383698"
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara3156"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Bitwise Operators</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Operadores a nivel de bit</flowPara><flowPara
          id="flowPara3174"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4150">&amp;</flowSpan> (bitwise and)   <flowSpan
+   id="flowSpan4150">&amp;</flowSpan> (AND binario)   <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4152">|</flowSpan> (bitwise or)</flowPara><flowPara
+   id="flowSpan4152">|</flowSpan> (OR binario)</flowPara><flowPara
          id="flowPara3198"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4160">^</flowSpan> (bitwise xor)   <flowSpan
+   id="flowSpan4160">^</flowSpan> (XOR binario)   <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4154">~</flowSpan> (bitwise not)</flowPara><flowPara
+   id="flowSpan4154">~</flowSpan> (NOT binario)</flowPara><flowPara
          id="flowPara3200"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4158">&lt;&lt;</flowSpan> (shift left)   <flowSpan
-   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6820">&gt;</flowSpan><flowSpan
-   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4156">&gt;</flowSpan> (shift right)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4158">&lt;&lt;</flowSpan> (desplazamiento a la izquierda)</flowPara><flowPara
+         id="flowPara3721"><flowSpan
+           style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
+           id="flowSpan6820">&gt;</flowSpan><flowSpan
+           style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+           id="flowSpan4156">&gt; <flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Monospace"
+   id="flowSpan3725">(desplazamiento a la derecha)</flowSpan></flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2469"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,726.24608,-2278.8795)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,168.43139,-0.218716)"><flowRegion
          id="flowRegion2471"><rect
            id="rect2473"
            width="168.62222"
@@ -493,39 +496,39 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2475"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Compound Operators</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Operadores compuestos</flowPara><flowPara
          id="flowPara2481"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4162">++</flowSpan> (increment)</flowPara><flowPara
+   id="flowSpan4162">++</flowSpan> (incremento)</flowPara><flowPara
          id="flowPara6750"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan6752">--</flowSpan> (decrement)</flowPara><flowPara
+   id="flowSpan6752">--</flowSpan> (decremento)</flowPara><flowPara
          id="flowPara2488"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4164">+=</flowSpan> (compound addition)</flowPara><flowPara
+   id="flowSpan4164">+=</flowSpan> (suma compuesta)</flowPara><flowPara
          id="flowPara2490"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4166">-=</flowSpan> (compound substraction) </flowPara><flowPara
+   id="flowSpan4166">-=</flowSpan> (resta compuesta) </flowPara><flowPara
          id="flowPara2492"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4168">*=</flowSpan> (compound multiplication)</flowPara><flowPara
+   id="flowSpan4168">*=</flowSpan> (multiplicación compuesta)</flowPara><flowPara
          id="flowPara2494"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4170">/=</flowSpan> (compound division)</flowPara><flowPara
+   id="flowSpan4170">/=</flowSpan> (división compuesta)</flowPara><flowPara
          id="flowPara2496"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4172">&amp;=</flowSpan> (compound bitwise and)</flowPara><flowPara
+   id="flowSpan4172">&amp;=</flowSpan> (AND binario compuesto)</flowPara><flowPara
          id="flowPara2498"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4174">|=</flowSpan> (compound bitwise or)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4174">|=</flowSpan> (OR binario compuesto)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2502"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,720.89647,-1388.3734)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,169.20544,218.6823)"><flowRegion
          id="flowRegion2504"><rect
            id="rect2506"
-           width="176.64369"
-           height="135.18188"
+           width="180.4735"
+           height="133.95354"
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
@@ -546,43 +549,43 @@
    id="flowSpan8002">true</flowSpan> | <flowSpan
    style="font-weight:bold"
    id="flowSpan7998">false</flowSpan></flowPara><flowPara
-         id="flowPara2785">143        // <flowSpan
+         id="flowPara2785">143        //<flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan4122">Decimal</flowSpan></flowPara><flowPara
          id="flowPara2791"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4126">0</flowSpan>173       // <flowSpan
+   id="flowSpan4126">0</flowSpan>173       //<flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4124">Octal</flowSpan> (leading 0)</flowPara><flowPara
+   id="flowSpan4124">Octal</flowSpan> (comenzando en 0)</flowPara><flowPara
          id="flowPara2793"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4130">0b</flowSpan>11011111 // <flowSpan
+   id="flowSpan4130">0b</flowSpan>11011111 //<flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4128">Binary</flowSpan></flowPara><flowPara
+   id="flowSpan4128">Binario</flowSpan></flowPara><flowPara
          id="flowPara2795"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4134">0x</flowSpan>7B       // <flowSpan
+   id="flowSpan4134">0x</flowSpan>7B       //<flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
    id="flowSpan6746">Hex</flowSpan> (hexadecimal)</flowPara><flowPara
          id="flowPara2797">7<flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4136">U</flowSpan>         // force unsigned</flowPara><flowPara
+   id="flowSpan4136">U</flowSpan>         //forzar unsigned</flowPara><flowPara
          id="flowPara2799">10<flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4138">L</flowSpan>        // force long</flowPara><flowPara
+   id="flowSpan4138">L</flowSpan>        //forzar long</flowPara><flowPara
          id="flowPara2801">15<flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4140">UL</flowSpan>       // force long unsigned </flowPara><flowPara
+   id="flowSpan4140">UL</flowSpan>       //forzar long unsigned </flowPara><flowPara
          id="flowPara2803">10<flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6738">.</flowSpan>0       // force floating point</flowPara><flowPara
+   id="flowSpan6738">.</flowSpan>0       //forzar floating point</flowPara><flowPara
          id="flowPara2805">2.4<flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6736">e</flowSpan>5      // 240000</flowPara></flowRoot>    <flowRoot
+   id="flowSpan6736">e</flowSpan>5      //240000</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2496"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-173.77699,-1388.8129)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,-35.823894,218.57607)"><flowRegion
          id="flowRegion2498"><rect
            id="rect2501"
            width="180.51819"
@@ -591,9 +594,11 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2503"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Data types</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Tipos de datos</flowPara><flowPara
          id="flowPara2559"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">void</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">void     <flowSpan
+   style="font-weight:normal"
+   id="flowSpan3727">vacío</flowSpan></flowPara><flowPara
          id="flowPara2776"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-weight:bold"
@@ -601,68 +606,69 @@
          id="flowPara2778"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-weight:bold"
-   id="flowSpan7960">char</flowSpan>     (e.g. 'a'  -128 to 127)</flowPara><flowPara
+   id="flowSpan7960">char</flowSpan>     (ej. 'a'  -128 a 127)</flowPara><flowPara
          id="flowPara2784"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-weight:bold"
-   id="flowSpan7970">int</flowSpan>      (-32768 to 32767)</flowPara><flowPara
+   id="flowSpan7970">int</flowSpan>      (-32768 a 32767)</flowPara><flowPara
          id="flowPara2790"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-weight:bold"
-   id="flowSpan7976">long</flowSpan>     (-2147483648 to 2147483647)</flowPara><flowPara
+   id="flowSpan7976">long</flowSpan>     (-2147483648 a 2147483647)</flowPara><flowPara
          id="flowPara2792"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">unsigned char<flowSpan
    style="font-weight:normal"
-   id="flowSpan8106">  (0 to 255)</flowSpan></flowPara><flowPara
+   id="flowSpan8106">  (0 a 255)</flowSpan></flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8092">byte<flowSpan
    style="font-weight:normal"
-   id="flowSpan8108">           (0 to 255)</flowSpan></flowPara><flowPara
+   id="flowSpan8108">           (0 a 255)</flowSpan></flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8104">unsigned int<flowSpan
    style="font-weight:normal"
-   id="flowSpan8110">   (0 to 65535)</flowSpan></flowPara><flowPara
+   id="flowSpan8110">   (0 a 65535)</flowSpan></flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8085">word<flowSpan
    style="font-weight:normal"
-   id="flowSpan8112">           (0 to 65535)</flowSpan></flowPara><flowPara
+   id="flowSpan8112">           (0 a 65535)</flowSpan></flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8097"><flowSpan
    style="font-weight:bold"
-   id="flowSpan8099">unsigned long</flowSpan>  (0 to 4294967295)</flowPara><flowPara
+   id="flowSpan8099">unsigned long</flowSpan>  (0 a 4294967295)</flowPara><flowPara
          id="flowPara2794"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-weight:bold"
-   id="flowSpan7980">float</flowSpan>    (-3.4028e+38 to 3.4028e+38)</flowPara><flowPara
+   id="flowSpan7980">float</flowSpan>    (-3.4028e+38 a 3.4028e+38)</flowPara><flowPara
          id="flowPara2798"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-weight:bold"
-   id="flowSpan7982">double</flowSpan>   (currently same as float)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan7982">double</flowSpan>   (igual que los flotantes)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2802"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,721.68749,-521.85881)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,169.38671,418.44882)"><flowRegion
          id="flowRegion2804"><rect
            id="rect2806"
-           width="180.53868"
-           height="94.709778"
+           width="180.29446"
+           height="106.52258"
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2808"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Strings</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Cadenas</flowPara><flowPara
          id="flowPara6686">char S1[8] =</flowPara><flowPara
          id="flowPara8175"> {'A','r','d','u','i','n','o'};</flowPara><flowPara
-         id="flowPara4183"> // unterminated string; may crash</flowPara><flowPara
+         id="flowPara4183"> //cadena sin terminación</flowPara><flowPara
+         id="flowPara3753"> //puede producir error</flowPara><flowPara
          id="flowPara2876">char S2[8] =</flowPara><flowPara
          id="flowPara8177"> {'A','r','d','u','i','n','o','\0'};</flowPara><flowPara
-         id="flowPara6692"> // includes \0 null termination</flowPara><flowPara
+         id="flowPara6692"> //incluye terminación nula \0</flowPara><flowPara
          id="flowPara2878">char S3[]=&quot;arduino&quot;;</flowPara><flowPara
          id="flowPara2882">char S4[8]=&quot;arduino&quot;;</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2886"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-479.09123)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,-35.908489,438.45354)"><flowRegion
          id="flowRegion2888"><rect
            id="rect2890"
            width="174.25262"
@@ -671,18 +677,27 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2892"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Arrays</flowPara><flowPara
-         id="flowPara2898">int myInts[6]; // array of 6 ints</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Vectores y matrices</flowPara><flowPara
+         id="flowPara2898">int myInts[6]; <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3729">//vector de 6 enteros</flowSpan></flowPara><flowPara
          id="flowPara2905">int myPins[]={2, 4, 8, 3, 6};</flowPara><flowPara
          id="flowPara8159">int mySensVals[6]={2, 4, -8, 3, 2};</flowPara><flowPara
-         id="flowPara8163">myInts[0]=42;  // assigning first</flowPara><flowPara
-         id="flowPara8165">               // index of myInts</flowPara><flowPara
-         id="flowPara8167">myInts[6]=12;  // ERROR! Indexes</flowPara><flowPara
-         id="flowPara8169">               // are 0 though 5</flowPara></flowRoot>    <flowRoot
+         id="flowPara8163">myInts[0]=42;  <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3731">//asigna al primero</flowSpan></flowPara><flowPara
+         id="flowPara8165"
+         style="font-size:7.2427187px">                 //en el índice</flowPara><flowPara
+         style="font-size:8.14805889px"
+         id="flowPara3743">myInts[6]=12;  <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3735">//ERROR! El índice va</flowSpan></flowPara><flowPara
+         style="font-size:7.2427187px"
+         id="flowPara3751">                 //de 0 a 5</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2911"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,2406.1637,-1847.7734)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,549.41243,118.48041)"><flowRegion
          id="flowRegion2913"><rect
            id="rect2915"
            width="173.13507"
@@ -691,7 +706,7 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2917"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Conversions</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Conversiones</flowPara><flowPara
          id="flowPara2923"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3742">char</flowSpan>()       <flowSpan
@@ -710,7 +725,7 @@
        xml:space="preserve"
        id="flowRoot2936"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-749.89566)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,-35.908489,373.00078)"><flowRegion
          id="flowRegion2938"><rect
            id="rect2940"
            width="167.00867"
@@ -719,23 +734,23 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2942"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Qualifiers</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Calificadores</flowPara><flowPara
          id="flowPara2956"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3630">static</flowSpan>   // persists between calls</flowPara><flowPara
+   id="flowSpan3630">static</flowSpan>   //persiste entre llamadas</flowPara><flowPara
          id="flowPara2985"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3632">volatile</flowSpan> // use RAM (nice for ISR)</flowPara><flowPara
+   id="flowSpan3632">volatile</flowSpan> //usa la RAM</flowPara><flowPara
          id="flowPara2987"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3634">const</flowSpan>    // make read only</flowPara><flowPara
+   id="flowSpan3634">const</flowSpan>    //sólo lectura</flowPara><flowPara
          id="flowPara2989"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3636">PROGMEM</flowSpan>  // Use flash</flowPara></flowRoot>    <flowRoot
+   id="flowSpan3636">PROGMEM</flowSpan>  //usar la flash</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2993"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,1610.0459,-2800.5803)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,366.96882,-116.6446)"><flowRegion
          id="flowRegion2995"><rect
            id="rect2997"
            width="165.15431"
@@ -744,22 +759,22 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2999"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Digital I/O</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">E/S Digital</flowPara><flowPara
          id="flowPara3007"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3638">pinMode</flowSpan>(pin,[INPUT, OUTPUT])</flowPara><flowPara
          id="flowPara3018"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3640">digitalWrite</flowSpan>(pin, value)</flowPara><flowPara
+   id="flowSpan3640">digitalWrite</flowSpan>(pin, valor)</flowPara><flowPara
          id="flowPara3020">int <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3642">digitalread</flowSpan>(pin)</flowPara><flowPara
-         id="flowPara3030">  // Write HIGH to inputs to use </flowPara><flowPara
-         id="flowPara6566">  // pull-up resistors</flowPara></flowRoot>    <flowRoot
+         id="flowPara6566">  //Escribe HIGH en entradas para</flowPara><flowPara
+         id="flowPara3763">  //usar los pull-ups</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2560"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,1609.7471,-2461.7862)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,366.90038,-34.75891)"><flowRegion
          id="flowRegion2562"><rect
            id="rect2564"
            width="173.94244"
@@ -768,7 +783,7 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2566"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Analog I/O</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">E/S Analógicas</flowPara><flowPara
          id="flowPara6574"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3644">analogReference</flowSpan>([DEFAULT,</flowPara><flowPara
@@ -776,15 +791,13 @@
          id="flowPara2609">int <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3646">analogRead</flowSpan>(pin)</flowPara><flowPara
-         id="flowPara6576">  // Call twice if switching pin</flowPara><flowPara
-         id="flowPara8151">  // from a high-Z source</flowPara><flowPara
          id="flowPara2611"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3648">analogWrite</flowSpan>(pin, value) // PWM</flowPara></flowRoot>    <flowRoot
+   id="flowSpan3648">analogWrite</flowSpan>(pin, valor)  //PWM</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2615"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,1609.7471,-2077.805)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,366.90038,33.87864)"><flowRegion
          id="flowRegion2617"><rect
            id="rect2619"
            width="165.63428"
@@ -799,14 +812,14 @@
    id="flowSpan3680">tone</flowSpan>(pin, freqhz)</flowPara><flowPara
          id="flowPara2664"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3682">tone</flowSpan>(pin, freqhz, duration_ms)</flowPara><flowPara
+   id="flowSpan3682">tone</flowSpan>(pin, freqhz, duracion_ms)</flowPara><flowPara
          id="flowPara2666"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3684">noTone</flowSpan>(pin)</flowPara><flowPara
          id="flowPara2668"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3686">shiftOut</flowSpan>(dataPin, clockPin,</flowPara><flowPara
-         id="flowPara6588">  [MSBFIRST,LSBFIRST], value)</flowPara><flowPara
+   id="flowSpan3686">shiftOut</flowSpan>(pinDatos, pinReloj,</flowPara><flowPara
+         id="flowPara6588">  [MSBFIRST,LSBFIRST], valor)</flowPara><flowPara
          id="flowPara2670">unsigned long <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3688">pulseIn</flowSpan>(pin,</flowPara><flowPara
@@ -814,7 +827,7 @@
        xml:space="preserve"
        id="flowRoot2674"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,1614.8334,-1649.8595)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,368.06594,132.47805)"><flowRegion
          id="flowRegion2676"><rect
            id="rect2678"
            width="174.34874"
@@ -823,15 +836,15 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2680"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Time</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Tiempo</flowPara><flowPara
          id="flowPara2688">unsigned long <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3694">millis</flowSpan>()</flowPara><flowPara
-         id="flowPara6616">  // overflow at 50 days</flowPara><flowPara
+         id="flowPara6616">  //desbordamiento en 50 dias</flowPara><flowPara
          id="flowPara2699">unsigned long <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3696">micros</flowSpan>()</flowPara><flowPara
-         id="flowPara6618">  // overflow at 70 minutes</flowPara><flowPara
+         id="flowPara6618">  //desbordamiento en 70 minutos</flowPara><flowPara
          id="flowPara2701"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3698">delay</flowSpan>(ms)</flowPara><flowPara
@@ -841,16 +854,16 @@
        xml:space="preserve"
        id="flowRoot2707"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,2408.4664,-2801.0199)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,549.94022,-116.75085)"><flowRegion
          id="flowRegion2709"><rect
            id="rect2711"
-           width="159.41422"
-           height="62.705803"
+           width="168.48471"
+           height="74.375168"
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2713"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Math</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Matemáticas</flowPara><flowPara
          id="flowPara2730"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-weight:bold"
@@ -868,29 +881,29 @@
    style="font-weight:bold"
    id="flowSpan8039">sqrt</flowSpan>(x)     <flowSpan
    style="font-weight:bold"
-   id="flowSpan8037">pow</flowSpan>(base, exponent)</flowPara><flowPara
+   id="flowSpan8037">pow</flowSpan>(base, exponente)</flowPara><flowPara
          id="flowPara8049"><flowSpan
    style="font-weight:bold"
-   id="flowSpan8057">constrain</flowSpan>(x, minval, maxval)</flowPara><flowPara
+   id="flowSpan8057">constrain</flowSpan>(x, valMin, valMax)</flowPara><flowPara
          id="flowPara8053"><flowSpan
    style="font-weight:bold"
-   id="flowSpan8059">map</flowSpan>(val, fromL, fromH, toL, toH)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan8059">map</flowSpan>(val, deBAJO, deALTO, aBAJO,aAlto)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2736"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,2405.9703,-2467.0033)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,549.3682,-31.18592)"><flowRegion
          id="flowRegion2738"><rect
            id="rect2740"
-           width="155.07452"
-           height="44.195831"
+           width="169.04967"
+           height="44.810005"
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2742"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Random Numbers</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Números aleatorios</flowPara><flowPara
          id="flowPara2748"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3722">randomSeed</flowSpan>(seed) // long or int</flowPara><flowPara
+   id="flowSpan3722">randomSeed</flowSpan>(semilla) //long ó int</flowPara><flowPara
          id="flowPara2755">long <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3724">random</flowSpan>(max)</flowPara><flowPara
@@ -900,7 +913,7 @@
        xml:space="preserve"
        id="flowRoot2761"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,2408.2379,-2224.8275)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,549.88792,27.347369)"><flowRegion
          id="flowRegion2763"><rect
            id="rect2765"
            width="165.00162"
@@ -909,7 +922,7 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2777"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Bits and Bytes</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Bits y Bytes</flowPara><flowPara
          id="flowPara2789"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">lowByte<flowSpan
    style="font-weight:normal"
@@ -936,7 +949,7 @@
        xml:space="preserve"
        id="flowRoot2806"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       transform="matrix(4.4182304,0,0,4.4182304,2407.8688,-1604.8595)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,549.80326,172.35814)"><flowRegion
          id="flowRegion2808"><rect
            id="rect2810"
            width="169.76263"
@@ -945,17 +958,17 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
          id="flowPara2812"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">External Interrupts</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Interrupciones Externas</flowPara><flowPara
          id="flowPara2818"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6542">attachInterrupt</flowSpan>(interrupt, func,</flowPara><flowPara
+   id="flowSpan6542">attachInterrupt</flowSpan>(interrup, func,</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara6550"> [LOW, CHANGE, RISING, FALLING])</flowPara><flowPara
          id="flowPara2829"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan6544">detachInterrupt</flowSpan>(interrupt)</flowPara><flowPara
+   id="flowSpan6544">detachInterrupt</flowSpan>(interrupción)</flowPara><flowPara
          id="flowPara2831"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
@@ -967,7 +980,7 @@
        xml:space="preserve"
        id="flowRoot2623"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       transform="matrix(4.4182304,0,0,4.4182304,3240.6476,-2800.5801)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,734.6484,-116.64455)"><flowRegion
          id="flowRegion2625"><rect
            id="rect2627"
            width="170.59378"
@@ -976,13 +989,17 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
          id="flowPara2629"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Serial<flowSpan
-   style="font-weight:normal;fill:#000000;fill-opacity:1"
-   id="flowSpan4655">  (communicate with PC or via RX/TX)</flowSpan></flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">Serie</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara4956"><flowSpan
+         id="flowPara4870"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4958">begin</flowSpan>(long Speed) // set bits/sec </flowPara><flowPara
+   id="flowSpan4958">begin</flowSpan>([300, 1200, 2400, 4800,</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4954">       9600, 14400, 19200, 28800,</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4956">       38400, 57600, 115200])</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara3770">      //Puede ser cualquier número</flowPara><flowPara
          id="flowPara2733"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
@@ -1006,15 +1023,15 @@
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8363"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan8365">print</flowSpan>(myData)</flowPara><flowPara
+   id="flowSpan8365">print</flowSpan>(misDatos)</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8341"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan8343">println</flowSpan>(myData)</flowPara><flowPara
+   id="flowSpan8343">println</flowSpan>(misDatos)</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8074"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4972">write</flowSpan>(myBytes)</flowPara><flowPara
+   id="flowSpan4972">write</flowSpan>(misBytes)</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8345"><flowSpan
    style="font-weight:bold"
@@ -1022,7 +1039,7 @@
        xml:space="preserve"
        id="flowRoot2749"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       transform="matrix(4.4182304,0,0,4.4182304,3240.3488,-2299.4724)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,734.57987,24.30024)"><flowRegion
          id="flowRegion2751"><rect
            id="rect2753"
            width="161.19698"
@@ -1039,15 +1056,15 @@
          id="flowPara2760"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">byte <flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4824">read</flowSpan>(intAddr)</flowPara><flowPara
+   id="flowSpan4824">read</flowSpan>(dirInterna)</flowPara><flowPara
          id="flowPara2764"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4826">write</flowSpan>(intAddr, myByte)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan4826">write</flowSpan>(dirInterna, miByte)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2772"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       transform="matrix(4.4182304,0,0,4.4182304,3240.3488,-2101.0294)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,734.57987,72.949333)"><flowRegion
          id="flowRegion2774"><rect
            id="rect2776"
            width="167.51546"
@@ -1070,66 +1087,60 @@
          id="flowPara2854"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4795">write</flowSpan>(angle) // 0, 180</flowPara><flowPara
+   id="flowSpan4795">write</flowSpan>(ángulo) // 0, 180</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara4779"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
    id="flowSpan4797">writeMicroseconds</flowSpan>(uS)</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara4777">   // 1000-2000; 1500 is midpoint</flowPara><flowPara
+         id="flowPara4777">     //1000-2000; 1500 es en medio</flowPara><flowPara
          id="flowPara2860"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4799">read</flowSpan>()       // 0 - 180</flowPara><flowPara
+   id="flowSpan4799">read</flowSpan>()       //0 - 180</flowPara><flowPara
          id="flowPara2862"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4801">attached</flowSpan>()   // returns boolean</flowPara><flowPara
+   id="flowSpan4801">attached</flowSpan>()   //regresa boleano</flowPara><flowPara
          id="flowPara2858"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">detach()</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2868"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-       transform="matrix(4.4182304,0,0,4.4182304,3240.6476,-1672.7939)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,734.6484,177.1387)"><flowRegion
          id="flowRegion2870"><rect
            id="rect2872"
-           width="175.69675"
-           height="89.62088"
+           width="170.29729"
+           height="61.959522"
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRegion><flowPara
          id="flowPara2875"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold">SoftwareSerial<flowSpan
-   style="font-weight:normal;fill:#000000;fill-opacity:1"
-   id="flowSpan3872"> (serial comm. on any pins)</flowSpan></flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"><flowSpan
+   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3837">SoftwareSerial</flowSpan>(RxPin, TxPin) </flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara4607">  (#include &lt;softwareSerial.h&gt;)</flowPara><flowPara
          id="flowPara2883"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4858">SoftwareSerial</flowSpan>(rxPin, txPin)</flowPara><flowPara
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara4663">  // select rx and tx pins </flowPara><flowPara
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-         id="flowPara4657"><flowSpan
-   style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4659">begin</flowSpan>(long Speed) // up to 9600</flowPara><flowPara
+   id="flowSpan4858">begin</flowSpan>(long velocidad) //hasta 9600</flowPara><flowPara
          id="flowPara2894"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace">char <flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4856">read</flowSpan>()   // blocks till data</flowPara><flowPara
+   id="flowSpan4856">read</flowSpan>()     //espera los datos</flowPara><flowPara
          id="flowPara2896"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan4852">print</flowSpan>(myData)</flowPara><flowPara
+   id="flowSpan4852">print</flowSpan>(misDatos)</flowPara><flowPara
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="flowPara8349"><flowSpan
    style="font-size:8.14805889px;font-weight:bold;text-align:start;text-anchor:start"
-   id="flowSpan8351">println</flowSpan>(myData)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan8351">println</flowSpan>(misDatos)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2900"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,3240.6476,-1253.1684)"><flowRegion
+       transform="matrix(1.0125111,0,0,1.0678753,734.6484,257.36101)"><flowRegion
          id="flowRegion2902"><rect
            id="rect2904"
            width="170.42276"
@@ -1140,50 +1151,62 @@
          id="flowPara2906"
          style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold"
-   id="flowSpan3847">Wire<flowSpan
-   style="font-weight:normal;fill:#000000;fill-opacity:1"
-   id="flowSpan4643">  (I²C comm.)  </flowSpan></flowSpan>(<flowSpan
+   id="flowSpan3847">Wire   </flowSpan>(<flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan4770">#include &lt;Wire.h&gt;</flowSpan>)</flowPara><flowPara
+   id="flowSpan4770">#include &lt;Wire.h&gt;</flowSpan>)  //para I²C</flowPara><flowPara
          id="flowPara2922"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3774">begin</flowSpan>()     // join a master</flowPara><flowPara
+   id="flowSpan3774">begin</flowSpan>()       <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3772">//se une a maestro</flowSpan></flowPara><flowPara
          id="flowPara2959"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3776">begin</flowSpan>(addr) // join a slave @ addr</flowPara><flowPara
+   id="flowSpan3776">begin</flowSpan>(addr)   <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3775">//se une a esclavo @dir</flowSpan></flowPara><flowPara
          id="flowPara2961"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3778">requestFrom</flowSpan>(address, count)</flowPara><flowPara
+   id="flowSpan3778">requestFrom</flowSpan>(dirección, cuenta)</flowPara><flowPara
          id="flowPara2963"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3780">beginTransmission</flowSpan>(addr) // Step 1</flowPara><flowPara
+   id="flowSpan3780">beginTransmission</flowSpan>(dir)  <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3785">// Paso 1</flowSpan></flowPara><flowPara
          id="flowPara2965"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3782">send</flowSpan>(myByte)            // Step 2</flowPara><flowPara
+   id="flowSpan3782">send</flowSpan>(miByte)            <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3783">// Paso 2</flowSpan></flowPara><flowPara
          id="flowPara2967"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3784">send</flowSpan>(char * mystring)</flowPara><flowPara
+   id="flowSpan3784">send</flowSpan>(char * miCadena)</flowPara><flowPara
          id="flowPara2969"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3786">send</flowSpan>(byte * data, size)</flowPara><flowPara
+   id="flowSpan3786">send</flowSpan>(byte * datos, tamaño)</flowPara><flowPara
          id="flowPara2971"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3788">endTransmission</flowSpan>()       // Step 3</flowPara><flowPara
+   id="flowSpan3788">endTransmission</flowSpan>()       <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3781">// Paso 3</flowSpan></flowPara><flowPara
          id="flowPara2973">byte <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3790">available</flowSpan>() // Num of bytes</flowPara><flowPara
+   id="flowSpan3790">available</flowSpan>()   <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3779">// Num de bytes</flowSpan></flowPara><flowPara
          id="flowPara2975">byte <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3792">receive</flowSpan>() // Return next byte</flowPara><flowPara
+   id="flowSpan3792">receive</flowSpan>() <flowSpan
+   style="font-size:7.2427187px"
+   id="flowSpan3777">//Regresa el sig byte</flowSpan></flowPara><flowPara
          id="flowPara2977"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3794">onReceive</flowSpan>(handler)</flowPara><flowPara
+   id="flowSpan3794">onReceive</flowSpan>(manejador)</flowPara><flowPara
          id="flowPara2979"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3796">onRequest</flowSpan>(handler)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan3796">onRequest</flowSpan>(manejador)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5588"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:start;text-align:start"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        transform="translate(-3,13)"><flowRegion
          id="flowRegion5590"><rect
            id="rect5592"
@@ -1191,10 +1214,10 @@
            height="13.5"
            x="1302.5"
            y="404.34448"
-           style="text-anchor:start;text-align:start" /></flowRegion><flowPara
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara5594" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;text-anchor:start;text-align:start"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        x="1562"
        y="95.594482"
        id="text3643"><tspan
@@ -1214,22 +1237,20 @@
            x="60"
            y="183.09448"
            style="text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         style="font-size:16.29611777999999900px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         style="font-size:16.29611778px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
          id="flowPara5422" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="3679.0913"
-       y="-2050.8804"
+       style="font-size:16.9449996px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold"
+       x="853.54578"
+       y="62.860329"
        id="text5199"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="100%"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
-         x="3679.0913"
-         y="-2050.8804"
-         id="tspan5201"><tspan
-           x="3679.0913"
-           y="-2050.8804"
-           style="font-weight:bold;line-height:125%;fill:#000000;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold"
-           id="tspan5203">Libraries</tspan></tspan></text>
+         x="853.54578"
+         y="62.860329"
+         id="tspan5201"
+         style="font-size:16.9449996px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Bibliotecas</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4887"
@@ -1241,7 +1262,7 @@
            height="59.5"
            x="1259"
            y="304.09448"
-           style="text-anchor:start;text-align:start" /></flowRegion><flowPara
+           style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara4894" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -1254,7 +1275,7 @@
          x="1262"
          y="324.09448" /></text>
     <g
-       transform="matrix(6.853684,0,0,6.853684,1894.9925,-358.52846)"
+       transform="matrix(1.5706359,0,0,1.6565184,432.2691,467.59326)"
        id="breadboardbreadboard-6">
       <g
          id="g32-1">
@@ -1664,27 +1685,27 @@
          d="m 181.165,73.491997 c 0,2.711166 -2.19784,4.909 -4.909,4.909 -2.71117,0 -4.909,-2.197834 -4.909,-4.909 0,-2.711166 2.19783,-4.909 4.909,-4.909 2.71116,0 4.909,2.197834 4.909,4.909 z" />
       <polygon
          style="fill:#404040"
-         points="209.885,61.289 208.373,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.656,61.289 195.656,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.373,66.732 209.885,65.223 "
+         points="195.656,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.373,66.732 209.885,65.223 209.885,61.289 208.373,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.656,61.289 "
          id="polygon170-5" />
       <polygon
          style="fill:#404040"
-         points="209.885,68.471 208.373,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.656,68.471 195.656,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.373,73.915 209.885,72.403 "
+         points="195.656,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.373,73.915 209.885,72.403 209.885,68.471 208.373,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.656,68.471 "
          id="polygon172-8" />
       <polygon
          style="fill:#404040"
-         points="209.885,75.651 208.373,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.656,75.651 195.656,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.373,81.094 209.885,79.584 "
+         points="195.656,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.373,81.094 209.885,79.584 209.885,75.651 208.373,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.656,75.651 "
          id="polygon174-4" />
       <polygon
          style="fill:#404040"
-         points="209.885,61.289 208.373,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.656,61.289 195.656,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.373,66.732 209.885,65.223 "
+         points="195.656,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.373,66.732 209.885,65.223 209.885,61.289 208.373,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.656,61.289 "
          id="polygon176-4" />
       <polygon
          style="fill:#404040"
-         points="209.885,68.471 208.373,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.656,68.471 195.656,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.373,73.915 209.885,72.403 "
+         points="195.656,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.373,73.915 209.885,72.403 209.885,68.471 208.373,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.656,68.471 "
          id="polygon178-3" />
       <polygon
          style="fill:#404040"
-         points="209.885,75.651 208.373,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.656,75.651 195.656,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.373,81.094 209.885,79.584 "
+         points="195.656,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.373,81.094 209.885,79.584 209.885,75.651 208.373,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.656,75.651 "
          id="polygon180-9" />
       <rect
          style="fill:#8d8c8c"
@@ -1737,19 +1758,19 @@
          id="rect196-1" />
       <polygon
          style="fill:#b8af82"
-         points="207.562,61.937 205.264,61.937 205.823,62.495 207.003,62.495 "
+         points="205.823,62.495 207.003,62.495 207.562,61.937 205.264,61.937 "
          id="polygon198-5" />
       <polygon
          style="fill:#80795b"
-         points="207.562,64.235 207.003,63.677 207.003,62.495 207.562,61.937 "
+         points="207.003,62.495 207.562,61.937 207.562,64.235 207.003,63.677 "
          id="polygon200-5" />
       <polygon
          style="fill:#5e5b43"
-         points="205.264,64.235 205.823,63.677 207.003,63.677 207.562,64.235 "
+         points="207.003,63.677 207.562,64.235 205.264,64.235 205.823,63.677 "
          id="polygon202-4" />
       <polygon
          style="fill:#9a916c"
-         points="205.264,64.235 205.264,61.937 205.823,62.495 205.823,63.677 "
+         points="205.823,62.495 205.823,63.677 205.264,64.235 205.264,61.937 "
          id="polygon204-2" />
       <rect
          style="fill:#8c8663"
@@ -1760,19 +1781,19 @@
          id="rect206-9" />
       <polygon
          style="fill:#b8af82"
-         points="200.363,61.937 198.065,61.937 198.623,62.495 199.804,62.495 "
+         points="198.623,62.495 199.804,62.495 200.363,61.937 198.065,61.937 "
          id="polygon208-2" />
       <polygon
          style="fill:#80795b"
-         points="200.363,64.235 199.804,63.677 199.804,62.495 200.363,61.937 "
+         points="199.804,62.495 200.363,61.937 200.363,64.235 199.804,63.677 "
          id="polygon210-4" />
       <polygon
          style="fill:#5e5b43"
-         points="198.065,64.235 198.623,63.677 199.804,63.677 200.363,64.235 "
+         points="199.804,63.677 200.363,64.235 198.065,64.235 198.623,63.677 "
          id="polygon212-0" />
       <polygon
          style="fill:#9a916c"
-         points="198.065,64.235 198.065,61.937 198.623,62.495 198.623,63.677 "
+         points="198.623,62.495 198.623,63.677 198.065,64.235 198.065,61.937 "
          id="polygon214-5" />
       <rect
          style="fill:#8c8663"
@@ -1783,19 +1804,19 @@
          id="rect216-7" />
       <polygon
          style="fill:#b8af82"
-         points="207.562,69.136 205.264,69.136 205.823,69.693 207.003,69.693 "
+         points="205.823,69.693 207.003,69.693 207.562,69.136 205.264,69.136 "
          id="polygon218-6" />
       <polygon
          style="fill:#80795b"
-         points="207.562,71.434 207.003,70.875 207.003,69.693 207.562,69.136 "
+         points="207.003,69.693 207.562,69.136 207.562,71.434 207.003,70.875 "
          id="polygon220-0" />
       <polygon
          style="fill:#5e5b43"
-         points="205.264,71.434 205.823,70.875 207.003,70.875 207.562,71.434 "
+         points="207.003,70.875 207.562,71.434 205.264,71.434 205.823,70.875 "
          id="polygon222-4" />
       <polygon
          style="fill:#9a916c"
-         points="205.264,71.434 205.264,69.136 205.823,69.693 205.823,70.875 "
+         points="205.823,69.693 205.823,70.875 205.264,71.434 205.264,69.136 "
          id="polygon224-4" />
       <rect
          style="fill:#8c8663"
@@ -1806,19 +1827,19 @@
          id="rect226-7" />
       <polygon
          style="fill:#b8af82"
-         points="200.363,69.136 198.065,69.136 198.623,69.693 199.804,69.693 "
+         points="198.623,69.693 199.804,69.693 200.363,69.136 198.065,69.136 "
          id="polygon228-5" />
       <polygon
          style="fill:#80795b"
-         points="200.363,71.434 199.804,70.875 199.804,69.693 200.363,69.136 "
+         points="199.804,69.693 200.363,69.136 200.363,71.434 199.804,70.875 "
          id="polygon230-5" />
       <polygon
          style="fill:#5e5b43"
-         points="198.065,71.434 198.623,70.875 199.804,70.875 200.363,71.434 "
+         points="199.804,70.875 200.363,71.434 198.065,71.434 198.623,70.875 "
          id="polygon232-9" />
       <polygon
          style="fill:#9a916c"
-         points="198.065,71.434 198.065,69.136 198.623,69.693 198.623,70.875 "
+         points="198.623,69.693 198.623,70.875 198.065,71.434 198.065,69.136 "
          id="polygon234-1" />
       <rect
          style="fill:#8c8663"
@@ -1829,19 +1850,19 @@
          id="rect236-8" />
       <polygon
          style="fill:#b8af82"
-         points="207.562,76.334 205.264,76.334 205.823,76.892 207.003,76.892 "
+         points="205.823,76.892 207.003,76.892 207.562,76.334 205.264,76.334 "
          id="polygon238-4" />
       <polygon
          style="fill:#80795b"
-         points="207.562,78.633 207.003,78.075 207.003,76.892 207.562,76.334 "
+         points="207.003,76.892 207.562,76.334 207.562,78.633 207.003,78.075 "
          id="polygon240-4" />
       <polygon
          style="fill:#5e5b43"
-         points="205.264,78.633 205.823,78.075 207.003,78.075 207.562,78.633 "
+         points="207.003,78.075 207.562,78.633 205.264,78.633 205.823,78.075 "
          id="polygon242-6" />
       <polygon
          style="fill:#9a916c"
-         points="205.264,78.633 205.264,76.334 205.823,76.892 205.823,78.075 "
+         points="205.823,76.892 205.823,78.075 205.264,78.633 205.264,76.334 "
          id="polygon244-5" />
       <rect
          style="fill:#8c8663"
@@ -1852,19 +1873,19 @@
          id="rect246-1" />
       <polygon
          style="fill:#b8af82"
-         points="200.363,76.334 198.065,76.334 198.623,76.892 199.804,76.892 "
+         points="198.623,76.892 199.804,76.892 200.363,76.334 198.065,76.334 "
          id="polygon248-0" />
       <polygon
          style="fill:#80795b"
-         points="200.363,78.633 199.804,78.075 199.804,76.892 200.363,76.334 "
+         points="199.804,76.892 200.363,76.334 200.363,78.633 199.804,78.075 "
          id="polygon250-4" />
       <polygon
          style="fill:#5e5b43"
-         points="198.065,78.633 198.623,78.075 199.804,78.075 200.363,78.633 "
+         points="199.804,78.075 200.363,78.633 198.065,78.633 198.623,78.075 "
          id="polygon252-9" />
       <polygon
          style="fill:#9a916c"
-         points="198.065,78.633 198.065,76.334 198.623,76.892 198.623,78.075 "
+         points="198.623,76.892 198.623,78.075 198.065,78.633 198.065,76.334 "
          id="polygon254-9" />
       <rect
          style="fill:#676666"
@@ -1907,19 +1928,19 @@
          id="rect316-8" />
       <polygon
          style="fill:#2a2a29"
-         points="86.443,3.087 81.625,3.087 82.648,4.11 85.421,4.11 "
+         points="82.648,4.11 85.421,4.11 86.443,3.087 81.625,3.087 "
          id="polygon318-6" />
       <polygon
          style="fill:#474747"
-         points="86.444,7.906 86.444,3.087 85.421,4.113 85.421,6.885 "
+         points="85.421,4.113 85.421,6.885 86.444,7.906 86.444,3.087 "
          id="polygon320-0" />
       <polygon
          style="fill:#595959"
-         points="81.625,7.906 86.443,7.906 85.421,6.885 82.647,6.885 "
+         points="85.421,6.885 82.647,6.885 81.625,7.906 86.443,7.906 "
          id="polygon322-2" />
       <polygon
          style="fill:#373737"
-         points="81.624,3.087 81.624,7.906 82.647,6.883 82.647,4.11 "
+         points="82.647,6.883 82.647,4.11 81.624,3.087 81.624,7.906 "
          id="polygon324-6" />
       <rect
          style="fill:#404040"
@@ -1936,19 +1957,19 @@
          id="rect328-7" />
       <polygon
          style="fill:#2a2a29"
-         points="93.621,3.087 88.802,3.087 89.824,4.11 92.598,4.11 "
+         points="89.824,4.11 92.598,4.11 93.621,3.087 88.802,3.087 "
          id="polygon330-3" />
       <polygon
          style="fill:#474747"
-         points="93.621,7.906 93.621,3.087 92.598,4.113 92.598,6.885 "
+         points="92.598,4.113 92.598,6.885 93.621,7.906 93.621,3.087 "
          id="polygon332-1" />
       <polygon
          style="fill:#595959"
-         points="88.802,7.906 93.619,7.906 92.598,6.885 89.824,6.885 "
+         points="92.598,6.885 89.824,6.885 88.802,7.906 93.619,7.906 "
          id="polygon334-5" />
       <polygon
          style="fill:#373737"
-         points="88.801,3.087 88.801,7.906 89.824,6.883 89.824,4.11 "
+         points="89.824,6.883 89.824,4.11 88.801,3.087 88.801,7.906 "
          id="polygon336-9" />
       <rect
          style="fill:#404040"
@@ -1965,19 +1986,19 @@
          id="rect340-9" />
       <polygon
          style="fill:#2a2a29"
-         points="100.799,3.087 95.98,3.087 97.002,4.11 99.777,4.11 "
+         points="97.002,4.11 99.777,4.11 100.799,3.087 95.98,3.087 "
          id="polygon342-8" />
       <polygon
          style="fill:#474747"
-         points="100.799,7.906 100.799,3.087 99.777,4.113 99.777,6.885 "
+         points="99.777,4.113 99.777,6.885 100.799,7.906 100.799,3.087 "
          id="polygon344-9" />
       <polygon
          style="fill:#595959"
-         points="95.98,7.906 100.798,7.906 99.776,6.885 97.001,6.885 "
+         points="99.776,6.885 97.001,6.885 95.98,7.906 100.798,7.906 "
          id="polygon346-7" />
       <polygon
          style="fill:#373737"
-         points="95.979,3.087 95.979,7.906 97.001,6.883 97.001,4.11 "
+         points="97.001,6.883 97.001,4.11 95.979,3.087 95.979,7.906 "
          id="polygon348-4" />
       <rect
          style="fill:#404040"
@@ -1994,19 +2015,19 @@
          id="rect352-8" />
       <polygon
          style="fill:#2a2a29"
-         points="107.977,3.087 103.157,3.087 104.18,4.11 106.953,4.11 "
+         points="104.18,4.11 106.953,4.11 107.977,3.087 103.157,3.087 "
          id="polygon354-4" />
       <polygon
          style="fill:#474747"
-         points="107.977,7.906 107.977,3.087 106.953,4.113 106.953,6.885 "
+         points="106.953,4.113 106.953,6.885 107.977,7.906 107.977,3.087 "
          id="polygon356-7" />
       <polygon
          style="fill:#595959"
-         points="103.157,7.906 107.975,7.906 106.953,6.885 104.179,6.885 "
+         points="106.953,6.885 104.179,6.885 103.157,7.906 107.975,7.906 "
          id="polygon358-2" />
       <polygon
          style="fill:#373737"
-         points="103.156,3.087 103.156,7.906 104.179,6.883 104.179,4.11 "
+         points="104.179,6.883 104.179,4.11 103.156,3.087 103.156,7.906 "
          id="polygon360-0" />
       <rect
          style="fill:#404040"
@@ -2023,19 +2044,19 @@
          id="rect364-8" />
       <polygon
          style="fill:#2a2a29"
-         points="129.635,139.864 124.817,139.864 125.839,140.885 128.614,140.885 "
+         points="125.839,140.885 128.614,140.885 129.635,139.864 124.817,139.864 "
          id="polygon366-6" />
       <polygon
          style="fill:#474747"
-         points="129.636,144.682 129.636,139.864 128.614,140.889 128.614,143.661 "
+         points="128.614,140.889 128.614,143.661 129.636,144.682 129.636,139.864 "
          id="polygon368-0" />
       <polygon
          style="fill:#595959"
-         points="124.817,144.682 129.635,144.682 128.614,143.661 125.839,143.661 "
+         points="128.614,143.661 125.839,143.661 124.817,144.682 129.635,144.682 "
          id="polygon370-2" />
       <polygon
          style="fill:#373737"
-         points="124.817,139.864 124.817,144.682 125.839,143.659 125.839,140.885 "
+         points="125.839,143.659 125.839,140.885 124.817,139.864 124.817,144.682 "
          id="polygon372-3" />
       <rect
          style="fill:#404040"
@@ -2052,19 +2073,19 @@
          id="rect376-1" />
       <polygon
          style="fill:#2a2a29"
-         points="122.436,139.864 117.618,139.864 118.64,140.885 121.414,140.885 "
+         points="118.64,140.885 121.414,140.885 122.436,139.864 117.618,139.864 "
          id="polygon378-3" />
       <polygon
          style="fill:#474747"
-         points="122.438,144.682 122.438,139.864 121.414,140.889 121.414,143.661 "
+         points="121.414,140.889 121.414,143.661 122.438,144.682 122.438,139.864 "
          id="polygon380-7" />
       <polygon
          style="fill:#595959"
-         points="117.618,144.682 122.436,144.682 121.414,143.661 118.64,143.661 "
+         points="121.414,143.661 118.64,143.661 117.618,144.682 122.436,144.682 "
          id="polygon382-9" />
       <polygon
          style="fill:#373737"
-         points="117.618,139.864 117.618,144.682 118.64,143.659 118.64,140.885 "
+         points="118.64,143.659 118.64,140.885 117.618,139.864 117.618,144.682 "
          id="polygon384-3" />
       <rect
          style="fill:#404040"
@@ -2081,19 +2102,19 @@
          id="rect388-1" />
       <polygon
          style="fill:#2a2a29"
-         points="115.238,139.864 110.419,139.864 111.442,140.885 114.216,140.885 "
+         points="111.442,140.885 114.216,140.885 115.238,139.864 110.419,139.864 "
          id="polygon390-2" />
       <polygon
          style="fill:#474747"
-         points="115.239,144.682 115.239,139.864 114.216,140.889 114.216,143.661 "
+         points="114.216,140.889 114.216,143.661 115.239,144.682 115.239,139.864 "
          id="polygon392-5" />
       <polygon
          style="fill:#595959"
-         points="110.419,144.682 115.238,144.682 114.216,143.661 111.442,143.661 "
+         points="114.216,143.661 111.442,143.661 110.419,144.682 115.238,144.682 "
          id="polygon394-6" />
       <polygon
          style="fill:#373737"
-         points="110.419,139.864 110.419,144.682 111.442,143.659 111.442,140.885 "
+         points="111.442,143.659 111.442,140.885 110.419,139.864 110.419,144.682 "
          id="polygon396-2" />
       <rect
          style="fill:#404040"
@@ -2110,19 +2131,19 @@
          id="rect400-6" />
       <polygon
          style="fill:#2a2a29"
-         points="136.813,139.864 131.994,139.864 133.017,140.885 135.79,140.885 "
+         points="133.017,140.885 135.79,140.885 136.813,139.864 131.994,139.864 "
          id="polygon402-1" />
       <polygon
          style="fill:#474747"
-         points="136.815,144.682 136.815,139.864 135.79,140.889 135.79,143.661 "
+         points="135.79,140.889 135.79,143.661 136.815,144.682 136.815,139.864 "
          id="polygon404-7" />
       <polygon
          style="fill:#595959"
-         points="131.994,144.682 136.813,144.682 135.79,143.661 133.015,143.661 "
+         points="135.79,143.661 133.015,143.661 131.994,144.682 136.813,144.682 "
          id="polygon406-7" />
       <polygon
          style="fill:#373737"
-         points="131.994,139.864 131.994,144.682 133.015,143.659 133.015,140.885 "
+         points="133.015,143.659 133.015,140.885 131.994,139.864 131.994,144.682 "
          id="polygon408-0" />
       <rect
          style="fill:#404040"
@@ -2139,19 +2160,19 @@
          id="rect412-6" />
       <polygon
          style="fill:#2a2a29"
-         points="143.99,139.864 139.172,139.864 140.194,140.885 142.97,140.885 "
+         points="140.194,140.885 142.97,140.885 143.99,139.864 139.172,139.864 "
          id="polygon414-1" />
       <polygon
          style="fill:#474747"
-         points="143.99,144.682 143.99,139.864 142.97,140.889 142.97,143.661 "
+         points="142.97,140.889 142.97,143.661 143.99,144.682 143.99,139.864 "
          id="polygon416-2" />
       <polygon
          style="fill:#595959"
-         points="139.172,144.682 143.99,144.682 142.97,143.661 140.194,143.661 "
+         points="142.97,143.661 140.194,143.661 139.172,144.682 143.99,144.682 "
          id="polygon418-2" />
       <polygon
          style="fill:#373737"
-         points="139.172,139.864 139.172,144.682 140.194,143.659 140.194,140.885 "
+         points="140.194,143.659 140.194,140.885 139.172,139.864 139.172,144.682 "
          id="polygon420-6" />
       <rect
          style="fill:#404040"
@@ -2168,19 +2189,19 @@
          id="rect424-0" />
       <polygon
          style="fill:#2a2a29"
-         points="151.168,139.864 146.348,139.864 147.372,140.885 150.147,140.885 "
+         points="147.372,140.885 150.147,140.885 151.168,139.864 146.348,139.864 "
          id="polygon426-5" />
       <polygon
          style="fill:#474747"
-         points="151.169,144.682 151.169,139.864 150.147,140.889 150.147,143.661 "
+         points="150.147,140.889 150.147,143.661 151.169,144.682 151.169,139.864 "
          id="polygon428-5" />
       <polygon
          style="fill:#595959"
-         points="146.348,144.682 151.168,144.682 150.145,143.661 147.372,143.661 "
+         points="150.145,143.661 147.372,143.661 146.348,144.682 151.168,144.682 "
          id="polygon430-3" />
       <polygon
          style="fill:#373737"
-         points="146.348,139.864 146.348,144.682 147.372,143.659 147.372,140.885 "
+         points="147.372,143.659 147.372,140.885 146.348,139.864 146.348,144.682 "
          id="polygon432-3" />
       <rect
          style="fill:#404040"
@@ -2197,19 +2218,19 @@
          id="rect436-2" />
       <polygon
          style="fill:#2a2a29"
-         points="165.629,139.864 160.812,139.864 161.833,140.885 164.608,140.885 "
+         points="161.833,140.885 164.608,140.885 165.629,139.864 160.812,139.864 "
          id="polygon438-5" />
       <polygon
          style="fill:#474747"
-         points="165.631,144.682 165.631,139.864 164.608,140.889 164.608,143.661 "
+         points="164.608,140.889 164.608,143.661 165.631,144.682 165.631,139.864 "
          id="polygon440-7" />
       <polygon
          style="fill:#595959"
-         points="160.812,144.682 165.629,144.682 164.607,143.661 161.833,143.661 "
+         points="164.607,143.661 161.833,143.661 160.812,144.682 165.629,144.682 "
          id="polygon442-2" />
       <polygon
          style="fill:#373737"
-         points="160.812,139.864 160.812,144.682 161.833,143.659 161.833,140.885 "
+         points="161.833,143.659 161.833,140.885 160.812,139.864 160.812,144.682 "
          id="polygon444-1" />
       <rect
          style="fill:#404040"
@@ -2226,19 +2247,19 @@
          id="rect448-1" />
       <polygon
          style="fill:#2a2a29"
-         points="172.809,139.864 167.99,139.864 169.012,140.885 171.785,140.885 "
+         points="169.012,140.885 171.785,140.885 172.809,139.864 167.99,139.864 "
          id="polygon450-2" />
       <polygon
          style="fill:#474747"
-         points="172.809,144.682 172.809,139.864 171.785,140.889 171.785,143.661 "
+         points="171.785,140.889 171.785,143.661 172.809,144.682 172.809,139.864 "
          id="polygon452-2" />
       <polygon
          style="fill:#595959"
-         points="167.99,144.682 172.807,144.682 171.784,143.661 169.01,143.661 "
+         points="171.784,143.661 169.01,143.661 167.99,144.682 172.807,144.682 "
          id="polygon454-8" />
       <polygon
          style="fill:#373737"
-         points="167.988,139.864 167.988,144.682 169.01,143.659 169.01,140.885 "
+         points="169.01,143.659 169.01,140.885 167.988,139.864 167.988,144.682 "
          id="polygon456-0" />
       <rect
          style="fill:#404040"
@@ -2255,19 +2276,19 @@
          id="rect460-4" />
       <polygon
          style="fill:#2a2a29"
-         points="179.985,139.864 175.165,139.864 176.189,140.885 178.962,140.885 "
+         points="176.189,140.885 178.962,140.885 179.985,139.864 175.165,139.864 "
          id="polygon462-9" />
       <polygon
          style="fill:#474747"
-         points="179.985,144.682 179.985,139.864 178.962,140.889 178.962,143.661 "
+         points="178.962,140.889 178.962,143.661 179.985,144.682 179.985,139.864 "
          id="polygon464-3" />
       <polygon
          style="fill:#595959"
-         points="175.165,144.682 179.985,144.682 178.962,143.661 176.189,143.661 "
+         points="178.962,143.661 176.189,143.661 175.165,144.682 179.985,144.682 "
          id="polygon466-1" />
       <polygon
          style="fill:#373737"
-         points="175.165,139.864 175.165,144.682 176.189,143.659 176.189,140.885 "
+         points="176.189,143.659 176.189,140.885 175.165,139.864 175.165,144.682 "
          id="polygon468-4" />
       <rect
          style="fill:#404040"
@@ -2284,19 +2305,19 @@
          id="rect472-4" />
       <polygon
          style="fill:#2a2a29"
-         points="187.163,139.864 182.344,139.864 183.365,140.885 186.141,140.885 "
+         points="183.365,140.885 186.141,140.885 187.163,139.864 182.344,139.864 "
          id="polygon474-3" />
       <polygon
          style="fill:#474747"
-         points="187.163,144.682 187.163,139.864 186.141,140.889 186.141,143.661 "
+         points="186.141,140.889 186.141,143.661 187.163,144.682 187.163,139.864 "
          id="polygon476-0" />
       <polygon
          style="fill:#595959"
-         points="182.344,144.682 187.163,144.682 186.14,143.661 183.365,143.661 "
+         points="186.14,143.661 183.365,143.661 182.344,144.682 187.163,144.682 "
          id="polygon478-4" />
       <polygon
          style="fill:#373737"
-         points="182.344,139.864 182.344,144.682 183.365,143.659 183.365,140.885 "
+         points="183.365,143.659 183.365,140.885 182.344,139.864 182.344,144.682 "
          id="polygon480-8" />
       <rect
          style="fill:#404040"
@@ -2313,19 +2334,19 @@
          id="rect484-3" />
       <polygon
          style="fill:#2a2a29"
-         points="194.338,139.864 189.52,139.864 190.544,140.885 193.318,140.885 "
+         points="190.544,140.885 193.318,140.885 194.338,139.864 189.52,139.864 "
          id="polygon486-2" />
       <polygon
          style="fill:#474747"
-         points="194.341,144.682 194.341,139.864 193.318,140.889 193.318,143.661 "
+         points="193.318,140.889 193.318,143.661 194.341,144.682 194.341,139.864 "
          id="polygon488-8" />
       <polygon
          style="fill:#595959"
-         points="189.52,144.682 194.338,144.682 193.316,143.661 190.544,143.661 "
+         points="193.316,143.661 190.544,143.661 189.52,144.682 194.338,144.682 "
          id="polygon490-2" />
       <polygon
          style="fill:#373737"
-         points="189.52,139.864 189.52,144.682 190.544,143.659 190.544,140.885 "
+         points="190.544,143.659 190.544,140.885 189.52,139.864 189.52,144.682 "
          id="polygon492-3" />
       <rect
          style="fill:#404040"
@@ -2342,19 +2363,19 @@
          id="rect496-8" />
       <polygon
          style="fill:#2a2a29"
-         points="201.516,139.864 196.698,139.864 197.719,140.885 200.494,140.885 "
+         points="197.719,140.885 200.494,140.885 201.516,139.864 196.698,139.864 "
          id="polygon498-5" />
       <polygon
          style="fill:#474747"
-         points="201.518,144.682 201.518,139.864 200.494,140.889 200.494,143.661 "
+         points="200.494,140.889 200.494,143.661 201.518,144.682 201.518,139.864 "
          id="polygon500-0" />
       <polygon
          style="fill:#595959"
-         points="196.698,144.682 201.516,144.682 200.492,143.661 197.719,143.661 "
+         points="200.492,143.661 197.719,143.661 196.698,144.682 201.516,144.682 "
          id="polygon502-8" />
       <polygon
          style="fill:#373737"
-         points="196.698,139.864 196.698,144.682 197.719,143.659 197.719,140.885 "
+         points="197.719,143.659 197.719,140.885 196.698,139.864 196.698,144.682 "
          id="polygon504-3" />
       <rect
          style="fill:#404040"
@@ -2371,19 +2392,19 @@
          id="rect508-1" />
       <polygon
          style="fill:#2a2a29"
-         points="115.154,3.087 110.335,3.087 111.358,4.11 114.132,4.11 "
+         points="111.358,4.11 114.132,4.11 115.154,3.087 110.335,3.087 "
          id="polygon510-5" />
       <polygon
          style="fill:#474747"
-         points="115.154,7.906 115.154,3.087 114.132,4.113 114.132,6.885 "
+         points="114.132,4.113 114.132,6.885 115.154,7.906 115.154,3.087 "
          id="polygon512-8" />
       <polygon
          style="fill:#595959"
-         points="110.335,7.906 115.154,7.906 114.13,6.885 111.358,6.885 "
+         points="114.13,6.885 111.358,6.885 110.335,7.906 115.154,7.906 "
          id="polygon514-3" />
       <polygon
          style="fill:#373737"
-         points="110.333,3.087 110.333,7.906 111.358,6.883 111.358,4.11 "
+         points="111.358,6.883 111.358,4.11 110.333,3.087 110.333,7.906 "
          id="polygon516-7" />
       <rect
          style="fill:#404040"
@@ -2400,19 +2421,19 @@
          id="rect520-6" />
       <polygon
          style="fill:#2a2a29"
-         points="122.331,3.087 117.513,3.087 118.535,4.11 121.309,4.11 "
+         points="118.535,4.11 121.309,4.11 122.331,3.087 117.513,3.087 "
          id="polygon522-0" />
       <polygon
          style="fill:#474747"
-         points="122.331,7.906 122.331,3.087 121.309,4.113 121.309,6.885 "
+         points="121.309,4.113 121.309,6.885 122.331,7.906 122.331,3.087 "
          id="polygon524-9" />
       <polygon
          style="fill:#595959"
-         points="117.513,7.906 122.331,7.906 121.308,6.885 118.534,6.885 "
+         points="121.308,6.885 118.534,6.885 117.513,7.906 122.331,7.906 "
          id="polygon526-0" />
       <polygon
          style="fill:#373737"
-         points="117.512,3.087 117.512,7.906 118.534,6.883 118.534,4.11 "
+         points="118.534,6.883 118.534,4.11 117.512,3.087 117.512,7.906 "
          id="polygon528-5" />
       <rect
          style="fill:#404040"
@@ -2429,19 +2450,19 @@
          id="rect532-1" />
       <polygon
          style="fill:#2a2a29"
-         points="129.51,3.087 124.692,3.087 125.712,4.11 128.488,4.11 "
+         points="125.712,4.11 128.488,4.11 129.51,3.087 124.692,3.087 "
          id="polygon534-4" />
       <polygon
          style="fill:#474747"
-         points="129.51,7.906 129.51,3.087 128.488,4.113 128.488,6.885 "
+         points="128.488,4.113 128.488,6.885 129.51,7.906 129.51,3.087 "
          id="polygon536-2" />
       <polygon
          style="fill:#595959"
-         points="124.692,7.906 129.509,7.906 128.487,6.885 125.712,6.885 "
+         points="128.487,6.885 125.712,6.885 124.692,7.906 129.509,7.906 "
          id="polygon538-0" />
       <polygon
          style="fill:#373737"
-         points="124.69,3.087 124.69,7.906 125.712,6.883 125.712,4.11 "
+         points="125.712,6.883 125.712,4.11 124.69,3.087 124.69,7.906 "
          id="polygon540-1" />
       <rect
          style="fill:#404040"
@@ -2458,19 +2479,19 @@
          id="rect544-9" />
       <polygon
          style="fill:#2a2a29"
-         points="136.687,3.087 131.868,3.087 132.89,4.11 135.664,4.11 "
+         points="132.89,4.11 135.664,4.11 136.687,3.087 131.868,3.087 "
          id="polygon546-0" />
       <polygon
          style="fill:#474747"
-         points="136.687,7.906 136.687,3.087 135.664,4.113 135.664,6.885 "
+         points="135.664,4.113 135.664,6.885 136.687,7.906 136.687,3.087 "
          id="polygon548-4" />
       <polygon
          style="fill:#595959"
-         points="131.868,7.906 136.686,7.906 135.663,6.885 132.89,6.885 "
+         points="135.663,6.885 132.89,6.885 131.868,7.906 136.686,7.906 "
          id="polygon550-2" />
       <polygon
          style="fill:#373737"
-         points="131.866,3.087 131.866,7.906 132.89,6.883 132.89,4.11 "
+         points="132.89,6.883 132.89,4.11 131.866,3.087 131.866,7.906 "
          id="polygon552-6" />
       <rect
          style="fill:#404040"
@@ -2487,19 +2508,19 @@
          id="rect556-5" />
       <polygon
          style="fill:#2a2a29"
-         points="151.232,3.087 146.413,3.087 147.435,4.11 150.21,4.11 "
+         points="147.435,4.11 150.21,4.11 151.232,3.087 146.413,3.087 "
          id="polygon558-2" />
       <polygon
          style="fill:#474747"
-         points="151.232,7.906 151.232,3.087 150.21,4.113 150.21,6.885 "
+         points="150.21,4.113 150.21,6.885 151.232,7.906 151.232,3.087 "
          id="polygon560-4" />
       <polygon
          style="fill:#595959"
-         points="146.413,7.906 151.232,7.906 150.209,6.885 147.435,6.885 "
+         points="150.209,6.885 147.435,6.885 146.413,7.906 151.232,7.906 "
          id="polygon562-2" />
       <polygon
          style="fill:#373737"
-         points="146.413,3.087 146.413,7.906 147.435,6.883 147.435,4.11 "
+         points="147.435,6.883 147.435,4.11 146.413,3.087 146.413,7.906 "
          id="polygon564-3" />
       <rect
          style="fill:#404040"
@@ -2516,19 +2537,19 @@
          id="rect568-5" />
       <polygon
          style="fill:#2a2a29"
-         points="158.409,3.087 153.591,3.087 154.615,4.11 157.388,4.11 "
+         points="154.615,4.11 157.388,4.11 158.409,3.087 153.591,3.087 "
          id="polygon570-0" />
       <polygon
          style="fill:#474747"
-         points="158.411,7.906 158.411,3.087 157.388,4.113 157.388,6.885 "
+         points="157.388,4.113 157.388,6.885 158.411,7.906 158.411,3.087 "
          id="polygon572-5" />
       <polygon
          style="fill:#595959"
-         points="153.591,7.906 158.409,7.906 157.388,6.885 154.614,6.885 "
+         points="157.388,6.885 154.614,6.885 153.591,7.906 158.409,7.906 "
          id="polygon574-3" />
       <polygon
          style="fill:#373737"
-         points="153.591,3.087 153.591,7.906 154.614,6.883 154.614,4.11 "
+         points="154.614,6.883 154.614,4.11 153.591,3.087 153.591,7.906 "
          id="polygon576-2" />
       <rect
          style="fill:#404040"
@@ -2545,19 +2566,19 @@
          id="rect580-7" />
       <polygon
          style="fill:#2a2a29"
-         points="165.588,3.087 160.769,3.087 161.792,4.11 164.565,4.11 "
+         points="161.792,4.11 164.565,4.11 165.588,3.087 160.769,3.087 "
          id="polygon582-3" />
       <polygon
          style="fill:#474747"
-         points="165.588,7.906 165.588,3.087 164.565,4.113 164.565,6.885 "
+         points="164.565,4.113 164.565,6.885 165.588,7.906 165.588,3.087 "
          id="polygon584-7" />
       <polygon
          style="fill:#595959"
-         points="160.769,7.906 165.586,7.906 164.565,6.885 161.79,6.885 "
+         points="164.565,6.885 161.79,6.885 160.769,7.906 165.586,7.906 "
          id="polygon586-4" />
       <polygon
          style="fill:#373737"
-         points="160.768,3.087 160.768,7.906 161.79,6.883 161.79,4.11 "
+         points="161.79,6.883 161.79,4.11 160.768,3.087 160.768,7.906 "
          id="polygon588-9" />
       <rect
          style="fill:#404040"
@@ -2574,19 +2595,19 @@
          id="rect592-8" />
       <polygon
          style="fill:#2a2a29"
-         points="172.765,3.087 167.947,3.087 168.968,4.11 171.743,4.11 "
+         points="168.968,4.11 171.743,4.11 172.765,3.087 167.947,3.087 "
          id="polygon594-8" />
       <polygon
          style="fill:#474747"
-         points="172.765,7.906 172.765,3.087 171.743,4.113 171.743,6.885 "
+         points="171.743,4.113 171.743,6.885 172.765,7.906 172.765,3.087 "
          id="polygon596-0" />
       <polygon
          style="fill:#595959"
-         points="167.947,7.906 172.765,7.906 171.741,6.885 168.968,6.885 "
+         points="171.741,6.885 168.968,6.885 167.947,7.906 172.765,7.906 "
          id="polygon598-9" />
       <polygon
          style="fill:#373737"
-         points="167.947,3.087 167.947,7.906 168.968,6.883 168.968,4.11 "
+         points="168.968,6.883 168.968,4.11 167.947,3.087 167.947,7.906 "
          id="polygon600-7" />
       <rect
          style="fill:#404040"
@@ -2603,19 +2624,19 @@
          id="rect604-0" />
       <polygon
          style="fill:#2a2a29"
-         points="179.942,3.087 175.123,3.087 176.146,4.11 178.92,4.11 "
+         points="176.146,4.11 178.92,4.11 179.942,3.087 175.123,3.087 "
          id="polygon606-7" />
       <polygon
          style="fill:#474747"
-         points="179.942,7.906 179.942,3.087 178.92,4.113 178.92,6.885 "
+         points="178.92,4.113 178.92,6.885 179.942,7.906 179.942,3.087 "
          id="polygon608-6" />
       <polygon
          style="fill:#595959"
-         points="175.123,7.906 179.942,7.906 178.92,6.885 176.146,6.885 "
+         points="178.92,6.885 176.146,6.885 175.123,7.906 179.942,7.906 "
          id="polygon610-1" />
       <polygon
          style="fill:#373737"
-         points="175.123,3.087 175.123,7.906 176.146,6.883 176.146,4.11 "
+         points="176.146,6.883 176.146,4.11 175.123,3.087 175.123,7.906 "
          id="polygon612-2" />
       <rect
          style="fill:#404040"
@@ -2632,19 +2653,19 @@
          id="rect616-2" />
       <polygon
          style="fill:#2a2a29"
-         points="187.12,3.087 182.302,3.087 183.324,4.11 186.097,4.11 "
+         points="183.324,4.11 186.097,4.11 187.12,3.087 182.302,3.087 "
          id="polygon618-8" />
       <polygon
          style="fill:#474747"
-         points="187.12,7.906 187.12,3.087 186.097,4.113 186.097,6.885 "
+         points="186.097,4.113 186.097,6.885 187.12,7.906 187.12,3.087 "
          id="polygon620-6" />
       <polygon
          style="fill:#595959"
-         points="182.302,7.906 187.12,7.906 186.097,6.885 183.324,6.885 "
+         points="186.097,6.885 183.324,6.885 182.302,7.906 187.12,7.906 "
          id="polygon622-3" />
       <polygon
          style="fill:#373737"
-         points="182.3,3.087 182.3,7.906 183.324,6.883 183.324,4.11 "
+         points="183.324,6.883 183.324,4.11 182.3,3.087 182.3,7.906 "
          id="polygon624-9" />
       <rect
          style="fill:#404040"
@@ -2661,19 +2682,19 @@
          id="rect628-3" />
       <polygon
          style="fill:#2a2a29"
-         points="194.298,3.087 189.48,3.087 190.502,4.11 193.275,4.11 "
+         points="190.502,4.11 193.275,4.11 194.298,3.087 189.48,3.087 "
          id="polygon630-5" />
       <polygon
          style="fill:#474747"
-         points="194.299,7.906 194.299,3.087 193.275,4.113 193.275,6.885 "
+         points="193.275,4.113 193.275,6.885 194.299,7.906 194.299,3.087 "
          id="polygon632-1" />
       <polygon
          style="fill:#595959"
-         points="189.48,7.906 194.298,7.906 193.275,6.885 190.501,6.885 "
+         points="193.275,6.885 190.501,6.885 189.48,7.906 194.298,7.906 "
          id="polygon634-0" />
       <polygon
          style="fill:#373737"
-         points="189.476,3.087 189.476,7.906 190.501,6.883 190.501,4.11 "
+         points="190.501,6.883 190.501,4.11 189.476,3.087 189.476,7.906 "
          id="polygon636-9" />
       <rect
          style="fill:#404040"
@@ -2690,19 +2711,19 @@
          id="rect640-2" />
       <polygon
          style="fill:#2a2a29"
-         points="201.476,3.087 196.657,3.087 197.679,4.11 200.453,4.11 "
+         points="197.679,4.11 200.453,4.11 201.476,3.087 196.657,3.087 "
          id="polygon642-5" />
       <polygon
          style="fill:#474747"
-         points="201.476,7.906 201.476,3.087 200.453,4.113 200.453,6.885 "
+         points="200.453,4.113 200.453,6.885 201.476,7.906 201.476,3.087 "
          id="polygon644-4" />
       <polygon
          style="fill:#595959"
-         points="196.657,7.906 201.474,7.906 200.452,6.885 197.679,6.885 "
+         points="200.452,6.885 197.679,6.885 196.657,7.906 201.474,7.906 "
          id="polygon646-8" />
       <polygon
          style="fill:#373737"
-         points="196.656,3.087 196.656,7.906 197.679,6.883 197.679,4.11 "
+         points="197.679,6.883 197.679,4.11 196.656,3.087 196.656,7.906 "
          id="polygon648-5" />
       <g
          id="g650-3">
@@ -2860,7 +2881,7 @@
            transform="matrix(0,-1,1,0,0,0)"><tspan
              sodipodi:role="line"
              id="tspan4179-6"
-             x="-10.161774"
+             x="-10.161775"
              y="86.038185"
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">AREF</tspan><tspan
              sodipodi:role="line"
@@ -2889,7 +2910,7 @@
              id="tspan4195-2"
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">~10</tspan><tspan
              sodipodi:role="line"
-             x="-10.161774"
+             x="-10.161775"
              y="129.38219"
              id="tspan4199-5"
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">~9</tspan><tspan
@@ -2912,12 +2933,12 @@
              id="tspan4203-8-1"
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold">7</tspan><tspan
              sodipodi:role="line"
-             x="-10.161774"
+             x="-10.161775"
              y="157.78241"
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
              id="tspan4284-6">~6</tspan><tspan
              sodipodi:role="line"
-             x="-10.161774"
+             x="-10.161775"
              y="165.00641"
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
              id="tspan4286-1">~5</tspan><tspan
@@ -2927,7 +2948,7 @@
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
              id="tspan4288-0">4</tspan><tspan
              sodipodi:role="line"
-             x="-10.161774"
+             x="-10.161775"
              y="179.45441"
              style="font-size:5.60000038px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:128.99999619%;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas Bold"
              id="tspan4290-2">~3</tspan><tspan
@@ -3000,20 +3021,21 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="98.023247"
-       y="-2290.229"
+       style="font-size:9.41394806px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="23.069645"
+       y="26.004591"
        id="text7732"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
-         x="98.023247"
-         y="-2290.229"
+         x="23.069645"
+         y="26.004591"
          id="tspan7742"
-         style="font-size:156px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Arduino Cheat Sheet</tspan></text>
+         style="font-size:36.71439743px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Acordeón Arduino</tspan></text>
     <a
        id="a5190"
        xlink:href="http://arduino.cc/en/Reference/Exteneded"
-       transform="translate(1800.5816,-229.0727)">
+       transform="matrix(0.22916666,0,0,0.24169751,412.63325,522.88239)">
       <text
          sodipodi:linespacing="125%"
          id="text7755"
@@ -3025,48 +3047,54 @@
            y="-2137.2429"
            x="92.335747"
            id="tspan7757"
-           sodipodi:role="line">Most information from the Arduino Language Reference:</tspan><tspan
+           sodipodi:role="line">Tomado mayormente de la Referencia de Lenguaje Arduino:</tspan><tspan
            style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#3055bc;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas"
            id="tspan7763"
-           y="-2045.5389"
+           y="-2047.2429"
            x="92.335747"
            sodipodi:role="line">    http://arduino.cc/en/Reference/HomePage</tspan></text>
     </a>
     <rect
-       rx="50.863422"
+       rx="11.6562"
        style="fill:#ffffff;fill-opacity:0.71176471;display:inline"
        id="rect8185-6-0-9-5-1"
-       width="820.1297"
-       height="478.52902"
-       x="3461.8804"
-       y="239.20711"
-       ry="50.863419" />
+       width="187.94637"
+       height="115.65928"
+       x="785.34741"
+       y="612.06445"
+       ry="12.293562" />
     <text
        xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
-       x="3810.365"
-       y="307.05667"
+       style="font-size:14.03205585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
+       x="951.92487"
+       y="573.6673"
        id="text8403"
-       sodipodi:linespacing="130%"><tspan
+       sodipodi:linespacing="130%"
+       transform="scale(0.90712929,1.1023787)"><tspan
          sodipodi:role="line"
-         x="3810.365"
-         y="307.05667"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan5264">by Mark Liffiton</tspan><tspan
+         x="951.92487"
+         y="573.6673"
+         style="font-size:14.03205585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="tspan5264">por Mark Liffiton</tspan><tspan
          sodipodi:role="line"
-         x="3810.365"
-         y="390.25665"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="951.92487"
+         y="591.909"
+         style="font-size:14.03205585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="tspan3787" /><tspan
+         sodipodi:role="line"
+         x="951.92487"
+         y="610.15063"
+         style="font-size:14.03205585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
          id="tspan5268" /><tspan
          sodipodi:role="line"
-         x="3810.365"
-         y="473.45667"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         x="951.92487"
+         y="628.39233"
+         style="font-size:14.03205585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
          id="tspan5274" /></text>
     <a
        id="a5160"
        xlink:href="http://creativecommons.org/licenses/by-sa/3.0/"
-       transform="matrix(2.067811,0,0,2.067811,-3678.6723,-769.07686)">
+       transform="matrix(0.47387337,0,0,0.49978478,-851.02906,368.36473)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -3205,78 +3233,106 @@
     </a>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="133.62936"
-       y="-2050.8804"
+       style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="26.143456"
+       y="62.860329"
        id="text5195"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
          id="tspan5197"
-         x="133.62936"
-         y="-2050.8804"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Structure &amp; Flow</tspan></text>
+         x="26.143456"
+         y="62.860329"
+         style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Estructura y flujo</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       x="1173.9205"
-       y="-2050.8804"
+       style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="278.33463"
+       y="62.860329"
        id="text5195-5"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
          id="tspan5197-6"
-         x="1173.9205"
-         y="-2050.8804"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Operators</tspan></text>
+         x="278.33463"
+         y="62.860329"
+         style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Operadores</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       x="2232.2778"
-       y="-2050.8804"
+       style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="523.30975"
+       y="62.860329"
        id="text5195-3"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
          id="tspan5197-2"
-         x="2232.2778"
-         y="-2050.8804"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Built-in Functions</tspan></text>
+         x="523.30975"
+         y="62.860329"
+         style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Funciones incluídas</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       x="335.09543"
-       y="-632.26099"
+       style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+       x="82.972191"
+       y="390.88818"
        id="text5195-8"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
          id="tspan5197-7"
-         x="335.09543"
-         y="-632.26099"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Variables, Arrays, and Data</tspan></text>
+         x="82.972191"
+         y="390.88818"
+         style="font-size:16.94510651px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Variables, vectores y datos</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="3493.2407"
-       y="434.7178"
+       style="font-size:11.29673767px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="817.10706"
+       y="661.47858"
        id="text5290"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
          id="tspan5292"
-         x="3493.2407"
-         y="434.7178">Adapted from:</tspan><tspan
+         x="817.10706"
+         y="661.47858"
+         style="font-size:9.41394806px">Adaptado de:</tspan><tspan
          sodipodi:role="line"
-         x="3493.2407"
-         y="494.7178"
-         id="tspan5294">  - Original by Gavin Smith</tspan><tspan
+         x="817.10706"
+         y="673.24603"
+         id="tspan5294"
+         style="font-size:9.41394806px">  - Idea original por Gavin Smith</tspan><tspan
          sodipodi:role="line"
-         x="3493.2407"
-         y="554.71777"
-         id="tspan5296">  - SVG version by Frederic Dufourg</tspan><tspan
+         x="817.10706"
+         y="685.01343"
+         id="tspan5296"
+         style="font-size:9.41394806px">  - Versión SVG por Frederic Dufourg</tspan><tspan
          sodipodi:role="line"
-         x="3493.2407"
-         y="614.71777"
-         id="tspan5298">  - Arduino board drawing</tspan><tspan
+         x="817.10706"
+         y="696.78088"
+         id="tspan5300"
+         style="font-size:9.41394806px">  - Dibujo del Arduino de Fritzing.org</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.41394806px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="905.67047"
+       y="643.44427"
+       id="text3789"
+       transform="scale(0.97373241,1.0269762)"><tspan
          sodipodi:role="line"
-         x="3493.2407"
-         y="674.71777"
-         id="tspan5300">    original by Fritzing.org</tspan></text>
-  </g>
+         x="905.67047"
+         y="643.44427"
+         id="tspan3793"
+         style="text-align:center;text-anchor:middle">Traducción de Antonio Maldonado</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3788"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(0,-2495.9055)"><flowRegion
+         id="flowRegion3790"><rect
+           id="rect3792"
+           width="6490.854"
+           height="4591.3569"
+           x="-238.79398"
+           y="-287.63818" /></flowRegion><flowPara
+         id="flowPara3794" /></flowRoot>  </g>
 </svg>
