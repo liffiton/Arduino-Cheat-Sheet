@@ -2,22 +2,25 @@ Acordeón Arduino
 ===================
 
 * Español
-Este es un acordeón tamaño carta en español para los programadores de Arduino. La información es tomada principalmente de la [Referencia de Lenguaje Arduino](http://arduino.cc/es/Reference/HomePage). Incluye las cosas más comunes, sintáxis básica y funciones incluídas.
+Este es un acordeón tamaño carta en español para los programadores de Arduino. La información es tomada principalmente de la Referencia de Lenguaje Arduino (http://arduino.cc/es/Reference/HomePage). Incluye las cosas más comunes, sintáxis básica y funciones incluídas.
 
-Esta basado en el ["Arduino cheat sheet" de liffiton](https://github.com/liffiton/Arduino-Cheat-Sheet), que a su vez está basado en ["cheat sheet" de Gavin Smith](http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) y una [adaptación SVG por Frederic Dufourg](http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273). Adicionalmente, el dibujo de la placa Arduino Uno está adaptado del dibujo de Arduino Diecimila de [Fritzing](http://fritzing.org/).
+Esta basado en el "Arduino cheat sheet" de liffiton (https://github.com/liffiton/Arduino-Cheat-Sheet), que a su vez está basado en "cheat sheet" de Gavin Smith (http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) y una adaptación SVG por Frederic Dufourg (http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273). Adicionalmente, el dibujo de la placa Arduino Uno está adaptado del dibujo de Arduino Diecimila de Fritzing(http://fritzing.org/).
 
 Cualquier error, favor de reportarlo :)
 
-Este trabajo está bajo [licencia Atribución-CompartirIgual 3.0 Unported (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/deed.es)
+Este trabajo está bajo licencia Atribución-CompartirIgual 3.0 Unported (CC BY-SA 3.0) (http://creativecommons.org/licenses/by-sa/3.0/deed.es)
 
+
+Arduino Cheat Sheet
+===================
 
 * English
 
-This is a letter-sized cheat sheet in spanish for Arduino programmers.  It draws primarily from the [Arduino Language Reference](http://arduino.cc/en/Reference/HomePage), including most of the common, basic syntax and a variety of the built-in functions.
+This is a letter-sized cheat sheet in spanish for Arduino programmers.  It draws primarily from the Arduino Language Reference(http://arduino.cc/en/Reference/HomePage), including most of the common, basic syntax and a variety of the built-in functions.
 
-It is based on a [cheat sheet by Gavin Smith](http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) and an [SVG adaptation by Frederic Dufourg](http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273).  Additionally, the Arduino Uno board drawing is adapted from the Arduino Diecimila board drawing in [Fritzing](http://fritzing.org/).
+It is based on a cheat sheet by Gavin Smith (http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) and an SVG adaptation by Frederic Dufourg(http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273).  Additionally, the Arduino Uno board drawing is adapted from the Arduino Diecimila board drawing in Fritzing(http://fritzing.org/).
 
 Please let me know if you find any errors -- Thanks!
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).
 
