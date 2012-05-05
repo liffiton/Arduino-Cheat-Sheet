@@ -154,9 +154,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18894624"
+     inkscape:zoom="0.26794337"
      inkscape:cx="2160"
-     inkscape:cy="1579.8144"
+     inkscape:cy="1881.385"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -168,7 +168,12 @@
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
      inkscape:snap-page="false"
-     inkscape:snap-to-guides="true">
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
     <sodipodi:guide
        orientation="1,0"
        position="52.311739,2788.0743"
@@ -198,10 +203,6 @@
        position="3461.8804,2061.8119"
        id="guide8277" />
     <sodipodi:guide
-       orientation="0,1"
-       position="1715.9311,26.358389"
-       id="guide8317" />
-    <sodipodi:guide
        orientation="1,0"
        position="4282.0101,3120.603"
        id="guide8319" />
@@ -213,6 +214,10 @@
        orientation="0,1"
        position="1655.2764,2794.9749"
        id="guide5260" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="3123.9027,32.358324"
+       id="guide4948" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -261,7 +266,7 @@
        width="1591.7019"
        height="1137.9647"
        x="1826.2626"
-       y="-420.22855"
+       y="-426.22855"
        ry="50.863422" />
     <rect
        rx="50.863422"
@@ -288,7 +293,7 @@
        width="1731.052"
        height="1445.769"
        x="52.311741"
-       y="-727.31555"
+       y="-733.31555"
        ry="50.863422" />
     <rect
        style="fill:#ffffff;fill-opacity:1"
@@ -445,7 +450,7 @@
        xml:space="preserve"
        id="flowRoot3098"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,719.06835,-729.48672)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,719.06835,-735.48672)"><flowRegion
          id="flowRegion3100"><rect
            id="rect3102"
            width="169.39632"
@@ -531,7 +536,7 @@
        xml:space="preserve"
        id="flowRoot2502"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,720.89647,-1388.3734)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,720.89647,-1394.3734)"><flowRegion
          id="flowRegion2504"><rect
            id="rect2506"
            width="176.64369"
@@ -596,7 +601,7 @@
        xml:space="preserve"
        id="flowRoot2496"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-173.77699,-1388.8129)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,-173.77699,-1394.8129)"><flowRegion
          id="flowRegion2498"><rect
            id="rect2501"
            width="180.51819"
@@ -655,7 +660,7 @@
        xml:space="preserve"
        id="flowRoot2802"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,721.68749,-521.85881)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,721.68749,-527.85881)"><flowRegion
          id="flowRegion2804"><rect
            id="rect2806"
            width="180.53868"
@@ -678,7 +683,7 @@
        xml:space="preserve"
        id="flowRoot2886"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-479.09123)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-485.09123)"><flowRegion
          id="flowRegion2888"><rect
            id="rect2890"
            width="174.25262"
@@ -713,7 +718,7 @@
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
          id="flowPara2917"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Conversions</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Type Conversions</flowPara><flowPara
          id="flowPara2923"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3742">char</flowSpan>()       <flowSpan
@@ -732,7 +737,7 @@
        xml:space="preserve"
        id="flowRoot2936"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-749.89566)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,-174.14613,-755.89566)"><flowRegion
          id="flowRegion2938"><rect
            id="rect2940"
            width="167.00867"
@@ -757,29 +762,60 @@
        xml:space="preserve"
        id="flowRoot2993"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,1610.0459,-2800.5803)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,1610.0459,-2800.5804)"><flowRegion
          id="flowRegion2995"><rect
            id="rect2997"
-           width="165.15431"
-           height="63.231873"
+           width="169.93758"
+           height="160.60545"
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
-         id="flowPara2999"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans">Digital I/O</flowPara><flowPara
-         id="flowPara3007"><flowSpan
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         id="flowPara4905">Pin Input/Output</flowPara><flowPara
+         id="flowPara3018"
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#008000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4812">Digital I/O</flowSpan> (pins: 0-13 A0-A5)</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4755"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4940">  pinMode</flowSpan>(pin,[INPUT, OUTPUT])</flowPara><flowPara
+         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4937">  int <flowSpan
+   style="font-weight:bold"
+   id="flowSpan4881">digitalread</flowSpan>(pin)</flowPara><flowPara
+         id="flowPara4743"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3638">pinMode</flowSpan>(pin,[INPUT, OUTPUT])</flowPara><flowPara
-         id="flowPara3018"><flowSpan
-   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3640">digitalWrite</flowSpan>(pin, value)</flowPara><flowPara
-         id="flowPara3020">int <flowSpan
-   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3642">digitalread</flowSpan>(pin)</flowPara><flowPara
-         id="flowPara3030"
-         style="fill:#505050;fill-opacity:1">  // Write HIGH to inputs to use </flowPara><flowPara
+   id="flowSpan4745">  digitalWrite</flowSpan>(pin, value)</flowPara><flowPara
+         id="flowPara3971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#505050;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">    // Write HIGH to an input to </flowPara><flowPara
+         id="flowPara3973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#505050;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">    // enable pull-up resistors</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#000000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4800"><flowSpan
+           id="flowSpan4916"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#008000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace">Analog In</flowSpan><flowSpan
+           id="flowSpan4919"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#000000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"> (pins: 0-5)</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#000000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4806">  int <flowSpan
+   style="font-weight:bold"
+   id="flowSpan4891">analogRead</flowSpan>(pin)</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#000000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4921"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4925">  analogReference</flowSpan>(</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#000000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4923">    [DEFAULT, INTERNAL, EXTERNAL])</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#008000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+         id="flowPara4810">PWM Out<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#000000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+   id="flowSpan4848"> (pins: 3 5 6 9 10 11)</flowSpan></flowPara><flowPara
          id="flowPara6566"
-         style="fill:#505050;fill-opacity:1">  // pull-up resistors</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#000000;fill-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan4893">  analogWrite</flowSpan>(pin, value)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2560"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -791,28 +827,11 @@
            x="60"
            y="183.09448"
            style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace" /></flowRegion><flowPara
-         id="flowPara2566"
-         style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:sans;-inkscape-font-specification:sans">Analog I/O</flowPara><flowPara
-         id="flowPara6574"><flowSpan
-   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3644">analogReference</flowSpan>([DEFAULT,</flowPara><flowPara
-         id="flowPara8157">    INTERNAL, EXTERNAL])</flowPara><flowPara
-         id="flowPara2609">int <flowSpan
-   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3646">analogRead</flowSpan>(pin)</flowPara><flowPara
-         id="flowPara6576"
-         style="fill:#505050;fill-opacity:1">  // Call twice if switching pin</flowPara><flowPara
-         id="flowPara8151"
-         style="fill:#505050;fill-opacity:1">  // from a high-Z source</flowPara><flowPara
-         id="flowPara2611"><flowSpan
-   style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3648">analogWrite</flowSpan>(pin, value) <flowSpan
-   style="fill:#505050;fill-opacity:1"
-   id="flowSpan4773">// PWM</flowSpan></flowPara></flowRoot>    <flowRoot
+         id="flowPara2611" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2615"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       transform="matrix(4.4182304,0,0,4.4182304,1609.7471,-2077.805)"><flowRegion
+       transform="matrix(4.4182304,0,0,4.4182304,1609.7471,-2097.8752)"><flowRegion
          id="flowRegion2617"><rect
            id="rect2619"
            width="165.63428"
@@ -856,18 +875,18 @@
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3694">millis</flowSpan>()</flowPara><flowPara
          id="flowPara6616"
-         style="fill:#505050;fill-opacity:1">  // overflow at 50 days</flowPara><flowPara
+         style="fill:#505050;fill-opacity:1">  // overflows at 50 days</flowPara><flowPara
          id="flowPara2699">unsigned long <flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3696">micros</flowSpan>()</flowPara><flowPara
          id="flowPara6618"
-         style="fill:#505050;fill-opacity:1">  // overflow at 70 minutes</flowPara><flowPara
+         style="fill:#505050;fill-opacity:1">  // overflows at 70 minutes</flowPara><flowPara
          id="flowPara2701"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3698">delay</flowSpan>(ms)</flowPara><flowPara
+   id="flowSpan3698">delay</flowSpan>(msec)</flowPara><flowPara
          id="flowPara2703"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
-   id="flowSpan3700">delayMicroseconds</flowSpan>(us)</flowPara></flowRoot>    <flowRoot
+   id="flowSpan3700">delayMicroseconds</flowSpan>(usec)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2707"
        style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -886,7 +905,9 @@
    style="font-weight:bold"
    id="flowSpan8061">min</flowSpan>(x, y)   <flowSpan
    style="font-weight:bold"
-   id="flowSpan8063">max</flowSpan>(x, y)   abs(x)</flowPara><flowPara
+   id="flowSpan8063">max</flowSpan>(x, y)   <flowSpan
+   style="font-weight:bold"
+   id="flowSpan3952">abs</flowSpan>(x)</flowPara><flowPara
          id="flowPara2732"><flowSpan
    style="font-size:8.14805889px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Monospace;-inkscape-font-specification:Monospace"
    id="flowSpan3716">sin</flowSpan>(rad)    <flowSpan
@@ -1330,64 +1351,54 @@
          x="98.023247"
          y="-2290.229"
          id="tspan7742"
-         style="font-size:156px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Arduino Cheat Sheet</tspan></text>
+         style="font-size:156px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas Bold">Arduino Programming Cheat Sheet</tspan></text>
     <a
        id="a5190"
        xlink:href="http://arduino.cc/en/Reference/Exteneded"
-       transform="translate(1800.5816,-229.0727)">
+       transform="translate(2721.686,-235.0727)">
       <text
          sodipodi:linespacing="125%"
          id="text7755"
          y="-2137.2429"
-         x="92.335747"
+         x="1523.0896"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
          xml:space="preserve"><tspan
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Calibri;-inkscape-font-specification:Calibri"
            y="-2137.2429"
-           x="92.335747"
+           x="1523.0896"
            id="tspan7757"
-           sodipodi:role="line">Most information from the Arduino Language Reference:</tspan><tspan
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#3055bc;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas"
+           sodipodi:role="line">Primary source: Arduino Language Reference</tspan><tspan
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#3055bc;fill-opacity:1;font-family:Consolas;-inkscape-font-specification:Consolas"
            id="tspan7763"
            y="-2045.5389"
-           x="92.335747"
-           sodipodi:role="line">    http://arduino.cc/en/Reference/HomePage</tspan></text>
+           x="1523.0896"
+           sodipodi:role="line">http://arduino.cc/en/Reference/</tspan></text>
     </a>
     <rect
        rx="50.863422"
        style="fill:#ffffff;fill-opacity:0.71176471;display:inline"
        id="rect8185-6-0-9-5-1"
        width="820.1297"
-       height="478.52902"
+       height="470.52908"
        x="3461.8804"
-       y="239.20711"
+       y="241.20711"
        ry="50.863419" />
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri"
-       x="3810.365"
-       y="307.05667"
+       x="3816.365"
+       y="325.05667"
        id="text8403"
        sodipodi:linespacing="130%"><tspan
          sodipodi:role="line"
-         x="3810.365"
-         y="307.05667"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan5264">by Mark Liffiton</tspan><tspan
-         sodipodi:role="line"
-         x="3810.365"
-         y="390.25665"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan5268" /><tspan
-         sodipodi:role="line"
-         x="3810.365"
-         y="473.45667"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan5274" /></text>
+         x="3816.365"
+         y="325.05667"
+         style="font-size:62px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:129.99999523000000000%;writing-mode:lr-tb;text-anchor:start;font-family:Calibri;-inkscape-font-specification:Calibri"
+         id="tspan5274">by Mark Liffiton</tspan></text>
     <a
        id="a5160"
        xlink:href="http://creativecommons.org/licenses/by-sa/3.0/"
-       transform="matrix(2.067811,0,0,2.067811,-3678.6723,-769.07686)">
+       transform="matrix(2.067811,0,0,2.067811,-3678.6723,-767.07686)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -1564,43 +1575,48 @@
        xml:space="preserve"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
        x="335.09543"
-       y="-632.26099"
+       y="-638.26099"
        id="text5195-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5197-7"
          x="335.09543"
-         y="-632.26099"
+         y="-638.26099"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Andale Mono;-inkscape-font-specification:Andale Mono Bold">Variables, Arrays, and Data</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
        x="3493.2407"
-       y="434.7178"
+       y="432.7178"
        id="text5290"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5292"
          x="3493.2407"
-         y="434.7178">Adapted from:</tspan><tspan
+         y="432.7178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">Adapted from:</tspan><tspan
          sodipodi:role="line"
          x="3493.2407"
-         y="494.7178"
-         id="tspan5294">  - Original by Gavin Smith</tspan><tspan
+         y="492.7178"
+         id="tspan5294"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">  - Original by Gavin Smith</tspan><tspan
          sodipodi:role="line"
          x="3493.2407"
-         y="554.71777"
-         id="tspan5296">  - SVG version by Frederic Dufourg</tspan><tspan
+         y="552.71777"
+         id="tspan5296"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">  - SVG version by Frederic Dufourg</tspan><tspan
          sodipodi:role="line"
          x="3493.2407"
-         y="614.71777"
-         id="tspan5298">  - Arduino board drawing</tspan><tspan
+         y="612.71777"
+         id="tspan5298"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">  - Arduino board drawing</tspan><tspan
          sodipodi:role="line"
          x="3493.2407"
-         y="674.71777"
-         id="tspan5300">    original by Fritzing.org</tspan></text>
+         y="672.71777"
+         id="tspan5300"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">    original by Fritzing.org</tspan></text>
     <g
-       transform="matrix(5.4939127,0,0,5.4939127,561.89625,-2775.9975)"
+       transform="matrix(5.4939127,0,0,5.4939127,561.89625,-2781.9975)"
        id="g8193">
       <rect
          height="3.4662499"
@@ -2223,32 +2239,32 @@
          style="fill:#404040;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="201.1,59.78 197.167,59.78 195.657,61.289 195.657,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.374,66.732 209.885,65.223 209.885,61.289 208.374,59.78 204.441,59.78 "
+         points="195.657,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.374,66.732 209.885,65.223 209.885,61.289 208.374,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.657,61.289 "
          id="polygon4590"
          style="fill:#404040;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="201.1,66.961 197.167,66.961 195.657,68.471 195.657,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.374,73.915 209.885,72.403 209.885,68.471 208.374,66.961 204.441,66.961 "
+         points="195.657,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.374,73.915 209.885,72.403 209.885,68.471 208.374,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.657,68.471 "
          id="polygon4592"
          style="fill:#404040;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="201.1,74.14 197.167,74.14 195.657,75.651 195.657,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.374,81.094 209.885,79.584 209.885,75.651 208.374,74.14 204.441,74.14 "
+         points="195.657,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.374,81.094 209.885,79.584 209.885,75.651 208.374,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.657,75.651 "
          id="polygon4594"
          style="fill:#404040;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="201.1,59.78 197.167,59.78 195.657,61.289 195.657,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.374,66.732 209.885,65.223 209.885,61.289 208.374,59.78 204.441,59.78 "
+         points="195.657,65.223 197.167,66.732 201.1,66.732 204.441,66.732 208.374,66.732 209.885,65.223 209.885,61.289 208.374,59.78 204.441,59.78 201.1,59.78 197.167,59.78 195.657,61.289 "
          id="polygon4596"
          style="fill:#404040;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="201.1,66.961 197.167,66.961 195.657,68.471 195.657,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.374,73.915 209.885,72.403 209.885,68.471 208.374,66.961 204.441,66.961 "
+         points="195.657,72.403 197.167,73.915 201.1,73.915 204.441,73.915 208.374,73.915 209.885,72.403 209.885,68.471 208.374,66.961 204.441,66.961 201.1,66.961 197.167,66.961 195.657,68.471 "
          id="polygon4598"
          style="fill:#404040;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="201.1,74.14 197.167,74.14 195.657,75.651 195.657,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.374,81.094 209.885,79.584 209.885,75.651 208.374,74.14 204.441,74.14 "
+         points="195.657,79.584 197.167,81.094 201.1,81.094 204.441,81.094 208.374,81.094 209.885,79.584 209.885,75.651 208.374,74.14 204.441,74.14 201.1,74.14 197.167,74.14 195.657,75.651 "
          id="polygon4600"
          style="fill:#404040;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2302,22 +2318,22 @@
          id="rect4614"
          style="fill:#8c8663;display:inline" />
       <polygon
-         points="207.002,62.495 207.562,61.937 205.264,61.937 205.823,62.495 "
+         points="205.823,62.495 207.002,62.495 207.562,61.937 205.264,61.937 "
          id="polygon4616"
          style="fill:#b8af82;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="207.562,61.937 207.562,64.235 207.002,63.677 207.002,62.495 "
+         points="207.002,62.495 207.562,61.937 207.562,64.235 207.002,63.677 "
          id="polygon4618"
          style="fill:#80795b;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="207.562,64.235 205.264,64.235 205.823,63.677 207.002,63.677 "
+         points="207.002,63.677 207.562,64.235 205.264,64.235 205.823,63.677 "
          id="polygon4620"
          style="fill:#5e5b43;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="205.823,63.677 205.264,64.235 205.264,61.937 205.823,62.495 "
+         points="205.823,62.495 205.823,63.677 205.264,64.235 205.264,61.937 "
          id="polygon4622"
          style="fill:#9a916c;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2329,22 +2345,22 @@
          id="rect4624"
          style="fill:#8c8663;display:inline" />
       <polygon
-         points="199.804,62.495 200.363,61.937 198.065,61.937 198.624,62.495 "
+         points="198.624,62.495 199.804,62.495 200.363,61.937 198.065,61.937 "
          id="polygon4626"
          style="fill:#b8af82;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.363,61.937 200.363,64.235 199.804,63.677 199.804,62.495 "
+         points="199.804,62.495 200.363,61.937 200.363,64.235 199.804,63.677 "
          id="polygon4628"
          style="fill:#80795b;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.363,64.235 198.065,64.235 198.624,63.677 199.804,63.677 "
+         points="199.804,63.677 200.363,64.235 198.065,64.235 198.624,63.677 "
          id="polygon4630"
          style="fill:#5e5b43;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="198.624,63.677 198.065,64.235 198.065,61.937 198.624,62.495 "
+         points="198.624,62.495 198.624,63.677 198.065,64.235 198.065,61.937 "
          id="polygon4632"
          style="fill:#9a916c;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2356,22 +2372,22 @@
          id="rect4634"
          style="fill:#8c8663;display:inline" />
       <polygon
-         points="207.002,69.693 207.562,69.136 205.264,69.136 205.823,69.693 "
+         points="205.823,69.693 207.002,69.693 207.562,69.136 205.264,69.136 "
          id="polygon4636"
          style="fill:#b8af82;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="207.562,69.136 207.562,71.434 207.002,70.875 207.002,69.693 "
+         points="207.002,69.693 207.562,69.136 207.562,71.434 207.002,70.875 "
          id="polygon4638"
          style="fill:#80795b;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="207.562,71.434 205.264,71.434 205.823,70.875 207.002,70.875 "
+         points="207.002,70.875 207.562,71.434 205.264,71.434 205.823,70.875 "
          id="polygon4640"
          style="fill:#5e5b43;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="205.823,70.875 205.264,71.434 205.264,69.136 205.823,69.693 "
+         points="205.823,69.693 205.823,70.875 205.264,71.434 205.264,69.136 "
          id="polygon4642"
          style="fill:#9a916c;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2383,22 +2399,22 @@
          id="rect4644"
          style="fill:#8c8663;display:inline" />
       <polygon
-         points="199.804,69.693 200.363,69.136 198.065,69.136 198.624,69.693 "
+         points="198.624,69.693 199.804,69.693 200.363,69.136 198.065,69.136 "
          id="polygon4646"
          style="fill:#b8af82;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.363,69.136 200.363,71.434 199.804,70.875 199.804,69.693 "
+         points="199.804,69.693 200.363,69.136 200.363,71.434 199.804,70.875 "
          id="polygon4648"
          style="fill:#80795b;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.363,71.434 198.065,71.434 198.624,70.875 199.804,70.875 "
+         points="199.804,70.875 200.363,71.434 198.065,71.434 198.624,70.875 "
          id="polygon4650"
          style="fill:#5e5b43;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="198.624,70.875 198.065,71.434 198.065,69.136 198.624,69.693 "
+         points="198.624,69.693 198.624,70.875 198.065,71.434 198.065,69.136 "
          id="polygon4652"
          style="fill:#9a916c;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2410,22 +2426,22 @@
          id="rect4654"
          style="fill:#8c8663;display:inline" />
       <polygon
-         points="207.002,76.892 207.562,76.334 205.264,76.334 205.823,76.892 "
+         points="205.823,76.892 207.002,76.892 207.562,76.334 205.264,76.334 "
          id="polygon4656"
          style="fill:#b8af82;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="207.562,76.334 207.562,78.633 207.002,78.075 207.002,76.892 "
+         points="207.002,76.892 207.562,76.334 207.562,78.633 207.002,78.075 "
          id="polygon4658"
          style="fill:#80795b;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="207.562,78.633 205.264,78.633 205.823,78.075 207.002,78.075 "
+         points="207.002,78.075 207.562,78.633 205.264,78.633 205.823,78.075 "
          id="polygon4660"
          style="fill:#5e5b43;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="205.823,78.075 205.264,78.633 205.264,76.334 205.823,76.892 "
+         points="205.823,76.892 205.823,78.075 205.264,78.633 205.264,76.334 "
          id="polygon4662"
          style="fill:#9a916c;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2437,22 +2453,22 @@
          id="rect4664"
          style="fill:#8c8663;display:inline" />
       <polygon
-         points="199.804,76.892 200.363,76.334 198.065,76.334 198.624,76.892 "
+         points="198.624,76.892 199.804,76.892 200.363,76.334 198.065,76.334 "
          id="polygon4666"
          style="fill:#b8af82;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.363,76.334 200.363,78.633 199.804,78.075 199.804,76.892 "
+         points="199.804,76.892 200.363,76.334 200.363,78.633 199.804,78.075 "
          id="polygon4668"
          style="fill:#80795b;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.363,78.633 198.065,78.633 198.624,78.075 199.804,78.075 "
+         points="199.804,78.075 200.363,78.633 198.065,78.633 198.624,78.075 "
          id="polygon4670"
          style="fill:#5e5b43;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="198.624,78.075 198.065,78.633 198.065,76.334 198.624,76.892 "
+         points="198.624,76.892 198.624,78.075 198.065,78.633 198.065,76.334 "
          id="polygon4672"
          style="fill:#9a916c;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2499,22 +2515,22 @@
          id="rect4684"
          style="display:inline" />
       <polygon
-         points="71.021,4.11 72.042,3.087 67.225,3.087 68.248,4.11 "
+         points="68.248,4.11 71.021,4.11 72.042,3.087 67.225,3.087 "
          id="polygon4686"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="71.021,6.885 72.043,7.906 72.043,3.087 71.021,4.113 "
+         points="71.021,4.113 71.021,6.885 72.043,7.906 72.043,3.087 "
          id="polygon4688"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="68.247,6.885 67.225,7.906 72.042,7.906 71.021,6.885 "
+         points="71.021,6.885 68.247,6.885 67.225,7.906 72.042,7.906 "
          id="polygon4690"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="68.247,4.11 67.224,3.087 67.224,7.906 68.247,6.883 "
+         points="68.247,6.883 68.247,4.11 67.224,3.087 67.224,7.906 "
          id="polygon4692"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2533,22 +2549,22 @@
          id="rect4696"
          style="display:inline" />
       <polygon
-         points="78.198,4.11 79.221,3.087 74.401,3.087 75.424,4.11 "
+         points="75.424,4.11 78.198,4.11 79.221,3.087 74.401,3.087 "
          id="polygon4698"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="78.198,6.885 79.221,7.906 79.221,3.087 78.198,4.113 "
+         points="78.198,4.113 78.198,6.885 79.221,7.906 79.221,3.087 "
          id="polygon4700"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="75.424,6.885 74.401,7.906 79.219,7.906 78.198,6.885 "
+         points="78.198,6.885 75.424,6.885 74.401,7.906 79.219,7.906 "
          id="polygon4702"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="75.424,4.11 74.4,3.087 74.4,7.906 75.424,6.883 "
+         points="75.424,6.883 75.424,4.11 74.4,3.087 74.4,7.906 "
          id="polygon4704"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2567,22 +2583,22 @@
          id="rect4708"
          style="display:inline" />
       <polygon
-         points="85.421,4.11 86.443,3.087 81.625,3.087 82.648,4.11 "
+         points="82.648,4.11 85.421,4.11 86.443,3.087 81.625,3.087 "
          id="polygon4710"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="85.421,6.885 86.444,7.906 86.444,3.087 85.421,4.113 "
+         points="85.421,4.113 85.421,6.885 86.444,7.906 86.444,3.087 "
          id="polygon4712"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="82.647,6.885 81.625,7.906 86.443,7.906 85.421,6.885 "
+         points="85.421,6.885 82.647,6.885 81.625,7.906 86.443,7.906 "
          id="polygon4714"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="82.647,4.11 81.624,3.087 81.624,7.906 82.647,6.883 "
+         points="82.647,6.883 82.647,4.11 81.624,3.087 81.624,7.906 "
          id="polygon4716"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2601,22 +2617,22 @@
          id="rect4720"
          style="display:inline" />
       <polygon
-         points="92.598,4.11 93.621,3.087 88.802,3.087 89.824,4.11 "
+         points="89.824,4.11 92.598,4.11 93.621,3.087 88.802,3.087 "
          id="polygon4722"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="92.598,6.885 93.621,7.906 93.621,3.087 92.598,4.113 "
+         points="92.598,4.113 92.598,6.885 93.621,7.906 93.621,3.087 "
          id="polygon4724"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="89.824,6.885 88.802,7.906 93.619,7.906 92.598,6.885 "
+         points="92.598,6.885 89.824,6.885 88.802,7.906 93.619,7.906 "
          id="polygon4726"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="89.824,4.11 88.801,3.087 88.801,7.906 89.824,6.883 "
+         points="89.824,6.883 89.824,4.11 88.801,3.087 88.801,7.906 "
          id="polygon4728"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2635,22 +2651,22 @@
          id="rect4732"
          style="display:inline" />
       <polygon
-         points="99.777,4.11 100.799,3.087 95.98,3.087 97.002,4.11 "
+         points="97.002,4.11 99.777,4.11 100.799,3.087 95.98,3.087 "
          id="polygon4734"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="99.777,6.885 100.799,7.906 100.799,3.087 99.777,4.113 "
+         points="99.777,4.113 99.777,6.885 100.799,7.906 100.799,3.087 "
          id="polygon4736"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="97.001,6.885 95.98,7.906 100.798,7.906 99.776,6.885 "
+         points="99.776,6.885 97.001,6.885 95.98,7.906 100.798,7.906 "
          id="polygon4738"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="97.001,4.11 95.979,3.087 95.979,7.906 97.001,6.883 "
+         points="97.001,6.883 97.001,4.11 95.979,3.087 95.979,7.906 "
          id="polygon4740"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2669,22 +2685,22 @@
          id="rect4744"
          style="display:inline" />
       <polygon
-         points="106.954,4.11 107.977,3.087 103.157,3.087 104.18,4.11 "
+         points="104.18,4.11 106.954,4.11 107.977,3.087 103.157,3.087 "
          id="polygon4746"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="106.954,6.885 107.977,7.906 107.977,3.087 106.954,4.113 "
+         points="106.954,4.113 106.954,6.885 107.977,7.906 107.977,3.087 "
          id="polygon4748"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="104.179,6.885 103.157,7.906 107.975,7.906 106.954,6.885 "
+         points="106.954,6.885 104.179,6.885 103.157,7.906 107.975,7.906 "
          id="polygon4750"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="104.179,4.11 103.156,3.087 103.156,7.906 104.179,6.883 "
+         points="104.179,6.883 104.179,4.11 103.156,3.087 103.156,7.906 "
          id="polygon4752"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2703,22 +2719,22 @@
          id="rect4756"
          style="display:inline" />
       <polygon
-         points="128.614,140.885 129.635,139.864 124.817,139.864 125.838,140.885 "
+         points="125.838,140.885 128.614,140.885 129.635,139.864 124.817,139.864 "
          id="polygon4758"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="128.614,143.661 129.636,144.682 129.636,139.864 128.614,140.889 "
+         points="128.614,140.889 128.614,143.661 129.636,144.682 129.636,139.864 "
          id="polygon4760"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="125.838,143.661 124.817,144.682 129.635,144.682 128.614,143.661 "
+         points="128.614,143.661 125.838,143.661 124.817,144.682 129.635,144.682 "
          id="polygon4762"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="125.838,140.885 124.817,139.864 124.817,144.682 125.838,143.659 "
+         points="125.838,143.659 125.838,140.885 124.817,139.864 124.817,144.682 "
          id="polygon4764"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2737,22 +2753,22 @@
          id="rect4768"
          style="display:inline" />
       <polygon
-         points="107.014,140.885 108.036,139.864 103.217,139.864 104.24,140.885 "
+         points="104.24,140.885 107.014,140.885 108.036,139.864 103.217,139.864 "
          id="polygon4770"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="107.014,143.661 108.038,144.682 108.038,139.864 107.014,140.889 "
+         points="107.014,140.889 107.014,143.661 108.038,144.682 108.038,139.864 "
          id="polygon4772"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="104.24,143.661 103.217,144.682 108.036,144.682 107.014,143.661 "
+         points="107.014,143.661 104.24,143.661 103.217,144.682 108.036,144.682 "
          id="polygon4774"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="104.24,140.885 103.217,139.864 103.217,144.682 104.24,143.659 "
+         points="104.24,143.659 104.24,140.885 103.217,139.864 103.217,144.682 "
          id="polygon4776"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2771,22 +2787,22 @@
          id="rect4780"
          style="display:inline" />
       <polygon
-         points="99.815,140.885 100.837,139.864 96.018,139.864 97.042,140.885 "
+         points="97.042,140.885 99.815,140.885 100.837,139.864 96.018,139.864 "
          id="polygon4782"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="99.815,143.661 100.838,144.682 100.838,139.864 99.815,140.889 "
+         points="99.815,140.889 99.815,143.661 100.838,144.682 100.838,139.864 "
          id="polygon4784"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="97.042,143.661 96.018,144.682 100.837,144.682 99.815,143.661 "
+         points="99.815,143.661 97.042,143.661 96.018,144.682 100.837,144.682 "
          id="polygon4786"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="97.042,140.885 96.018,139.864 96.018,144.682 97.042,143.659 "
+         points="97.042,143.659 97.042,140.885 96.018,139.864 96.018,144.682 "
          id="polygon4788"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2805,22 +2821,22 @@
          id="rect4792"
          style="display:inline" />
       <polygon
-         points="121.415,140.885 122.436,139.864 117.618,139.864 118.64,140.885 "
+         points="118.64,140.885 121.415,140.885 122.436,139.864 117.618,139.864 "
          id="polygon4794"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="121.415,143.661 122.438,144.682 122.438,139.864 121.415,140.889 "
+         points="121.415,140.889 121.415,143.661 122.438,144.682 122.438,139.864 "
          id="polygon4796"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="118.64,143.661 117.618,144.682 122.436,144.682 121.415,143.661 "
+         points="121.415,143.661 118.64,143.661 117.618,144.682 122.436,144.682 "
          id="polygon4798"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="118.64,140.885 117.618,139.864 117.618,144.682 118.64,143.659 "
+         points="118.64,143.659 118.64,140.885 117.618,139.864 117.618,144.682 "
          id="polygon4800"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2839,22 +2855,22 @@
          id="rect4804"
          style="display:inline" />
       <polygon
-         points="114.215,140.885 115.238,139.864 110.418,139.864 111.442,140.885 "
+         points="111.442,140.885 114.215,140.885 115.238,139.864 110.418,139.864 "
          id="polygon4806"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="114.215,143.661 115.239,144.682 115.239,139.864 114.215,140.889 "
+         points="114.215,140.889 114.215,143.661 115.239,144.682 115.239,139.864 "
          id="polygon4808"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="111.442,143.661 110.418,144.682 115.238,144.682 114.215,143.661 "
+         points="114.215,143.661 111.442,143.661 110.418,144.682 115.238,144.682 "
          id="polygon4810"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="111.442,140.885 110.418,139.864 110.418,144.682 111.442,143.659 "
+         points="111.442,143.659 111.442,140.885 110.418,139.864 110.418,144.682 "
          id="polygon4812"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2873,22 +2889,22 @@
          id="rect4816"
          style="display:inline" />
       <polygon
-         points="135.79,140.885 136.813,139.864 131.995,139.864 133.017,140.885 "
+         points="133.017,140.885 135.79,140.885 136.813,139.864 131.995,139.864 "
          id="polygon4818"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="135.79,143.661 136.815,144.682 136.815,139.864 135.79,140.889 "
+         points="135.79,140.889 135.79,143.661 136.815,144.682 136.815,139.864 "
          id="polygon4820"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="133.015,143.661 131.995,144.682 136.813,144.682 135.79,143.661 "
+         points="135.79,143.661 133.015,143.661 131.995,144.682 136.813,144.682 "
          id="polygon4822"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="133.015,140.885 131.995,139.864 131.995,144.682 133.015,143.659 "
+         points="133.015,143.659 133.015,140.885 131.995,139.864 131.995,144.682 "
          id="polygon4824"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2907,22 +2923,22 @@
          id="rect4828"
          style="display:inline" />
       <polygon
-         points="142.97,140.885 143.991,139.864 139.172,139.864 140.194,140.885 "
+         points="140.194,140.885 142.97,140.885 143.991,139.864 139.172,139.864 "
          id="polygon4830"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="142.97,143.661 143.991,144.682 143.991,139.864 142.97,140.889 "
+         points="142.97,140.889 142.97,143.661 143.991,144.682 143.991,139.864 "
          id="polygon4832"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="140.194,143.661 139.172,144.682 143.991,144.682 142.97,143.661 "
+         points="142.97,143.661 140.194,143.661 139.172,144.682 143.991,144.682 "
          id="polygon4834"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="140.194,140.885 139.172,139.864 139.172,144.682 140.194,143.659 "
+         points="140.194,143.659 140.194,140.885 139.172,139.864 139.172,144.682 "
          id="polygon4836"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2941,22 +2957,22 @@
          id="rect4840"
          style="display:inline" />
       <polygon
-         points="150.147,140.885 151.168,139.864 146.348,139.864 147.372,140.885 "
+         points="147.372,140.885 150.147,140.885 151.168,139.864 146.348,139.864 "
          id="polygon4842"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="150.147,143.661 151.168,144.682 151.168,139.864 150.147,140.889 "
+         points="150.147,140.889 150.147,143.661 151.168,144.682 151.168,139.864 "
          id="polygon4844"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="147.372,143.661 146.348,144.682 151.168,144.682 150.145,143.661 "
+         points="150.145,143.661 147.372,143.661 146.348,144.682 151.168,144.682 "
          id="polygon4846"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="147.372,140.885 146.348,139.864 146.348,144.682 147.372,143.659 "
+         points="147.372,143.659 147.372,140.885 146.348,139.864 146.348,144.682 "
          id="polygon4848"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -2975,22 +2991,22 @@
          id="rect4852"
          style="display:inline" />
       <polygon
-         points="164.608,140.885 165.629,139.864 160.812,139.864 161.833,140.885 "
+         points="161.833,140.885 164.608,140.885 165.629,139.864 160.812,139.864 "
          id="polygon4854"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="164.608,143.661 165.631,144.682 165.631,139.864 164.608,140.889 "
+         points="164.608,140.889 164.608,143.661 165.631,144.682 165.631,139.864 "
          id="polygon4856"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="161.833,143.661 160.812,144.682 165.629,144.682 164.607,143.661 "
+         points="164.607,143.661 161.833,143.661 160.812,144.682 165.629,144.682 "
          id="polygon4858"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="161.833,140.885 160.812,139.864 160.812,144.682 161.833,143.659 "
+         points="161.833,143.659 161.833,140.885 160.812,139.864 160.812,144.682 "
          id="polygon4860"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3009,22 +3025,22 @@
          id="rect4864"
          style="display:inline" />
       <polygon
-         points="171.786,140.885 172.809,139.864 167.991,139.864 169.012,140.885 "
+         points="169.012,140.885 171.786,140.885 172.809,139.864 167.991,139.864 "
          id="polygon4866"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="171.786,143.661 172.809,144.682 172.809,139.864 171.786,140.889 "
+         points="171.786,140.889 171.786,143.661 172.809,144.682 172.809,139.864 "
          id="polygon4868"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="169.01,143.661 167.991,144.682 172.807,144.682 171.784,143.661 "
+         points="171.784,143.661 169.01,143.661 167.991,144.682 172.807,144.682 "
          id="polygon4870"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="169.01,140.885 167.988,139.864 167.988,144.682 169.01,143.659 "
+         points="169.01,143.659 169.01,140.885 167.988,139.864 167.988,144.682 "
          id="polygon4872"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3043,22 +3059,22 @@
          id="rect4876"
          style="display:inline" />
       <polygon
-         points="178.961,140.885 179.985,139.864 175.165,139.864 176.189,140.885 "
+         points="176.189,140.885 178.961,140.885 179.985,139.864 175.165,139.864 "
          id="polygon4878"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="178.961,143.661 179.985,144.682 179.985,139.864 178.961,140.889 "
+         points="178.961,140.889 178.961,143.661 179.985,144.682 179.985,139.864 "
          id="polygon4880"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="176.189,143.661 175.165,144.682 179.985,144.682 178.961,143.661 "
+         points="178.961,143.661 176.189,143.661 175.165,144.682 179.985,144.682 "
          id="polygon4882"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="176.189,140.885 175.165,139.864 175.165,144.682 176.189,143.659 "
+         points="176.189,143.659 176.189,140.885 175.165,139.864 175.165,144.682 "
          id="polygon4884"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3077,22 +3093,22 @@
          id="rect4888"
          style="display:inline" />
       <polygon
-         points="186.141,140.885 187.163,139.864 182.344,139.864 183.366,140.885 "
+         points="183.366,140.885 186.141,140.885 187.163,139.864 182.344,139.864 "
          id="polygon4890"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="186.141,143.661 187.163,144.682 187.163,139.864 186.141,140.889 "
+         points="186.141,140.889 186.141,143.661 187.163,144.682 187.163,139.864 "
          id="polygon4892"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="183.366,143.661 182.344,144.682 187.163,144.682 186.14,143.661 "
+         points="186.14,143.661 183.366,143.661 182.344,144.682 187.163,144.682 "
          id="polygon4894"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="183.366,140.885 182.344,139.864 182.344,144.682 183.366,143.659 "
+         points="183.366,143.659 183.366,140.885 182.344,139.864 182.344,144.682 "
          id="polygon4896"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3111,22 +3127,22 @@
          id="rect4900"
          style="display:inline" />
       <polygon
-         points="193.318,140.885 194.338,139.864 189.52,139.864 190.543,140.885 "
+         points="190.543,140.885 193.318,140.885 194.338,139.864 189.52,139.864 "
          id="polygon4902"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="193.318,143.661 194.34,144.682 194.34,139.864 193.318,140.889 "
+         points="193.318,140.889 193.318,143.661 194.34,144.682 194.34,139.864 "
          id="polygon4904"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="190.543,143.661 189.52,144.682 194.338,144.682 193.316,143.661 "
+         points="193.316,143.661 190.543,143.661 189.52,144.682 194.338,144.682 "
          id="polygon4906"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="190.543,140.885 189.52,139.864 189.52,144.682 190.543,143.659 "
+         points="190.543,143.659 190.543,140.885 189.52,139.864 189.52,144.682 "
          id="polygon4908"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3145,22 +3161,22 @@
          id="rect4912"
          style="display:inline" />
       <polygon
-         points="200.495,140.885 201.516,139.864 196.698,139.864 197.719,140.885 "
+         points="197.719,140.885 200.495,140.885 201.516,139.864 196.698,139.864 "
          id="polygon4914"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.495,143.661 201.518,144.682 201.518,139.864 200.495,140.889 "
+         points="200.495,140.889 200.495,143.661 201.518,144.682 201.518,139.864 "
          id="polygon4916"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="197.719,143.661 196.698,144.682 201.516,144.682 200.493,143.661 "
+         points="200.493,143.661 197.719,143.661 196.698,144.682 201.516,144.682 "
          id="polygon4918"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="197.719,140.885 196.698,139.864 196.698,144.682 197.719,143.659 "
+         points="197.719,143.659 197.719,140.885 196.698,139.864 196.698,144.682 "
          id="polygon4920"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3179,22 +3195,22 @@
          id="rect4924"
          style="display:inline" />
       <polygon
-         points="114.131,4.11 115.154,3.087 110.334,3.087 111.358,4.11 "
+         points="111.358,4.11 114.131,4.11 115.154,3.087 110.334,3.087 "
          id="polygon4926"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="114.131,6.885 115.154,7.906 115.154,3.087 114.131,4.113 "
+         points="114.131,4.113 114.131,6.885 115.154,7.906 115.154,3.087 "
          id="polygon4928"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="111.358,6.885 110.334,7.906 115.154,7.906 114.129,6.885 "
+         points="114.129,6.885 111.358,6.885 110.334,7.906 115.154,7.906 "
          id="polygon4930"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="111.358,4.11 110.333,3.087 110.333,7.906 111.358,6.883 "
+         points="111.358,6.883 111.358,4.11 110.333,3.087 110.333,7.906 "
          id="polygon4932"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3213,22 +3229,22 @@
          id="rect4936"
          style="display:inline" />
       <polygon
-         points="121.309,4.11 122.331,3.087 117.513,3.087 118.536,4.11 "
+         points="118.536,4.11 121.309,4.11 122.331,3.087 117.513,3.087 "
          id="polygon4938"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="121.309,6.885 122.331,7.906 122.331,3.087 121.309,4.113 "
+         points="121.309,4.113 121.309,6.885 122.331,7.906 122.331,3.087 "
          id="polygon4940"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="118.534,6.885 117.513,7.906 122.331,7.906 121.308,6.885 "
+         points="121.308,6.885 118.534,6.885 117.513,7.906 122.331,7.906 "
          id="polygon4942"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="118.534,4.11 117.512,3.087 117.512,7.906 118.534,6.883 "
+         points="118.534,6.883 118.534,4.11 117.512,3.087 117.512,7.906 "
          id="polygon4944"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3247,22 +3263,22 @@
          id="rect4948"
          style="display:inline" />
       <polygon
-         points="128.488,4.11 129.51,3.087 124.692,3.087 125.711,4.11 "
+         points="125.711,4.11 128.488,4.11 129.51,3.087 124.692,3.087 "
          id="polygon4950"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="128.488,6.885 129.51,7.906 129.51,3.087 128.488,4.113 "
+         points="128.488,4.113 128.488,6.885 129.51,7.906 129.51,3.087 "
          id="polygon4952"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="125.711,6.885 124.692,7.906 129.508,7.906 128.487,6.885 "
+         points="128.487,6.885 125.711,6.885 124.692,7.906 129.508,7.906 "
          id="polygon4954"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="125.711,4.11 124.69,3.087 124.69,7.906 125.711,6.883 "
+         points="125.711,6.883 125.711,4.11 124.69,3.087 124.69,7.906 "
          id="polygon4956"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3281,22 +3297,22 @@
          id="rect4960"
          style="display:inline" />
       <polygon
-         points="135.665,4.11 136.687,3.087 131.868,3.087 132.89,4.11 "
+         points="132.89,4.11 135.665,4.11 136.687,3.087 131.868,3.087 "
          id="polygon4962"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="135.665,6.885 136.687,7.906 136.687,3.087 135.665,4.113 "
+         points="135.665,4.113 135.665,6.885 136.687,7.906 136.687,3.087 "
          id="polygon4964"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="132.89,6.885 131.868,7.906 136.686,7.906 135.663,6.885 "
+         points="135.663,6.885 132.89,6.885 131.868,7.906 136.686,7.906 "
          id="polygon4966"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="132.89,4.11 131.866,3.087 131.866,7.906 132.89,6.883 "
+         points="132.89,6.883 132.89,4.11 131.866,3.087 131.866,7.906 "
          id="polygon4968"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3315,22 +3331,22 @@
          id="rect4972"
          style="display:inline" />
       <polygon
-         points="150.209,4.11 151.232,3.087 146.413,3.087 147.435,4.11 "
+         points="147.435,4.11 150.209,4.11 151.232,3.087 146.413,3.087 "
          id="polygon4974"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="150.209,6.885 151.232,7.906 151.232,3.087 150.209,4.113 "
+         points="150.209,4.113 150.209,6.885 151.232,7.906 151.232,3.087 "
          id="polygon4976"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="147.435,6.885 146.413,7.906 151.232,7.906 150.209,6.885 "
+         points="150.209,6.885 147.435,6.885 146.413,7.906 151.232,7.906 "
          id="polygon4978"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="147.435,4.11 146.413,3.087 146.413,7.906 147.435,6.883 "
+         points="147.435,6.883 147.435,4.11 146.413,3.087 146.413,7.906 "
          id="polygon4980"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3349,22 +3365,22 @@
          id="rect4984"
          style="display:inline" />
       <polygon
-         points="157.388,4.11 158.409,3.087 153.59,3.087 154.616,4.11 "
+         points="154.616,4.11 157.388,4.11 158.409,3.087 153.59,3.087 "
          id="polygon4986"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="157.388,6.885 158.411,7.906 158.411,3.087 157.388,4.113 "
+         points="157.388,4.113 157.388,6.885 158.411,7.906 158.411,3.087 "
          id="polygon4988"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="154.614,6.885 153.59,7.906 158.409,7.906 157.388,6.885 "
+         points="157.388,6.885 154.614,6.885 153.59,7.906 158.409,7.906 "
          id="polygon4990"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="154.614,4.11 153.59,3.087 153.59,7.906 154.614,6.883 "
+         points="154.614,6.883 154.614,4.11 153.59,3.087 153.59,7.906 "
          id="polygon4992"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3383,22 +3399,22 @@
          id="rect4996"
          style="display:inline" />
       <polygon
-         points="164.565,4.11 165.588,3.087 160.769,3.087 161.792,4.11 "
+         points="161.792,4.11 164.565,4.11 165.588,3.087 160.769,3.087 "
          id="polygon4998"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="164.565,6.885 165.588,7.906 165.588,3.087 164.565,4.113 "
+         points="164.565,4.113 164.565,6.885 165.588,7.906 165.588,3.087 "
          id="polygon5000"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="161.79,6.885 160.769,7.906 165.586,7.906 164.565,6.885 "
+         points="164.565,6.885 161.79,6.885 160.769,7.906 165.586,7.906 "
          id="polygon5002"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="161.79,4.11 160.768,3.087 160.768,7.906 161.79,6.883 "
+         points="161.79,6.883 161.79,4.11 160.768,3.087 160.768,7.906 "
          id="polygon5004"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3417,22 +3433,22 @@
          id="rect5008"
          style="display:inline" />
       <polygon
-         points="171.743,4.11 172.765,3.087 167.947,3.087 168.967,4.11 "
+         points="168.967,4.11 171.743,4.11 172.765,3.087 167.947,3.087 "
          id="polygon5010"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="171.743,6.885 172.765,7.906 172.765,3.087 171.743,4.113 "
+         points="171.743,4.113 171.743,6.885 172.765,7.906 172.765,3.087 "
          id="polygon5012"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="168.967,6.885 167.947,7.906 172.765,7.906 171.741,6.885 "
+         points="171.741,6.885 168.967,6.885 167.947,7.906 172.765,7.906 "
          id="polygon5014"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="168.967,4.11 167.947,3.087 167.947,7.906 168.967,6.883 "
+         points="168.967,6.883 168.967,4.11 167.947,3.087 167.947,7.906 "
          id="polygon5016"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3451,22 +3467,22 @@
          id="rect5020"
          style="display:inline" />
       <polygon
-         points="178.92,4.11 179.942,3.087 175.124,3.087 176.146,4.11 "
+         points="176.146,4.11 178.92,4.11 179.942,3.087 175.124,3.087 "
          id="polygon5022"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="178.92,6.885 179.942,7.906 179.942,3.087 178.92,4.113 "
+         points="178.92,4.113 178.92,6.885 179.942,7.906 179.942,3.087 "
          id="polygon5024"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="176.146,6.885 175.124,7.906 179.942,7.906 178.92,6.885 "
+         points="178.92,6.885 176.146,6.885 175.124,7.906 179.942,7.906 "
          id="polygon5026"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="176.146,4.11 175.124,3.087 175.124,7.906 176.146,6.883 "
+         points="176.146,6.883 176.146,4.11 175.124,3.087 175.124,7.906 "
          id="polygon5028"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3485,22 +3501,22 @@
          id="rect5032"
          style="display:inline" />
       <polygon
-         points="186.097,4.11 187.12,3.087 182.301,3.087 183.325,4.11 "
+         points="183.325,4.11 186.097,4.11 187.12,3.087 182.301,3.087 "
          id="polygon5034"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="186.097,6.885 187.12,7.906 187.12,3.087 186.097,4.113 "
+         points="186.097,4.113 186.097,6.885 187.12,7.906 187.12,3.087 "
          id="polygon5036"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="183.325,6.885 182.301,7.906 187.12,7.906 186.097,6.885 "
+         points="186.097,6.885 183.325,6.885 182.301,7.906 187.12,7.906 "
          id="polygon5038"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="183.325,4.11 182.299,3.087 182.299,7.906 183.325,6.883 "
+         points="183.325,6.883 183.325,4.11 182.299,3.087 182.299,7.906 "
          id="polygon5040"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3519,22 +3535,22 @@
          id="rect5044"
          style="display:inline" />
       <polygon
-         points="193.275,4.11 194.297,3.087 189.48,3.087 190.502,4.11 "
+         points="190.502,4.11 193.275,4.11 194.297,3.087 189.48,3.087 "
          id="polygon5046"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="193.275,6.885 194.299,7.906 194.299,3.087 193.275,4.113 "
+         points="193.275,4.113 193.275,6.885 194.299,7.906 194.299,3.087 "
          id="polygon5048"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="190.5,6.885 189.48,7.906 194.297,7.906 193.275,6.885 "
+         points="193.275,6.885 190.5,6.885 189.48,7.906 194.297,7.906 "
          id="polygon5050"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="190.5,4.11 189.476,3.087 189.476,7.906 190.5,6.883 "
+         points="190.5,6.883 190.5,4.11 189.476,3.087 189.476,7.906 "
          id="polygon5052"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3557,35 +3573,35 @@
          id="g5058"
          style="display:inline">
         <polygon
-           points="70.066,15.61 68.558,14.099 64.624,14.099 63.114,15.61 63.114,19.543 63.114,22.884 63.114,26.817 64.624,28.327 68.558,28.327 70.066,26.817 70.066,22.884 70.066,19.543 "
+           points="63.114,15.61 63.114,19.543 63.114,22.884 63.114,26.817 64.624,28.327 68.558,28.327 70.066,26.817 70.066,22.884 70.066,19.543 70.066,15.61 68.558,14.099 64.624,14.099 "
            id="polygon5060"
            style="fill:#02809e" />
         <polygon
-           points="77.25,15.61 75.737,14.099 71.806,14.099 70.295,15.61 70.295,19.543 70.295,22.884 70.295,26.817 71.806,28.327 75.737,28.327 77.25,26.817 77.25,22.884 77.25,19.543 "
+           points="70.295,15.61 70.295,19.543 70.295,22.884 70.295,26.817 71.806,28.327 75.737,28.327 77.25,26.817 77.25,22.884 77.25,19.543 77.25,15.61 75.737,14.099 71.806,14.099 "
            id="polygon5062"
            style="fill:#02809e" />
         <polygon
-           points="84.429,15.61 82.919,14.099 78.985,14.099 77.475,15.61 77.475,19.543 77.475,22.884 77.475,26.817 78.985,28.327 82.919,28.327 84.429,26.817 84.429,22.884 84.429,19.543 "
+           points="77.475,15.61 77.475,19.543 77.475,22.884 77.475,26.817 78.985,28.327 82.919,28.327 84.429,26.817 84.429,22.884 84.429,19.543 84.429,15.61 82.919,14.099 78.985,14.099 "
            id="polygon5064"
            style="fill:#02809e" />
       </g>
       <polygon
-         points="200.454,4.11 201.476,3.087 196.657,3.087 197.679,4.11 "
+         points="197.679,4.11 200.454,4.11 201.476,3.087 196.657,3.087 "
          id="polygon5066"
          style="fill:#2a2a29;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="200.454,6.885 201.476,7.906 201.476,3.087 200.454,4.113 "
+         points="200.454,4.113 200.454,6.885 201.476,7.906 201.476,3.087 "
          id="polygon5068"
          style="fill:#474747;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="197.679,6.885 196.657,7.906 201.474,7.906 200.452,6.885 "
+         points="200.452,6.885 197.679,6.885 196.657,7.906 201.474,7.906 "
          id="polygon5070"
          style="fill:#595959;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
       <polygon
-         points="197.679,4.11 196.657,3.087 196.657,7.906 197.679,6.883 "
+         points="197.679,6.883 197.679,4.11 196.657,3.087 196.657,7.906 "
          id="polygon5072"
          style="fill:#373737;display:inline"
          transform="matrix(1.25,0,0,1.25,241.92875,439.84218)" />
@@ -3929,5 +3945,15 @@
          id="tspan4794"
          x="1622.3175"
          y="2843.3088" /></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4958"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Arial;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Arial;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4960"><rect
+           id="rect4962"
+           width="179.14233"
+           height="52.249847"
+           x="2034.012"
+           y="478.22235" /></flowRegion><flowPara
+         id="flowPara4964"></flowPara></flowRoot>  </g>
 </svg>
