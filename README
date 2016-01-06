@@ -1,14 +1,32 @@
+
 Acordeón Arduino
 ===================
 
 * Español
-Este es un acordeón tamaño carta en español para los programadores de Arduino. La información es tomada principalmente de la Referencia de Lenguaje Arduino (http://arduino.cc/es/Reference/HomePage). Incluye las cosas más comunes, sintáxis básica y funciones incluídas.
+Este es un acordeón tamaño carta en español para los programadores de Arduino. 
+La información es tomada principalmente de la Referencia de Lenguaje Arduino (http://arduino.cc/es/Reference/HomePage). 
+Incluye las cosas más comunes, sintáxis básica y funciones incluídas.
 
-Esta basado en el "Arduino cheat sheet" de liffiton (https://github.com/liffiton/Arduino-Cheat-Sheet), que a su vez está basado en "cheat sheet" de Gavin Smith (http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) y una adaptación SVG por Frederic Dufourg (http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273). Adicionalmente, el dibujo de la placa Arduino Uno está adaptado del dibujo de Arduino Diecimila de Fritzing(http://fritzing.org/).
+Esta basado en el "Arduino cheat sheet" de liffiton (https://github.com/liffiton/Arduino-Cheat-Sheet), 
+que a su vez está basado en "cheat sheet" de Gavin Smith (http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) 
+y una adaptación SVG por Frederic Dufourg (http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273). 
+Adicionalmente, el dibujo de la placa Arduino Uno está adaptado del dibujo de Arduino Diecimila de Fritzing(http://fritzing.org/).
 
 Cualquier error, favor de reportarlo :)
 
-Este trabajo está bajo licencia Atribución-CompartirIgual 3.0 Unported (CC BY-SA 3.0) (http://creativecommons.org/licenses/by-sa/3.0/deed.es)
+Este trabajo está bajo licencia Atribución-CompartirIgual 3.0 Unported (CC BY-SA 3.0) 
+(http://creativecommons.org/licenses/by-sa/3.0/deed.es)
+
+Adapatacion Gráfica
+por Karla L. Hernandez [karla.hdz4@gmail.com]
+
+MODIFICACIONES REALIZADAS:
+= Actualización del vector de arduino de fritzing a la ultima versión a la fecha. [Arduino UNO R3 - 2015]
+= Reorganización de la información del Cheat Sheet o Acordeon, 
+  inspirada en la adaptacion del Arduino Cheat Sheet de Sparkfun Electronics.
+  [https://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf]
+= Organización de vectores por capas, para facilitar la futura modificación del mismo.
+= Creación de Metadata de licencia y autoria en propiedades del documento.
 
 
 Arduino Cheat Sheet
@@ -16,11 +34,26 @@ Arduino Cheat Sheet
 
 * English
 
-This is a letter-sized cheat sheet in spanish for Arduino programmers.  It draws primarily from the Arduino Language Reference(http://arduino.cc/en/Reference/HomePage), including most of the common, basic syntax and a variety of the built-in functions.
+This is a letter-sized cheat sheet in spanish for Arduino programmers.  
+It draws primarily from the Arduino Language Reference(http://arduino.cc/en/Reference/HomePage), 
+including most of the common, basic syntax and a variety of the built-in functions.
 
-It is based on a cheat sheet by Gavin Smith (http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) and an SVG adaptation by Frederic Dufourg(http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273).  Additionally, the Arduino Uno board drawing is adapted from the Arduino Diecimila board drawing in Fritzing(http://fritzing.org/).
+It is based on a cheat sheet by Gavin Smith (http://sites.google.com/site/mechatronicsguy/arduinocheatsheet) 
+and an SVG adaptation by Frederic Dufourg(http://arduino.cc/forum/index.php/topic,7012.msg56273.html#msg56273).  
+Additionally, the Arduino Uno board drawing is adapted from the Arduino Diecimila board drawing in Fritzing(http://fritzing.org/).
 
 Please let me know if you find any errors -- Thanks!
 
-This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License 
+(http://creativecommons.org/licenses/by-sa/3.0/).
 
+Fitting your Graphic
+by Karla L. Hernandez [karla.hdz4@gmail.com]
+
+MODIFICATIONS:
+= Update table Arduino fritzing to the latest version to date. [Arduino UNO R3 - 2015]
+= Rearranging Cheat Sheet information or accordion,
+   inspired adaptation of Arduino Cheat Sheet SparkFun Electronics.
+   [https://dlnmh9ip6v2uc.cloudfront.net/learn/materials/8/Arduino_Cheat_Sheet.pdf]
+= Organization vector layers, to facilitate future modification.
+= Creating Metadata Authoring license and document properties.
