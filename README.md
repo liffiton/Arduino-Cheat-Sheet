@@ -12,6 +12,11 @@ Download
 
 The latest version of the PDF can be downloaded directly from GitHub [here](https://github.com/liffiton/Arduino-Cheat-Sheet/blob/master/Arduino%20Cheat%20Sheet.pdf?raw=true).
 
+Translation
+-----------
+
+A Spanish translation with a redesign and added information is available in [MicroCodeSV/Acordeon-arduino](https://github.com/MicroCodeSV/Acordeon-arduino).
+
 License
 -------
 [![CC BY-SA](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)  
