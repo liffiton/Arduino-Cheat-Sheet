@@ -31,7 +31,7 @@
      inkscape:cx="2304"
      inkscape:cy="1685.5372"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1176"
@@ -4172,7 +4172,8 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:124.00000095%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.71277905"
        x="2000.1484"
        y="563.8703"
-       id="text2071"><tspan
+       id="text2071"
+       sodipodi:linespacing="124%"><tspan
          sodipodi:role="line"
          x="2000.1484"
          y="563.8703"
@@ -4226,7 +4227,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:124.00000095%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:4.71277905"
            id="tspan1999">  int </tspan><tspan
            style="font-weight:bold;stroke-width:4.71277905"
-           id="tspan2001">digitalread</tspan><tspan
+           id="tspan2001">digitalRead</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:124.00000095%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:4.71277905"
            id="tspan2003">(pin)</tspan><tspan
            dx="22.03125"
