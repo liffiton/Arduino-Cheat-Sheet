@@ -2689,7 +2689,7 @@
            y="3050.4121"
            x="4039.9355"
            sodipodi:role="line"
-           id="tspan5052">version: 2018-08-06</tspan></text>
+           id="tspan5052">version: 2021-10-22</tspan></text>
     </a>
     <text
        xml:space="preserve"
@@ -5180,9 +5180,9 @@
          style="font-size:40px;line-height:1.24000001"><tspan
            x="97.404297"
            style="font-weight:bold;line-height:125%;stroke-width:4.71277905"
-           id="tspan2521">boolean</tspan><tspan
+           id="tspan2521">bool</tspan><tspan
            style="fill:#505050;fill-opacity:1;stroke-width:4.71277905"
-           id="tspan2523">        true | false</tspan><tspan
+           id="tspan2523">           true | false</tspan><tspan
            dx="22.03125"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;text-anchor:start;stroke-width:4.71277905"
            id="tspan2525" /></tspan><tspan
