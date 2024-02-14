@@ -6,7 +6,7 @@
    height="3456"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    version="1.0"
    sodipodi:docname="Arduino Cheat Sheet.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -27,14 +27,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29311342"
-     inkscape:cx="2280.6871"
+     inkscape:zoom="0.35185185"
+     inkscape:cx="2304.9474"
      inkscape:cy="1728"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1176"
+     inkscape:window-width="2560"
+     inkscape:window-height="1416"
      inkscape:window-x="0"
      inkscape:window-y="24"
      showguides="false"
@@ -2699,7 +2699,7 @@
            y="3050.4121"
            x="4039.9355"
            sodipodi:role="line"
-           id="tspan5052">version: 2021-10-23</tspan></text>
+           id="tspan5052">version: 2024-02-14</tspan></text>
     </a>
     <text
        xml:space="preserve"
@@ -4009,24 +4009,127 @@
            id="tspan1921">|=</tspan><tspan
            style="fill:#515151;fill-opacity:1;stroke-width:4.71278"
            id="tspan1923">  compound bitwise or</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="84.023438"
-       y="218.45457"
-       id="text7732"><tspan
-         sodipodi:role="line"
-         x="84.023438"
-         y="218.45457"
-         id="tspan7742"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:start;letter-spacing:-3px;word-spacing:-30px;text-anchor:start"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391;fill-opacity:1"
-   id="tspan6738"
-   dx="0">Arduino</tspan> Programming Cheat Sheet</tspan></text>
+    <g
+       aria-label="Arduino Programming Cheat Sheet"
+       id="text7732"
+       style="line-height:0%;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;display:inline">
+      <path
+         d="m 86.823437,218.65457 h 13.800003 l 12.2,-36.6 h 39.4 l 13.8,36.4 h 14.6 l -48.2,-126.799995 h -1.6 z m 62.400003,-47.4 h -33.8 l 16.2,-47.4 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391"
+         id="path16211" />
+      <path
+         d="m 200.82306,127.25457 v 91.4 h 14.4 v -44.4 c 0,-5.6 0.2,-11.6 6.4,-21.4 8.4,-13.2 19.2,-15.4 25.8,-15.4 7.6,0 12.4,3.6 15,6.8 1.2,1.6 1.8,3.2 3.4,4.6 l 6.8,-13.8 c -5.8,-6 -14.2,-10 -24.4,-10 -13.4,0 -27,6.8 -33,19.8 l 0.6,-17.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391"
+         id="path16213" />
+      <path
+         d="m 352.22267,140.45457 c -4.4,-9.4 -14.2,-15.6 -26.8,-15.6 -17.4,0 -38.6,12.4 -38.6,47.2 0,33.8 18.8,48.6 36.4,48.6 11.6,0 22.4,-6.6 28.2,-16.8 v 8 c 0,2.2 0.2,4.4 0.8,6.6 h 14.4 c -0.8,-2.6 -0.8,-5.6 -0.8,-8.4 l -0.2,-118.799995 c 0,-1.2 0,-1.6 0.8,-2.8 0.4,-0.6 1.2,-1.6 1,-3 h -15.2 z m -26.2,-3.8 c 8,0 19.8,4.2 23.4,17.8 1.2,4.2 1.6,9.2 1.6,19.4 0,7 -0.4,12 -2,16.8 -3.4,10.8 -13,17.2 -22.4,17.2 -10.4,0 -25.8,-8 -25.8,-38 0,-26.2 14.6,-33.2 25.2,-33.2 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391"
+         id="path16215" />
+      <path
+         d="m 387.42228,127.25457 v 51 c 0,7.8 0,15.8 3.6,24 5.2,12 16.4,18.6 28.4,18.6 11.4,0 22.2,-6.2 28.2,-16.2 l -0.2,6.8 c 0,2.4 0,4.8 0.4,7 h 15.2 c -1,-2.6 -1.2,-5.6 -1.2,-8.2 v -83 h -14.4 v 50.2 c 0,7 -0.6,12.4 -3.6,18 -4.2,7.8 -12.4,13.6 -21.2,13.6 -7,0 -13.8,-4 -17.4,-11.2 -3.2,-6.4 -3.2,-13.6 -3.2,-19.6 v -51 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391"
+         id="path16217" />
+      <path
+         d="m 493.22191,127.05457 v 11.8 h 22 v 68.2 h -23.2 v 11.4 h 59.2 v -11.4 h -21.4 v -80 z m 29.6,-39.599995 c -5.8,0 -10.4,4.6 -10.4,10.2 0,5.599995 4.6,10.199995 10.4,10.199995 5.8,0 10.4,-4.6 10.4,-10.199995 0,-5.6 -4.6,-10.2 -10.4,-10.2 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391"
+         id="path16219" />
+      <path
+         d="m 582.62155,218.45457 h 14.6 v -52.6 c 0,-6 0.8,-10.6 4.6,-15.6 3.4,-4.6 12.2,-12.8 21.8,-12.8 4.6,0 9.2,2 12.4,5.8 5,6 5,13.8 5,20.2 v 55 h 14.2 v -55.4 c 0,-7 0,-14.6 -3.2,-22 -4.6,-10.2 -14,-16 -24.4,-16 -12.4,0 -23.6,8 -30.4,18.2 v -16 h -14.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391"
+         id="path16221" />
+      <path
+         d="m 758.02112,173.25457 c 0,-31.6 -20,-48 -40.8,-48 -23.2,0 -43.2,20 -43.2,48.4 0,27.8 19.8,47.4 42.8,47.4 21.6,0 41.2,-17.4 41.2,-47.8 z m -41.8,-35.8 c 13.2,0 27.2,11.4 27.2,36.4 0,23 -13.2,34.6 -26.4,34.6 -14.6,0 -27.8,-13.6 -27.8,-36.2 0,-22.4 13,-34.8 27,-34.8 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px;fill:#0f7391"
+         id="path16223" />
+      <path
+         d="M 841.62039,93.854575 V 218.45457 h 14.6 v -55 h 24.4 c 7.8,0 15.2,-0.2 22.8,-4 11.6,-5.8 17.6,-17.8 17.6,-30.4 0,-12.6 -6,-24.8 -17.8,-30.799995 -7.8,-4.2 -15.6,-4.4 -23.6,-4.4 z m 14.6,13.199995 h 23.4 c 5.2,0 10.2,0.2 15.4,2.6 7.6,4 11.8,12 11.8,20 0,8 -4,15.4 -11.2,19 -4.8,2.4 -9.6,2.6 -14.4,2.6 h -25.2 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16225" />
+      <path
+         d="m 946.82002,127.25457 v 91.4 h 14.4 v -44.4 c 0,-5.6 0.2,-11.6 6.4,-21.4 8.4,-13.2 19.2,-15.4 25.8,-15.4 7.59998,0 12.39998,3.6 14.99998,6.8 1.2,1.6 1.8,3.2 3.4,4.6 l 6.8,-13.8 c -5.8,-6 -14.2,-10 -24.39998,-10 -13.4,0 -27,6.8 -33,19.8 l 0.6,-17.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16227" />
+      <path
+         d="m 1116.0197,173.25457 c 0,-31.6 -20,-48 -40.8,-48 -23.2,0 -43.2,20 -43.2,48.4 0,27.8 19.8,47.4 42.8,47.4 21.6,0 41.2,-17.4 41.2,-47.8 z m -41.8,-35.8 c 13.2,0 27.2,11.4 27.2,36.4 0,23 -13.2,34.6 -26.4,34.6 -14.6,0 -27.8,-13.6 -27.8,-36.2 0,-22.4 13,-34.8 27,-34.8 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16229" />
+      <path
+         d="m 1146.0193,155.65457 c 0,-11 9.2,-20 20.2,-20 11.2,0 20.2,9 20.2,20 0,11 -9,20 -20.2,20 -11.2,0 -20.2,-9 -20.2,-20 z m 21,-31.4 c -18.2,0 -34,14.4 -34,32.2 0,10 5,19.4 13.4,24.8 -6.6,5.6 -10.4,11.8 -10.4,17.6 0,3.8 1.6,9.2 7.4,12.2 -9.8,6.2 -14.8,13 -14.8,20.2 0,10 9.2,21.8 41.2,21.8 31,0 42.2,-15.8 42.2,-28 0,-8 -4.6,-16 -14.2,-19.8 -9.6,-4 -20.6,-2.6 -31,-2.6 -6.8,0 -11.2,-0.6 -13,-1.2 -3.6,-1 -5.6,-3.2 -5.6,-6 0,-4.8 5.6,-9.4 6.6,-10.2 3.6,1.4 7.6,2 11.6,2 18,0 32.8,-14.4 32.8,-31.2 0,-5.6 -1.6,-11 -4.6,-15.6 4.8,-2.8 10.4,-4.4 16,-4.4 1.8,0 3.4,0.2 5.2,0.6 l -1.6,-11.8 c -9.2,-0.8 -18.4,2.2 -25.4,8 -5.8,-5.6 -13.4,-8.6 -21.8,-8.6 z m -13.8,89.4 c 3.4,0.4 8.2,0.8 15.2,1.2 6.8,0.2 14.2,-0.4 19.4,0.4 8.4,1.4 11,6.6 11,10.6 0,4 -2.4,8.8 -8.6,12.2 -6.8,3.6 -14.4,4 -20.6,4 -4.2,0 -12,-0.2 -18.8,-3 -7.4,-3 -9,-8 -9,-11.2 0,-6.6 6.2,-11.4 11.4,-14.2 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16231" />
+      <path
+         d="m 1237.8188,127.25457 v 91.4 h 14.4 v -44.4 c 0,-5.6 0.2,-11.6 6.4,-21.4 8.4,-13.2 19.2,-15.4 25.8,-15.4 7.6,0 12.4,3.6 15,6.8 1.2,1.6 1.8,3.2 3.4,4.6 l 6.8,-13.8 c -5.8,-6 -14.2,-10 -24.4,-10 -13.4,0 -27,6.8 -33,19.8 l 0.6,-17.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16233" />
+      <path
+         d="m 1333.0184,137.85457 7,9.2 c 7.6,-7.8 17.8,-10.2 26.4,-10.2 10.8,0 16.2,4.6 18.8,8.8 3,5 2.8,11 2.8,15.8 v 3.2 h -2.8 c -13.6,0 -28,0 -39.6,4.2 -14.4,5.2 -20.8,16 -20.8,26 0,13.4 11.6,26 30.6,26 11.2,0 22.8,-4.2 32.8,-12.4 v 10 h 13.6 v -56.6 c 0,-7.4 -0.2,-14.4 -4.4,-21.6 -6,-9.8 -17.6,-15 -31.8,-15 -12.2,0 -24,3.8 -32.6,12.6 z m 55.6,37.8 v 6.2 c 0,4.6 0,10.6 -6.2,17.2 -3.4,3.4 -12,10.8 -24,10.8 -12.2,0 -19.2,-7.8 -19.2,-15.8 0,-6.8 4.6,-14.2 16,-17 8.4,-2 20.6,-1.4 30.2,-1.4 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16235" />
+      <path
+         d="m 1419.4181,218.45457 h 13.2 v -60.8 c 0,-4.4 0.4,-8.4 3,-13.2 3.2,-6 7.2,-8.4 11,-8.4 3.2,0 6.8,2 8.4,7 1.2,3.8 1,8.2 1,12 v 63.4 h 13.4 v -60.4 c 0,-4.8 0.4,-8.6 3.8,-14.4 1.6,-2.4 5,-8.2 10.6,-8.2 3,0 5.8,1.8 7.2,5.2 1.8,3.8 1.4,9 1.4,13.2 v 64.8 h 13.6 v -65 c 0,-7.6 0.2,-15.2 -3.8,-21.4 -3.4,-5.2 -9.2,-7.2 -14.2,-7.2 -8.8,0 -17,5.2 -20.6,13.2 -1.4,-7.6 -7.8,-13.2 -16,-13.2 -7.6,0 -14.6,4.8 -18.8,11.2 l 0.2,-9 h -13.4 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16237" />
+      <path
+         d="m 1516.4177,218.45457 h 13.2 v -60.8 c 0,-4.4 0.4,-8.4 3,-13.2 3.2,-6 7.2,-8.4 11,-8.4 3.2,0 6.8,2 8.4,7 1.2,3.8 1,8.2 1,12 v 63.4 h 13.4 v -60.4 c 0,-4.8 0.4,-8.6 3.8,-14.4 1.6,-2.4 5,-8.2 10.6,-8.2 3,0 5.8,1.8 7.2,5.2 1.8,3.8 1.4,9 1.4,13.2 v 64.8 h 13.6 v -65 c 0,-7.6 0.2,-15.2 -3.8,-21.4 -3.4,-5.2 -9.2,-7.2 -14.2,-7.2 -8.8,0 -17,5.2 -20.6,13.2 -1.4,-7.6 -7.8,-13.2 -16,-13.2 -7.6,0 -14.6,4.8 -18.8,11.2 l 0.2,-9 h -13.4 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16239" />
+      <path
+         d="m 1627.2173,127.05457 v 11.8 h 22 v 68.2 h -23.2 v 11.4 h 59.2 v -11.4 h -21.4 v -80 z m 29.6,-39.599995 c -5.8,0 -10.4,4.6 -10.4,10.2 0,5.599995 4.6,10.199995 10.4,10.199995 5.8,0 10.4,-4.6 10.4,-10.199995 0,-5.6 -4.6,-10.2 -10.4,-10.2 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16241" />
+      <path
+         d="m 1716.617,218.45457 h 14.6 v -52.6 c 0,-6 0.8,-10.6 4.6,-15.6 3.4,-4.6 12.2,-12.8 21.8,-12.8 4.6,0 9.2,2 12.4,5.8 5,6 5,13.8 5,20.2 v 55 h 14.2 v -55.4 c 0,-7 0,-14.6 -3.2,-22 -4.6,-10.2 -14,-16 -24.4,-16 -12.4,0 -23.6,8 -30.4,18.2 v -16 h -14.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16243" />
+      <path
+         d="m 1825.0166,155.65457 c 0,-11 9.2,-20 20.2,-20 11.2,0 20.2,9 20.2,20 0,11 -9,20 -20.2,20 -11.2,0 -20.2,-9 -20.2,-20 z m 21,-31.4 c -18.2,0 -34,14.4 -34,32.2 0,10 5,19.4 13.4,24.8 -6.6,5.6 -10.4,11.8 -10.4,17.6 0,3.8 1.6,9.2 7.4,12.2 -9.8,6.2 -14.8,13 -14.8,20.2 0,10 9.2,21.8 41.2,21.8 31,0 42.2,-15.8 42.2,-28 0,-8 -4.6,-16 -14.2,-19.8 -9.6,-4 -20.6,-2.6 -31,-2.6 -6.8,0 -11.2,-0.6 -13,-1.2 -3.6,-1 -5.6,-3.2 -5.6,-6 0,-4.8 5.6,-9.4 6.6,-10.2 3.6,1.4 7.6,2 11.6,2 18,0 32.8,-14.4 32.8,-31.2 0,-5.6 -1.6,-11 -4.6,-15.6 4.8,-2.8 10.4,-4.4 16,-4.4 1.8,0 3.4,0.2 5.2,0.6 l -1.6,-11.8 c -9.2,-0.8 -18.4,2.2 -25.4,8 -5.8,-5.6 -13.4,-8.6 -21.8,-8.6 z m -13.8,89.4 c 3.4,0.4 8.2,0.8 15.2,1.2 6.8,0.2 14.2,-0.4 19.4,0.4 8.4,1.4 11,6.6 11,10.6 0,4 -2.4,8.8 -8.6,12.2 -6.8,3.6 -14.4,4 -20.6,4 -4.2,0 -12,-0.2 -18.8,-3 -7.4,-3 -9,-8 -9,-11.2 0,-6.6 6.2,-11.4 11.4,-14.2 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16245" />
+      <path
+         d="m 2019.4159,92.854575 c -19.4,0 -47.4,14.199995 -47.4,64.199995 0,48 26.8,63.6 47.4,63.6 14.8,0 28.6,-7.8 36.4,-20.6 l -10.2,-6.6 c -5.8,9.4 -15.8,15 -25.4,15 -18.4,0 -34.6,-19 -34.6,-52.8 0,-33 15.8,-51.6 33.4,-51.6 9.6,0 18.8,5.8 23.8,14.6 0.4,0.6 0.8,1.2 0.8,2 0,0.6 -0.2,1 -0.2,1.6 0,0.2 0,1.2 1,1.8 l 13.2,-6.4 c -6.6,-15 -21.6,-24.799995 -38.2,-24.799995 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16247" />
+      <path
+         d="m 2074.8154,218.45457 h 14.8 v -52.6 c 0,-6 0.6,-10.6 4.4,-15.6 3.6,-4.6 12.4,-12.8 22,-12.8 4.6,0 9.2,2 12.4,5.8 5,6 5,13.8 5,20.2 v 55 h 14.2 v -55.4 c 0,-7 -0.2,-14.6 -3.4,-22 -4.6,-10.2 -13.8,-16 -24.2,-16 -12.4,0 -23.8,8 -30.4,18.2 V 90.254575 c 0,-0.6 0,-1.2 0.6,-1.8 0.6,-0.6 1.4,-1.2 1.4,-2.2 0,-0.2 0,-0.4 -0.2,-0.6 h -16.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16249" />
+      <path
+         d="m 2209.6151,125.05457 c -21.8,0 -42,15.6 -42,48.8 0,30.6 19,46.8 43.8,46.8 13.2,0 25,-4.8 32.8,-14.2 l -8,-7.8 c -5.8,6.8 -14.6,10.4 -23.6,10.4 -12.2,0 -30,-6.8 -31,-34.2 h 64.8 c 0.6,-6.2 0.4,-12.2 -0.6,-17.4 -4.2,-24.6 -21.2,-32.4 -36.2,-32.4 z m -27.6,38.8 c 3,-21.6 16.8,-27.8 26.6,-27.8 14.8,0 25.4,13 23.6,27.8 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16251" />
+      <path
+         d="m 2273.0146,137.85457 7,9.2 c 7.6,-7.8 17.8,-10.2 26.4,-10.2 10.8,0 16.2,4.6 18.8,8.8 3,5 2.8,11 2.8,15.8 v 3.2 h -2.8 c -13.6,0 -28,0 -39.6,4.2 -14.4,5.2 -20.8,16 -20.8,26 0,13.4 11.6,26 30.6,26 11.2,0 22.8,-4.2 32.8,-12.4 v 10 h 13.6 v -56.6 c 0,-7.4 -0.2,-14.4 -4.4,-21.6 -6,-9.8 -17.6,-15 -31.8,-15 -12.2,0 -24,3.8 -32.6,12.6 z m 55.6,37.8 v 6.2 c 0,4.6 0,10.6 -6.2,17.2 -3.4,3.4 -12,10.8 -24,10.8 -12.2,0 -19.2,-7.8 -19.2,-15.8 0,-6.8 4.6,-14.2 16,-17 8.4,-2 20.6,-1.4 30.2,-1.4 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16253" />
+      <path
+         d="m 2389.6142,102.65457 -1.8,24.6 h -21.8 l -0.2,11.8 h 21.4 c -1.2,15.6 -1.8,31.2 -1.8,46.6 0,8.2 0,17.4 5.4,25 4.4,6 11.4,9.6 20.8,9.6 10.8,0 21.4,-4.6 29.2,-10.2 l -4.4,-11.4 c -7.8,5.8 -15,8.4 -20.6,8.4 -6.8,0 -13.8,-3.8 -15.4,-14.8 0,-0.8 -0.6,-4.2 -0.6,-17.6 0,-11.8 0.6,-23.8 1.8,-35.6 h 30 v -12 h -29.8 c 0,0 1.4,-16.4 2.4,-21.6 0.2,-2 1.8,-3.2 1,-5.4 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16255" />
+      <path
+         d="m 2602.8134,108.85457 c -8.4,-10.199995 -20.8,-15.599995 -34.4,-15.599995 -22.6,0 -38,14.799995 -38,31.999995 0,7.2 2.8,16.6 13.2,24.2 11.6,8.6 29.6,12.8 39,18.8 8.2,5 10.4,11.6 10.4,17.2 0,10.8 -9.2,22.6 -27.2,22.6 -13.6,0 -24.2,-6.8 -29.8,-13.8 -0.6,-0.8 -0.6,-1.2 -0.6,-2 0,-0.4 0,-1.6 -0.8,-2 l -8.4,14.4 c 9.8,10.6 23.8,16 39.2,16 30.4,0 41.6,-20.4 41.6,-36 0,-6.6 -2,-15.2 -9.8,-22.6 -10.8,-10.2 -28.4,-13.8 -39.8,-20.4 -10.4,-6.2 -12.6,-13.6 -12.6,-18.6 0,-9.6 8.2,-18.2 22.4,-18.2 11.6,0 20.6,5.2 25.4,12.2 0.6,0.8 0.4,1.2 0.4,2 0,1.2 0.6,1.6 1,1.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16257" />
+      <path
+         d="m 2626.8132,218.45457 h 14.8 v -52.6 c 0,-6 0.6,-10.6 4.4,-15.6 3.6,-4.6 12.4,-12.8 22,-12.8 4.6,0 9.2,2 12.4,5.8 5,6 5,13.8 5,20.2 v 55 h 14.2 v -55.4 c 0,-7 -0.2,-14.6 -3.4,-22 -4.6,-10.2 -13.8,-16 -24.2,-16 -12.4,0 -23.8,8 -30.4,18.2 V 90.254575 c 0,-0.6 0,-1.2 0.6,-1.8 0.6,-0.6 1.4,-1.2 1.4,-2.2 0,-0.2 0,-0.4 -0.2,-0.6 h -16.6 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16259" />
+      <path
+         d="m 2761.6127,125.05457 c -21.8,0 -42,15.6 -42,48.8 0,30.6 19,46.8 43.8,46.8 13.2,0 25,-4.8 32.8,-14.2 l -8,-7.8 c -5.8,6.8 -14.6,10.4 -23.6,10.4 -12.2,0 -30,-6.8 -31,-34.2 h 64.8 c 0.6,-6.2 0.4,-12.2 -0.6,-17.4 -4.2,-24.6 -21.2,-32.4 -36.2,-32.4 z m -27.6,38.8 c 3,-21.6 16.8,-27.8 26.6,-27.8 14.8,0 25.4,13 23.6,27.8 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16261" />
+      <path
+         d="m 2858.6125,125.05457 c -21.8,0 -42,15.6 -42,48.8 0,30.6 19,46.8 43.8,46.8 13.2,0 25,-4.8 32.8,-14.2 l -8,-7.8 c -5.8,6.8 -14.6,10.4 -23.6,10.4 -12.2,0 -30,-6.8 -31,-34.2 h 64.8 c 0.6,-6.2 0.4,-12.2 -0.6,-17.4 -4.2,-24.6 -21.2,-32.4 -36.2,-32.4 z m -27.6,38.8 c 3,-21.6 16.8,-27.8 26.6,-27.8 14.8,0 25.4,13 23.6,27.8 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16263" />
+      <path
+         d="m 2941.612,102.65457 -1.8,24.6 h -21.8 l -0.2,11.8 h 21.4 c -1.2,15.6 -1.8,31.2 -1.8,46.6 0,8.2 0,17.4 5.4,25 4.4,6 11.4,9.6 20.8,9.6 10.8,0 21.4,-4.6 29.2,-10.2 l -4.4,-11.4 c -7.8,5.8 -15,8.4 -20.6,8.4 -6.8,0 -13.8,-3.8 -15.4,-14.8 0,-0.8 -0.6,-4.2 -0.6,-17.6 0,-11.8 0.6,-23.8 1.8,-35.6 h 30 v -12 h -29.8 c 0,0 1.4,-16.4 2.4,-21.6 0.2,-2 1.8,-3.2 1,-5.4 z"
+         style="font-weight:500;font-size:200px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:-3px;word-spacing:-30px"
+         id="path16265" />
+    </g>
     <a
        style="display:inline"
        id="a5190"
-       xlink:href="https://www.arduino.cc/en/Reference/"
+       xlink:href="https://www.arduino.cc/reference/en/"
        transform="translate(2903.1317,2415.6931)">
       <text
          id="text7755"
@@ -4039,11 +4142,11 @@
            x="1624.6289"
            id="tspan7757"
            sodipodi:role="line">Primary source: Arduino Language Reference</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:end;text-anchor:end;fill:#0f7491;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:100%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:end;text-anchor:end;fill:#0f7491;fill-opacity:1"
            id="tspan7763"
            y="-2199.8325"
-           x="1624.6289"
-           sodipodi:role="line">https://arduino.cc/en/Reference/</tspan></text>
+           x="1624.629"
+           sodipodi:role="line">https://www.arduino.cc/reference/en/</tspan></text>
     </a>
     <text
        xml:space="preserve"

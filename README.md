@@ -1,7 +1,7 @@
 Arduino Cheat Sheet
 ===================
 
-This is a page- or poster-sized cheat sheet for Arduino programmers.  It draws primarily from the [Arduino Language Reference](https://arduino.cc/en/Reference/HomePage), including most of the common, basic syntax and a variety of the built-in functions.
+This is a page- or poster-sized cheat sheet for Arduino programmers.  It draws primarily from the [Arduino Language Reference](https://www.arduino.cc/reference/en/), including most of the common, basic syntax and a variety of the built-in functions.
 
 <p align="center">
   <a href="https://github.com/liffiton/Arduino-Cheat-Sheet/blob/master/Arduino%20Cheat%20Sheet.pdf?raw=true"><img src="Arduino%20Cheat%20Sheet.svg?raw=true&sanitize=1" width="60%" alt="Cheat Sheet"></a>
